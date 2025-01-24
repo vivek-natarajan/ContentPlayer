@@ -1,0 +1,113 @@
+**Instruction to AI**: Please read the following requirements (the PRD) carefully. Then generate **three files**—`index.html`, `styles.css`, and `script.js`—that implement the described **Worksheet Player** using **plain HTML, CSS, and JavaScript**. 
+
+---
+# PRD: Minimal Worksheet Player in Plain HTML, CSS, & JS
+
+## 1. Overview
+We want a web-based player to display “worksheets” nested by:
+1. Grade
+2. Subject
+3. Chapter
+4. Worksheet
+
+Users should:
+- Select a **Grade** → see **Subjects**
+- Select a **Subject** → see **Chapters**
+- Select a **Chapter** → see **Worksheets**
+- Select a **Worksheet** → see its title & questions
+- Click a **Back** button (or something similar) to return to the previous level.
+
+No frameworks or libraries—just vanilla HTML, CSS, JS.
+
+## 2. Data Structure
+Use this example data (hardcoded in `script.js`) to demonstrate the hierarchy. You can expand or edit as needed, but ensure at least two levels of data:
+
+```js
+const contentData = [
+  {
+    gradeId: 1,
+    gradeName: "Grade 1",
+    subjects: [
+      {
+        subjectId: 101,
+        subjectName: "Math",
+        chapters: [
+          {
+            chapterId: 1001,
+            chapterName: "Numbers",
+            worksheets: [
+              {
+                worksheetId: 50001,
+                title: "Basic Counting",
+                questions: [
+                  { questionId: 1, questionText: "Count from 1 to 10." },
+                  { questionId: 2, questionText: "What comes after 3?" }
+                ]
+              },
+              {
+                worksheetId: 50002,
+                title: "Simple Addition",
+                questions: [
+                  { questionId: 3, questionText: "2 + 2 = ?" },
+                  { questionId: 4, questionText: "5 + 1 = ?" }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    gradeId: 2,
+    gradeName: "Grade 2",
+    subjects: [
+      {
+        subjectId: 201,
+        subjectName: "Science",
+        chapters: [
+          {
+            chapterId: 2001,
+            chapterName: "Plants",
+            worksheets: [
+              {
+                worksheetId: 60001,
+                title: "Basic Botany",
+                questions: [
+                  { questionId: 5, questionText: "Name a green plant." },
+                  { questionId: 6, questionText: "What do plants need to grow?" }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+];
+
+3. Functional Requirements
+	1.	Render Grades: Display a clickable list of gradeName for all items in contentData.
+	2.	On Grade Click: Show the subjects for that grade.
+	3.	On Subject Click: Show the chapters for that subject.
+	4.	On Chapter Click: Show the worksheets for that chapter.
+	5.	On Worksheet Click: Display:
+	•	Worksheet title
+	•	Each question’s text
+	6.	Navigation:
+	•	Provide a Back button to go up one level (e.g., from Worksheet → Chapter → Subject → Grade).
+	•	(Optional) Additional UI is fine, but minimal is okay.
+
+4. Non-Functional / Constraints
+	•	Must work in a modern web browser by simply opening index.html.
+	•	Use separate files: index.html, styles.css, and script.js.
+	•	Keep it well-commented and easy to read.
+	•	No external frameworks or libraries.
+
+5. Acceptance Criteria
+	•	A user can open index.html, click on a Grade → Subject → Chapter → Worksheet, and see the final worksheet’s title & questions.
+	•	User can navigate back at least one level at a time.
+	•	The code is vanilla (HTML, CSS, JS), no frameworks.
+
+Your Task:
+Generate the complete code for index.html, styles.css, and script.js to fulfill this PRD.

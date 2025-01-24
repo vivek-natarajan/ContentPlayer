@@ -1,0 +1,870 @@
+[
+  {
+    "id": "femh101",
+    "metadata": {
+      "book": "NCERT: Mathematics - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-89tZkiEvV7SxmJwWexPQgS",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/mathematics/femh101.pdf",
+      "subject": "Mathematics",
+      "timestamp": "2024-12-23T10:15:06.253Z",
+      "chapterNumber": 1,
+      "chapterName": "Knowing Our Numbers"
+    }
+  },
+  {
+    "id": "femh102",
+    "metadata": {
+      "book": "NCERT: Mathematics - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-FJwpJqgt2qvMTbom1FRbLi",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/mathematics/femh102.pdf",
+      "subject": "Mathematics",
+      "timestamp": "2024-12-23T10:15:54.973Z",
+      "chapterNumber": 2,
+      "chapterName": "Whole Numbers"
+    }
+  },
+  {
+    "id": "femh103",
+    "metadata": {
+      "book": "NCERT: Mathematics - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-UvyJei9SGw8afPnBRNwJAu",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/mathematics/femh103.pdf",
+      "subject": "Mathematics",
+      "timestamp": "2024-12-23T10:17:02.301Z",
+      "chapterNumber": 3,
+      "chapterName": "Playing with Numbers"
+    }
+  },
+  {
+    "id": "femh104",
+    "metadata": {
+      "book": "NCERT: Mathematics - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-GFsPmKJLmJDGsJMPWHSnvD",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/mathematics/femh104.pdf",
+      "subject": "Mathematics",
+      "timestamp": "2024-12-23T10:17:58.836Z",
+      "chapterNumber": 4,
+      "chapterName": "Basic Geometrical Ideas"
+    }
+  },
+  {
+    "id": "femh105",
+    "metadata": {
+      "book": "NCERT: Mathematics - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-N1xm2KeBw3CzeakcUtMFGk",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/mathematics/femh105.pdf",
+      "subject": "Mathematics",
+      "timestamp": "2024-12-23T10:19:00.576Z",
+      "chapterNumber": 5,
+      "chapterName": "Understanding Elementary Shapes"
+    }
+  },
+  {
+    "id": "femh106",
+    "metadata": {
+      "book": "NCERT: Mathematics - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-2JdnKTtacLUgMPNy9Yh9aj",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/mathematics/femh106.pdf",
+      "subject": "Mathematics",
+      "timestamp": "2024-12-23T10:20:05.749Z",
+      "chapterNumber": 6,
+      "chapterName": "Integers"
+    }
+  },
+  {
+    "id": "femh107",
+    "metadata": {
+      "book": "NCERT: Mathematics - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-L5BzU1y8Qq738uCaKkW6L2",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/mathematics/femh107.pdf",
+      "subject": "Mathematics",
+      "timestamp": "2024-12-23T10:20:09.742Z",
+      "chapterNumber": 7,
+      "chapterName": "Fractions"
+    }
+  },
+  {
+    "id": "femh108",
+    "metadata": {
+      "book": "NCERT: Mathematics - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-NRVDZAc15bsbqSDnVwDMwu",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/mathematics/femh108.pdf",
+      "subject": "Mathematics",
+      "timestamp": "2024-12-23T10:21:16.558Z",
+      "chapterNumber": 8,
+      "chapterName": "Decimals"
+    }
+  },
+  {
+    "id": "femh109",
+    "metadata": {
+      "book": "NCERT: Mathematics - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-U2BcpL1qC2VbDm4F7LeC81",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/mathematics/femh109.pdf",
+      "subject": "Mathematics",
+      "timestamp": "2024-12-23T10:23:48.710Z",
+      "chapterNumber": 9,
+      "chapterName": "Data Handling"
+    }
+  },
+  {
+    "id": "femh110",
+    "metadata": {
+      "book": "NCERT: Mathematics - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-3Z2Heouc3RdVBWaZMQ4u2v",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/mathematics/femh110.pdf",
+      "subject": "Mathematics",
+      "timestamp": "2024-12-23T10:24:59.608Z",
+      "chapterNumber": 10,
+      "chapterName": "Mensuration"
+    }
+  },
+  {
+    "id": "femh111",
+    "metadata": {
+      "book": "NCERT: Mathematics - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-NVBrw9zDaDmQCkJW1tpRwc",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/mathematics/femh111.pdf",
+      "subject": "Mathematics",
+      "timestamp": "2024-12-23T10:25:59.039Z",
+      "chapterNumber": 11,
+      "chapterName": "Algebra"
+    }
+  },
+  {
+    "id": "femh112",
+    "metadata": {
+      "book": "NCERT: Mathematics - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-7j5XeRJpJY1RLKTMrjWcMa",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/mathematics/femh112.pdf",
+      "subject": "Mathematics",
+      "timestamp": "2024-12-23T10:26:54.357Z",
+      "chapterNumber": 12,
+      "chapterName": "Ratio and Proportion"
+    }
+  },
+  {
+    "id": "fesc101",
+    "metadata": {
+      "book": "NCERT: Science - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-WEYoNV27sem7kRooVPujN6",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/science/fesc101.pdf",
+      "subject": "Science",
+      "timestamp": "2024-12-23T11:01:56.926Z",
+      "chapterNumber": 1,
+      "chapterName": "Components of Food"
+    }
+  },
+  {
+    "id": "fesc102",
+    "metadata": {
+      "book": "NCERT: Science - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-FKiZQtaZQQvzzd6fyNUakq",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/science/fesc102.pdf",
+      "subject": "Science",
+      "timestamp": "2024-12-23T11:02:56.355Z",
+      "chapterNumber": 2,
+      "chapterName": "Sorting Materials into Groups"
+    }
+  },
+  {
+    "id": "fesc103",
+    "metadata": {
+      "book": "NCERT: Science - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-VhNPm8DVdVEozxJWzwiLo7",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/science/fesc103.pdf",
+      "subject": "Science",
+      "timestamp": "2024-12-23T13:19:23.932Z",
+      "chapterNumber": 3,
+      "chapterName": "Separation of Substances"
+    }
+  },
+  {
+    "id": "fesc104",
+    "metadata": {
+      "book": "NCERT: Science - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-GyZeXDixhnq3N19iFCuzjB",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/science/fesc104.pdf",
+      "subject": "Science",
+      "timestamp": "2024-12-23T13:38:00.302Z",
+      "chapterNumber": 4,
+      "chapterName": "Getting to Know Plants"
+    }
+  },
+  {
+    "id": "fesc105",
+    "metadata": {
+      "book": "NCERT: Science - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-Bjnk8GCoHJAmc8ACDN4aZK",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/science/fesc105.pdf",
+      "subject": "Science",
+      "timestamp": "2024-12-23T13:39:15.948Z",
+      "chapterNumber": 5,
+      "chapterName": "Body Movements"
+    }
+  },
+  {
+    "id": "fesc106",
+    "metadata": {
+      "book": "NCERT: Science - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-WQZ91Dc47iRSErbsqjhV4r",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/science/fesc106.pdf",
+      "subject": "Science",
+      "timestamp": "2024-12-23T13:46:59.316Z",
+      "chapterNumber": 6,
+      "chapterName": "The Living Organisms — Characteristics and Habitats"
+    }
+  },
+  {
+    "id": "fesc107",
+    "metadata": {
+      "book": "NCERT: Science - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-ATEiyqKSjhRB8zsUxQn465",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/science/fesc107.pdf",
+      "subject": "Science",
+      "timestamp": "2024-12-23T13:48:03.833Z",
+      "chapterNumber": 7,
+      "chapterName": "Motion and Measurement of Distances"
+    }
+  },
+  {
+    "id": "fesc108",
+    "metadata": {
+      "book": "NCERT: Science - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-4uvRS2CjFXBgqKtW6fJSvt",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/science/fesc108.pdf",
+      "subject": "Science",
+      "timestamp": "2024-12-23T13:49:07.246Z",
+      "chapterNumber": 8,
+      "chapterName": "Light, Shadows, and Reflections"
+    }
+  },
+  {
+    "id": "fesc109",
+    "metadata": {
+      "book": "NCERT: Science - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-JZaXcZ6eCYbCEjVedmC36F",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/science/fesc109.pdf",
+      "subject": "Science",
+      "timestamp": "2024-12-23T13:50:00.288Z",
+      "chapterNumber": 9,
+      "chapterName": "Electricity and Circuits"
+    }
+  },
+  {
+    "id": "fesc110",
+    "metadata": {
+      "book": "NCERT: Science - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-Jtsj8zXGG3atQAKVYNXYJX",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/science/fesc110.pdf",
+      "subject": "Science",
+      "timestamp": "2024-12-23T13:50:55.839Z",
+      "chapterNumber": 10,
+      "chapterName": "Fun with Magnets"
+    }
+  },
+  {
+    "id": "fesc111",
+    "metadata": {
+      "book": "NCERT: Science - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-VUC3nbX212RcvRYj1j8PT9",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/science/fesc111.pdf",
+      "subject": "Science",
+      "timestamp": "2024-12-23T13:51:53.408Z",
+      "chapterNumber": 11,
+      "chapterName": "Air Around Us"
+    }
+  },
+  {
+    "id": "fess101",
+    "metadata": {
+      "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-8kJdTUThofWb9NUds2CK1b",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/history/fess101.pdf",
+      "subject": "History",
+      "timestamp": "2024-12-23T13:57:45.906Z",
+      "chapterNumber": 1,
+      "chapterName": "Introduction: What, Where, How and When?"
+    }
+  },
+  {
+    "id": "fess102",
+    "metadata": {
+      "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-FkkX65xoyEvgr3SmvhpapG",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/history/fess102.pdf",
+      "subject": "History",
+      "timestamp": "2024-12-23T13:58:34.514Z",
+      "chapterNumber": 2,
+      "chapterName": "From Hunting–Gathering to Growing Food"
+    }
+  },
+  {
+    "id": "fess103",
+    "metadata": {
+      "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-3uAdU1L4ampZgGmNpjGe4H",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/history/fess103.pdf",
+      "subject": "History",
+      "timestamp": "2024-12-23T13:59:27.254Z",
+      "chapterNumber": 3,
+      "chapterName": "In the Earliest Cities"
+    }
+  },
+  {
+    "id": "fess104",
+    "metadata": {
+      "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-NuzDC338G8APyq4g1GwzYe",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/history/fess104.pdf",
+      "subject": "History",
+      "timestamp": "2024-12-23T14:00:18.986Z",
+      "chapterNumber": 4,
+      "chapterName": "What Books and Burials Tell Us"
+    }
+  },
+  {
+    "id": "fess105",
+    "metadata": {
+      "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-ScRspEWRHtupiqjQo9x33s",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/history/fess105.pdf",
+      "subject": "History",
+      "timestamp": "2024-12-23T14:01:23.860Z",
+      "chapterNumber": 5,
+      "chapterName": "Kingdoms, Kings and An Early Republic"
+    }
+  },
+  {
+    "id": "fess106",
+    "metadata": {
+      "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-6hstDtFSuMAZKk2wUZTNu6",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/history/fess106.pdf",
+      "subject": "History",
+      "timestamp": "2024-12-23T14:02:20.359Z",
+      "chapterNumber": 6,
+      "chapterName": "New Questions and Ideas"
+    }
+  },
+  {
+    "id": "fess107",
+    "metadata": {
+      "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-7vqdpVNQUixpS7P8qd7uM5",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/history/fess107.pdf",
+      "subject": "History",
+      "timestamp": "2024-12-23T14:03:10.776Z",
+      "chapterNumber": 7,
+      "chapterName": "From a Kingdom to an Empire"
+    }
+  },
+  {
+    "id": "fess108",
+    "metadata": {
+      "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-B2Qh6Z8Lk1J6R721UEjEB4",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/history/fess108.pdf",
+      "subject": "History",
+      "timestamp": "2024-12-23T14:04:13.610Z",
+      "chapterNumber": 8,
+      "chapterName": "Villages, Towns and Trade"
+    }
+  },
+  {
+    "id": "fess109",
+    "metadata": {
+      "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-UyTyRvsGs8ppayrbqJmxoG",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/history/fess109.pdf",
+      "subject": "History",
+      "timestamp": "2024-12-23T14:05:13.843Z",
+      "chapterNumber": 9,
+      "chapterName": "New Empires and Kingdoms"
+    }
+  },
+  {
+    "id": "fess110",
+    "metadata": {
+      "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-LynX8HH14uscecAKK7vuve",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/history/fess110.pdf",
+      "subject": "History",
+      "timestamp": "2024-12-23T14:06:02.565Z",
+      "chapterNumber": 10,
+      "chapterName": "Buildings, Paintings, and Books"
+    }
+  },
+  {
+    "id": "fess201",
+    "metadata": {
+      "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-33ZEPtSJXrfc1WyGxF1dsy",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/geography/fess201.pdf",
+      "subject": "Geography",
+      "timestamp": "2024-12-23T14:13:54.676Z",
+      "chapterNumber": 1,
+      "chapterName": "The Earth in the Solar System"
+    }
+  },
+  {
+    "id": "fess202",
+    "metadata": {
+      "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-Vdm8KLBg123vVVUZB6yZK3",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/geography/fess202.pdf",
+      "subject": "Geography",
+      "timestamp": "2024-12-23T14:15:11.736Z",
+      "chapterNumber": 2,
+      "chapterName": "Globe: Latitudes and Longitudes"
+    }
+  },
+  {
+    "id": "fess203",
+    "metadata": {
+      "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-EayUDDgzD3jPKtkeYD2aJC",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/geography/fess203.pdf",
+      "subject": "Geography",
+      "timestamp": "2024-12-23T14:16:02.779Z",
+      "chapterNumber": 3,
+      "chapterName": "Motions of the Earth"
+    }
+  },
+  {
+    "id": "fess204",
+    "metadata": {
+      "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-6HZZjed6A3kvTHJqrqA77P",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/geography/fess204.pdf",
+      "subject": "Geography",
+      "timestamp": "2024-12-23T14:17:11.937Z",
+      "chapterNumber": 4,
+      "chapterName": "Maps"
+    }
+  },
+  {
+    "id": "fess205",
+    "metadata": {
+      "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-LxzPSWhMLhKR4nMDTZTEJH",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/geography/fess205.pdf",
+      "subject": "Geography",
+      "timestamp": "2024-12-23T14:17:45.231Z",
+      "chapterNumber": 5,
+      "chapterName": "Major Domains of the Earth"
+    }
+  },
+  {
+    "id": "fess206",
+    "metadata": {
+      "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-7R62BBequW8e9RegXBqKU6",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/geography/fess206.pdf",
+      "subject": "Geography",
+      "timestamp": "2024-12-23T14:18:38.234Z",
+      "chapterNumber": 6,
+      "chapterName": "Our Country – India"
+    }
+  },
+  {
+    "id": "fess301",
+    "metadata": {
+      "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-JBda9bAHX17SSanLnLc2jw",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/civics/fess301.pdf",
+      "subject": "Civics",
+      "timestamp": "2024-12-23T14:24:03.567Z",
+      "chapterNumber": 1,
+      "chapterName": "Understanding Diversity"
+    }
+  },
+  {
+    "id": "fess302",
+    "metadata": {
+      "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-FM6We3bW4m9cejPZaAQYwN",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/civics/fess302.pdf",
+      "subject": "Civics",
+      "timestamp": "2024-12-23T14:25:01.827Z",
+      "chapterNumber": 2,
+      "chapterName": "Diversity and Discrimination"
+    }
+  },
+  {
+    "id": "fess303",
+    "metadata": {
+      "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-PvtnsPPFuUNh5CS2EhrFUt",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/civics/fess303.pdf",
+      "subject": "Civics",
+      "timestamp": "2024-12-23T14:25:55.383Z",
+      "chapterNumber": 3,
+      "chapterName": "What is Government?"
+    }
+  },
+  {
+    "id": "fess304",
+    "metadata": {
+      "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-NeYhwR1U72Huahty8Je4vy",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/civics/fess304.pdf",
+      "subject": "Civics",
+      "timestamp": "2024-12-23T14:27:03.117Z",
+      "chapterNumber": 4,
+      "chapterName": "Panchayati Raj"
+    }
+  },
+  {
+    "id": "fess305",
+    "metadata": {
+      "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-GzkfVzqvNCjusniFCoNzR4",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/civics/fess305.pdf",
+      "subject": "Civics",
+      "timestamp": "2024-12-23T14:27:45.360Z",
+      "chapterNumber": 5,
+      "chapterName": "Rural Administration"
+    }
+  },
+  {
+    "id": "fess306",
+    "metadata": {
+      "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-XvY2qwuZk3fitfyRnDrSDk",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/civics/fess306.pdf",
+      "subject": "Civics",
+      "timestamp": "2024-12-23T14:28:30.725Z",
+      "chapterNumber": 6,
+      "chapterName": "Urban Administration"
+    }
+  },
+  {
+    "id": "fess307",
+    "metadata": {
+      "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-2qwfGPXwmLyp3LmcwhX9DF",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/civics/fess307.pdf",
+      "subject": "Civics",
+      "timestamp": "2024-12-23T14:29:09.432Z",
+      "chapterNumber": 7,
+      "chapterName": "Rural Livelihoods"
+    }
+  },
+  {
+    "id": "fess308",
+    "metadata": {
+      "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-JSp22VjcVkZzZ3MzKkNbGS",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/civics/fess308.pdf",
+      "subject": "Civics",
+      "timestamp": "2024-12-23T14:29:55.418Z",
+      "chapterNumber": 8,
+      "chapterName": "Urban Livelihoods"
+    }
+  },
+  {
+    "id": "fehl101",
+    "metadata": {
+      "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-2n46rcg3rrT3gXNTEx9EkJ",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/english/fehl101.pdf",
+      "subject": "English",
+      "timestamp": "2024-12-23T15:59:17.292Z",
+      "chapterNumber": 1,
+      "chapterName": "Who Did Patrick’s Homework?"
+    }
+  },
+  {
+    "id": "fehl102",
+    "metadata": {
+      "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-S8xKq7FkzM1E61jgrxretv",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/english/fehl102.pdf",
+      "subject": "English",
+      "timestamp": "2024-12-23T16:00:06.804Z",
+      "chapterNumber": 2,
+      "chapterName": "How the Dog Found Himself a New Master!"
+    }
+  },
+  {
+    "id": "fehl103",
+    "metadata": {
+      "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-KcmWiWVt2Wgu37dYbUCJ3V",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/english/fehl103.pdf",
+      "subject": "English",
+      "timestamp": "2024-12-23T16:01:23.630Z",
+      "chapterNumber": 3,
+      "chapterName": "Taro's Reward"
+    }
+  },
+  {
+    "id": "fehl104",
+    "metadata": {
+      "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-VcZn3Du17BFDjL1mTp77y3",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/english/fehl104.pdf",
+      "subject": "English",
+      "timestamp": "2024-12-23T16:03:04.039Z",
+      "chapterNumber": 4,
+      "chapterName": "An Indian – American Woman in Space: Kalpana Chawla"
+    }
+  },
+  {
+    "id": "fehl105",
+    "metadata": {
+      "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-WimJnLoVJCSU6UkwfoFnA8",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/english/fehl105.pdf",
+      "subject": "English",
+      "timestamp": "2024-12-23T16:03:58.847Z",
+      "chapterNumber": 5,
+      "chapterName": "A Different Kind of School"
+    }
+  },
+  {
+    "id": "fehl106",
+    "metadata": {
+      "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-B7yYW6GTEcmdKM8GDY5o1d",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/english/fehl106.pdf",
+      "subject": "English",
+      "timestamp": "2024-12-23T16:04:57.198Z",
+      "chapterNumber": 6,
+      "chapterName": "Who I Am"
+    }
+  },
+  {
+    "id": "fehl107",
+    "metadata": {
+      "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-4bdD9bN1mdd3Q2UMMEYY4n",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/english/fehl107.pdf",
+      "subject": "English",
+      "timestamp": "2024-12-23T16:05:54.822Z",
+      "chapterNumber": 7,
+      "chapterName": "Fair Play"
+    }
+  },
+  {
+    "id": "fehl108",
+    "metadata": {
+      "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-MujSUTaccb5QCsXqNaCzga",
+      "grade": 6,
+      "pdfPath": "_manual/textbooks/grade-6/english/fehl108.pdf",
+      "subject": "English",
+      "timestamp": "2024-12-23T16:06:42.690Z",
+      "chapterNumber": 8,
+      "chapterName": "The Banyan Tree"
+    }
+  },
+  {
+    "id": "fepw101",
+    "metadata": {
+      "book": "NCERT: A Pact with the Sun - Supplementary Reader in English for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-DksWDJpMuo51syZEE9ujhC",
+      "grade": 6,
+      "pdfPath": "_manual/supplementary-books/grade-6/english/a-pact-with-the-sun/fepw101.pdf",
+      "subject": "English",
+      "timestamp": "2024-12-23T16:16:02.168Z",
+      "chapterNumber": 1,
+      "chapterName": "A Tale of Two Birds"
+    }
+  },
+  {
+    "id": "fepw102",
+    "metadata": {
+      "book": "NCERT: A Pact with the Sun - Supplementary Reader in English for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-UnEJQ4rV5MY99NL65mrfnM",
+      "grade": 6,
+      "pdfPath": "_manual/supplementary-books/grade-6/english/a-pact-with-the-sun/fepw102.pdf",
+      "subject": "English",
+      "timestamp": "2024-12-23T16:16:58.193Z",
+      "chapterNumber": 2,
+      "chapterName": "The Friendly Mongoose"
+    }
+  },
+  {
+    "id": "fepw103",
+    "metadata": {
+      "book": "NCERT: A Pact with the Sun - Supplementary Reader in English for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-3h8EmsnaxWNim27N4bJhFm",
+      "grade": 6,
+      "pdfPath": "_manual/supplementary-books/grade-6/english/a-pact-with-the-sun/fepw103.pdf",
+      "subject": "English",
+      "timestamp": "2024-12-23T16:17:53.833Z",
+      "chapterNumber": 3,
+      "chapterName": "The Shepherd's Treasure"
+    }
+  },
+  {
+    "id": "fepw104",
+    "metadata": {
+      "book": "NCERT: A Pact with the Sun - Supplementary Reader in English for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-PHGdi8ePLAetjS32hMENzS",
+      "grade": 6,
+      "pdfPath": "_manual/supplementary-books/grade-6/english/a-pact-with-the-sun/fepw104.pdf",
+      "subject": "English",
+      "timestamp": "2024-12-23T16:18:55.544Z",
+      "chapterNumber": 4,
+      "chapterName": "Tansen"
+    }
+  },
+  {
+    "id": "fepw105",
+    "metadata": {
+      "book": "NCERT: A Pact with the Sun - Supplementary Reader in English for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-UpmrzsBiBPTNNRYQH4UKqp",
+      "grade": 6,
+      "pdfPath": "_manual/supplementary-books/grade-6/english/a-pact-with-the-sun/fepw105.pdf",
+      "subject": "English",
+      "timestamp": "2024-12-23T16:19:45.445Z",
+      "chapterNumber": 5,
+      "chapterName": "The Monkey and the Crocodile"
+    }
+  },
+  {
+    "id": "fepw106",
+    "metadata": {
+      "book": "NCERT: A Pact with the Sun - Supplementary Reader in English for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-NcbHt84QS622SoV3GTmiN1",
+      "grade": 6,
+      "pdfPath": "_manual/supplementary-books/grade-6/english/a-pact-with-the-sun/fepw106.pdf",
+      "subject": "English",
+      "timestamp": "2024-12-23T16:20:34.261Z",
+      "chapterNumber": 6,
+      "chapterName": "The Wonder Called Sleep"
+    }
+  },
+  {
+    "id": "fepw107",
+    "metadata": {
+      "book": "NCERT: A Pact with the Sun - Supplementary Reader in English for Class VI",
+      "curriculum": "CBSE",
+      "fileId": "file-QgLHHUR5QDTbaGPGXcan66",
+      "grade": 6,
+      "pdfPath": "_manual/supplementary-books/grade-6/english/a-pact-with-the-sun/fepw107.pdf",
+      "subject": "English",
+      "timestamp": "2024-12-23T16:21:29.693Z",
+      "chapterNumber": 7,
+      "chapterName": "A Pact with the Sun"
+    }
+  }
+]
