@@ -4,8 +4,13 @@ const state = {
     selectedGrade: null,
     selectedSubject: null,
     selectedChapter: null,
-    selectedWorksheet: null
+    selectedWorksheet: null,
+    currentQuestionIndex: 0,
+    apiKey: null
 };
+
+// OpenAI service management
+const assistantId = 'asst_zEq6AiDuyJBlDnCHKKNuKNSv';
 
 const contentData = [];
 
@@ -14,17 +19,84 @@ const contentElement = document.getElementById('content');
 const backButton = document.getElementById('backBtn');
 const breadcrumbElement = document.getElementById('breadcrumb');
 
-// Make selection handlers available globally
-window.selectGrade = selectGrade;
-window.selectSubject = selectSubject;
-window.selectChapter = selectChapter;
-window.selectWorksheet = selectWorksheet;
-window.toggleModelAnswer = toggleModelAnswer;
-window.toggleCircleWord = toggleCircleWord;
+// Move all function definitions here...
+
+// Then at the bottom of the file, after all functions are defined:
+// Make functions available globally
+function initializeGlobalFunctions() {
+    window.selectGrade = selectGrade;
+    window.selectSubject = selectSubject;
+    window.selectChapter = selectChapter;
+    window.selectWorksheet = selectWorksheet;
+    window.toggleModelAnswer = toggleModelAnswer;
+    window.toggleCircleWord = toggleCircleWord;
+    window.toggleAnswer = toggleAnswer;
+    window.closeAnswerModal = closeAnswerModal;
+    window.resetAnswer = resetAnswer;
+}
+
+// Update the DOMContentLoaded event listener
+document.addEventListener('DOMContentLoaded', () => {
+    initializeGlobalFunctions();
+    document.getElementById('apiKeyForm').addEventListener('submit', handleApiKeySubmit);
+    init();
+});
+
+// Update the API key submission handler
+function handleApiKeySubmit(event) {
+    event.preventDefault();
+    
+    try {
+        const apiKeyInput = document.getElementById('apiKeyInput');
+        const apiKey = apiKeyInput.value.trim();
+        
+        // Validate API key format
+        if (!apiKey.startsWith('sk-')) {
+            throw new Error('Invalid API key format. Key should start with "sk-"');
+        }
+        
+        // Store the API key
+        state.apiKey = apiKey;
+        
+        // Hide the API key form and show main content
+        document.getElementById('apiKeyForm').style.display = 'none';
+        document.getElementById('mainContent').style.display = 'block';
+        
+        // Initialize the app
+        init();
+        
+    } catch (error) {
+        // Show error message to user
+        const errorDiv = document.createElement('div');
+        errorDiv.className = 'api-key-error';
+        errorDiv.textContent = error.message;
+        
+        // Remove any existing error message
+        const existingError = document.querySelector('.api-key-error');
+        if (existingError) {
+            existingError.remove();
+        }
+        
+        // Insert error message after the input
+        const apiKeyInput = document.getElementById('apiKeyInput');
+        apiKeyInput.parentNode.insertBefore(errorDiv, apiKeyInput.nextSibling);
+    }
+}
 
 // Initialize the application
 async function init() {
     try {
+        // Check if API key is set
+        if (!state.apiKey) {
+            // Show API key form, hide main content
+            document.getElementById('apiKeyForm').style.display = 'block';
+            document.getElementById('mainContent').style.display = 'none';
+            return;
+        }
+
+        // Hide breadcrumb initially
+        breadcrumbElement.style.display = 'none';
+
         contentElement.innerHTML = '<div class="loading">Loading content...</div>';
 
         // Load the data
@@ -158,38 +230,90 @@ function displayWorksheet(worksheetId) {
     const chapter = subject.chapters.find(c => c.chapterNumber === state.selectedChapter);
     const worksheet = chapter.worksheets.find(w => w.id === worksheetId);
     
+    const totalQuestions = worksheet.questions.length;
+    state.currentQuestionIndex = 0;
+    
     const html = `
         <div class="worksheet">
             <h2>${worksheet.title}</h2>
-            <div class="worksheet-info">
-                <p>Chapter ${chapter.chapterNumber}: ${chapter.chapterName}</p>
-                <p>${chapter.book}</p>
-            </div>
             <div class="questions">
-                ${worksheet.questions.map((question, index) => `
-                    <div class="question ${question.type.toLowerCase()}">
-                        <div class="question-header">
-                            <span class="question-number">Q${index + 1}.</span>
-                            <span class="question-type">[${question.type}]</span>
-                            <span class="question-difficulty">${question.difficulty || 'Medium'}</span>
-                        </div>
-                        ${renderQuestion(question)}
-                    </div>
-                `).join('')}
+                ${renderSingleQuestion(worksheet.questions[0], 0, totalQuestions)}
             </div>
         </div>
     `;
     
     contentElement.innerHTML = html;
-    
-    // Add event listeners for interactive elements
     setupQuestionInteractions();
-    
     updateBreadcrumb();
 }
 
-// Update renderQuestion function to handle all question types
-function renderQuestion(question) {
+// Update renderSingleQuestion to use modal for answer section
+function renderSingleQuestion(question, index, totalQuestions) {
+    return `
+        <div class="question ${question.type.toLowerCase()}">
+            <div class="question-header">
+                <div class="question-info">
+                    <div class="question-navigation">
+                        <span class="question-counter">Question ${index + 1} of ${totalQuestions}</span>
+                        <div class="question-tags">
+                            <span class="question-type">${question.type}</span>
+                            <span class="question-difficulty">${question.difficulty || 'Not Set'}</span>
+                        </div>
+                        <div class="navigation-buttons">
+                            <button class="nav-button prev" onclick="previousQuestion()" ${index === 0 ? 'disabled' : ''}>← Previous</button>
+                            <button class="nav-button next" onclick="nextQuestion()" ${index === totalQuestions - 1 ? 'disabled' : ''}>Next →</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="question-content-wrapper">
+                ${renderQuestionContent(question)}
+                <div class="feedback" style="display: none;"></div>
+            </div>
+
+            <div class="question-controls-container">
+                <div class="question-actions">
+                    <button class="button button-primary submit-answer" onclick="submitAnswer(this)">Submit Answer</button>
+                    <button class="button button-secondary reset-answer" onclick="resetAnswer(this)" style="display: none;">Try Again</button>
+                </div>
+                <div class="answer-controls">
+                    <button class="toggle-answer" onclick="toggleAnswer(this)">Show Answer</button>
+                </div>
+            </div>
+
+            <!-- Add modal structure -->
+            <div class="modal-overlay">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h3>Answer</h3>
+                        <button class="modal-close" onclick="closeAnswerModal(this)">&times;</button>
+                    </div>
+                    <div class="answer-section">
+                        ${question.content.rubrics ? `
+                            <div class="rubrics">
+                                <h4>Rubrics:</h4>
+                                ${question.content.rubrics.map(rubric => `
+                                    <div class="rubric">
+                                        <span class="rubric-title">${rubric.title}</span>
+                                        <span class="rubric-score">${rubric.maxScore}</span>
+                                    </div>
+                                `).join('')}
+                            </div>
+                        ` : ''}
+                        <div class="model-answer">
+                            <h4>Example Answer:</h4>
+                            <p>${getModelAnswer(question)}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    `;
+}
+
+// New function to render just the question content without actions
+function renderQuestionContent(question) {
     switch (question.type) {
         case 'FillInTheBlanks':
             return renderFillInBlanks(question.content);
@@ -212,6 +336,11 @@ function renderQuestion(question) {
         default:
             return `<div class="question-content">${question.content.question || ''}</div>`;
     }
+}
+
+// Update renderQuestion to not include the actions
+function renderQuestion(question) {
+    return renderQuestionContent(question);
 }
 
 // Question type rendering functions
@@ -243,25 +372,16 @@ function renderSimpleMCQ(content) {
     `;
 }
 
+// Update renderShortAnswer function to use new class names
 function renderShortAnswer(content) {
     return `
-        <div class="question-content">
+        <div class="question-text-wrapper">
             <div class="question-text">${content.question}</div>
-            <div class="answer-section">
-                <textarea class="short-answer" placeholder="Enter your answer here..."></textarea>
-                <div class="rubrics">
-                    ${content.rubrics.map(rubric => `
-                        <div class="rubric">
-                            <span class="rubric-title">${rubric.title}</span>
-                            <span class="rubric-score">/${rubric.maxScore}</span>
-                        </div>
-                    `).join('')}
-                </div>
-                <button class="show-answer" onclick="toggleModelAnswer(this)">Show Model Answer</button>
-                <div class="model-answer" style="display: none;">
-                    <strong>Model Answer:</strong> ${content.answer}
-                </div>
-            </div>
+            <textarea 
+                class="short-answer" 
+                placeholder="Type your answer here..."
+                aria-label="Your answer"
+            ></textarea>
         </div>
     `;
 }
@@ -284,20 +404,19 @@ function renderTrueOrFalse(content) {
 
 function renderMatchTheFollowing(content) {
     return `
-        <div class="question-content">
+        <div class="question-text-wrapper">
             <div class="question-text">${content.question}</div>
             <div class="matching-container">
-                <div class="left-column">
+                <div class="matching-items">
                     ${content.pairs.map((pair, index) => `
-                        <div class="match-item" draggable="true" data-index="${index}">
-                            ${pair.left}
-                        </div>
-                    `).join('')}
-                </div>
-                <div class="right-column">
-                    ${content.pairs.map((pair, index) => `
-                        <div class="match-item" data-index="${index}">
-                            ${pair.right}
+                        <div class="matching-pair">
+                            <div class="matching-left">${pair.left}</div>
+                            <select class="matching-select" data-index="${index}">
+                                <option value="">Select a match...</option>
+                                ${content.pairs.map((p, i) => `
+                                    <option value="${i}">${p.right}</option>
+                                `).join('')}
+                            </select>
                         </div>
                     `).join('')}
                 </div>
@@ -340,14 +459,6 @@ function renderDraw(content) {
                     <button class="clear-canvas">Clear</button>
                 </div>
             </div>
-            <div class="rubrics">
-                ${content.rubrics.map(rubric => `
-                    <div class="rubric">
-                        <span class="rubric-title">${rubric.title}</span>
-                        <span class="rubric-score">/${rubric.maxScore}</span>
-                    </div>
-                `).join('')}
-            </div>
         </div>
     `;
 }
@@ -359,7 +470,7 @@ function renderLabelDiagrams(content) {
             <div class="diagram-container">
                 ${content.diagrams.map(diagram => `
                     <div class="diagram">
-                        <img src="${diagram.url}" alt="Diagram to label">
+                        <img src="data/illustrations/${diagram.url}" alt="Diagram to label">
                         <div class="label-points">
                             <!-- Label points would be added dynamically -->
                         </div>
@@ -405,6 +516,8 @@ function selectGrade(gradeId) {
     state.selectedGrade = gradeId;
     displaySubjects(gradeId);
     backButton.style.display = 'block';
+    // Show breadcrumb when grade is selected
+    breadcrumbElement.style.display = 'block';
 }
 
 function selectSubject(subjectName) {
@@ -437,6 +550,8 @@ function handleBack() {
             state.selectedGrade = null;
             displayGrades();
             backButton.style.display = 'none';
+            // Hide breadcrumb when returning to grade selection
+            breadcrumbElement.style.display = 'none';
             break;
         case 'chapter':
             state.currentLevel = 'subject';
@@ -514,8 +629,45 @@ function setupMatchingDragAndDrop() {
     });
 }
 
-// Initialize when DOM is loaded
-document.addEventListener('DOMContentLoaded', init);
+// Add navigation functions
+window.previousQuestion = function() {
+    if (state.currentQuestionIndex > 0) {
+        navigateToQuestion(state.currentQuestionIndex - 1);
+    }
+};
+
+window.nextQuestion = function() {
+    const grade = contentData.find(g => g.grade === state.selectedGrade);
+    const subject = grade.subjects.find(s => s.subject === state.selectedSubject);
+    const chapter = subject.chapters.find(c => c.chapterNumber === state.selectedChapter);
+    const worksheet = chapter.worksheets.find(w => w.id === state.selectedWorksheet);
+    
+    if (state.currentQuestionIndex < worksheet.questions.length - 1) {
+        navigateToQuestion(state.currentQuestionIndex + 1);
+    }
+};
+
+function navigateToQuestion(index) {
+    const grade = contentData.find(g => g.grade === state.selectedGrade);
+    const subject = grade.subjects.find(s => s.subject === state.selectedSubject);
+    const chapter = subject.chapters.find(c => c.chapterNumber === state.selectedChapter);
+    const worksheet = chapter.worksheets.find(w => w.id === state.selectedWorksheet);
+    
+    state.currentQuestionIndex = index;
+    const totalQuestions = worksheet.questions.length;
+    
+    // Update question content
+    document.querySelector('.questions').innerHTML = renderSingleQuestion(worksheet.questions[index], index, totalQuestions);
+    
+    // Update counter
+    document.querySelector('.question-counter').textContent = `Question ${index + 1} of ${totalQuestions}`;
+    
+    // Update navigation buttons
+    document.querySelector('.nav-button.prev').disabled = index === 0;
+    document.querySelector('.nav-button.next').disabled = index === totalQuestions - 1;
+    
+    setupQuestionInteractions();
+}
 
 // Transform data function
 function transformData(worksheetsData, chapterWorksheetsData, booksData) {
@@ -648,4 +800,390 @@ function transformData(worksheetsData, chapterWorksheetsData, booksData) {
         console.error('Error transforming data:', error);
         return [];
     }
-} 
+}
+
+// Add the submit answer function to window
+window.submitAnswer = submitAnswer;
+
+/**
+ * Runs an OpenAI "assistant" thread using the private/beta `/v1/threads/runs` endpoint.
+ * This function:
+ *  1) Creates and runs a new thread (with user prompt).
+ *  2) Polls the run status until it completes or fails.
+ *  3) Retrieves the final assistant message from the thread.
+ *
+ * @param {string} apiKey         Your OpenAI API key
+ * @param {string} assistantId    The ID of the assistant you want to invoke
+ * @param {string} userPrompt     The user's prompt/message for the assistant
+ * @returns {Promise<string>}     The assistant's final response text
+ */
+async function runAssistant(apiKey, assistantId, userPrompt) {
+    try {
+      // 1. CREATE & RUN THE THREAD (inferred from your snippet)
+      const createRunResponse = await fetch('https://api.openai.com/v1/threads/runs', {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${apiKey}`,
+          'Content-Type': 'application/json',
+          'OpenAI-Beta': 'assistants=v2',
+        },
+        body: JSON.stringify({
+          assistant_id: assistantId,
+          thread: {
+            messages: [
+              {
+                role: 'user',
+                content: userPrompt,
+              },
+            ],
+          },
+        }),
+      });
+  
+      if (!createRunResponse.ok) {
+        const errBody = await createRunResponse.json().catch(() => ({}));
+        throw new Error(
+          `Failed to createAndRun thread: ${errBody.error?.message || createRunResponse.statusText}`
+        );
+      }
+  
+      const runData = await createRunResponse.json();
+      const threadId = runData.thread_id;
+      const runId = runData.id;
+      let status = runData.status || 'running';
+  
+      // 2. POLL UNTIL RUN IS COMPLETED OR FAILS`
+      while (status !== 'completed') {
+        if (status === 'failed') {
+          throw new Error('Assistant run failed');
+        }
+  
+        // Wait a bit before polling again
+        await new Promise((resolve) => setTimeout(resolve, 1000));
+  
+        const statusResp = await fetch(
+          `https://api.openai.com/v1/threads/${threadId}/runs/${runId}`,
+          {
+            method: 'GET',
+            headers: {
+              'Authorization': `Bearer ${apiKey}`,
+              'OpenAI-Beta': 'assistants=v2',
+            },
+          }
+        );
+  
+        if (!statusResp.ok) {
+          const errBody = await statusResp.json().catch(() => ({}));
+          throw new Error(
+            `Error retrieving run status: ${errBody.error?.message || statusResp.statusText}`
+          );
+        }
+  
+        const statusData = await statusResp.json();
+        status = statusData.status;
+      }
+  
+      // 3. RETRIEVE THE FINAL ASSISTANT MESSAGE
+      const messagesResp = await fetch(
+        `https://api.openai.com/v1/threads/${threadId}/messages`,
+        {
+          method: 'GET',
+          headers: {
+            'Authorization': `Bearer ${apiKey}`,
+            'OpenAI-Beta': 'assistants=v2',
+          },
+        }
+      );
+  
+      if (!messagesResp.ok) {
+        const errBody = await messagesResp.json().catch(() => ({}));
+        throw new Error(
+          `Error retrieving final messages: ${errBody.error?.message || messagesResp.statusText}`
+        );
+      }
+  
+      const messagesData = await messagesResp.json();
+      const assistantMessageObj = messagesData.data.find((m) => m.role === 'assistant');
+      const assistantText =
+        assistantMessageObj?.content?.[0]?.text?.value || 'No assistant response found';
+      return assistantText;
+    } catch (error) {
+      console.error('Error running assistant:', error);
+      throw error;
+    }
+  }
+
+// Update the evaluateAnswer function to parse the response
+async function evaluateAnswer(question, userAnswer, questionScreenshot) {
+    userAnswer = userAnswer === "" ? "No answer provided" : userAnswer;
+    try {
+        console.log("Evaluating answer...");
+        const userPrompt = `
+        question: ${question.content.question}
+        hand written submission: ${userAnswer} 
+        rubrics: ${JSON.stringify(question.content.rubrics)}`;
+
+        // ${questionScreenshot}
+
+        const response = await runAssistant(
+            state.apiKey,
+            assistantId,
+            userPrompt
+        );
+
+        // Parse the response string into an array of criteria
+        try {
+            return JSON.parse(response);
+        } catch (error) {
+            console.error('Error parsing evaluation response:', error);
+            // Fallback format if parsing fails
+            return {
+                score: 0,
+                maxScore: question.content.rubrics[0].maxScore,
+                criteria: [
+                    {
+                        title: 'Overall',
+                        score: 0,
+                        maxScore: question.content.rubrics[0].maxScore,
+                        feedback: response
+                    }
+                ]
+            };
+        }
+    } catch (error) {
+        console.error('Error evaluating answer:', error);
+        return null;
+    }
+}
+
+// Update submitAnswer function to show feedback
+async function submitAnswer(button) {
+    const questionDiv = button.closest('.question');
+    const feedbackDiv = questionDiv.querySelector('.feedback');
+    const resetButton = button.nextElementSibling;
+    const questionType = questionDiv.className.split(' ')[1];
+    
+    // Show loading state
+    button.disabled = true;
+    button.textContent = 'Evaluating...';
+    
+    // Show feedback div with loading message
+    feedbackDiv.style.display = 'block';
+    feedbackDiv.innerHTML = '<div class="loading">Evaluating your answer...</div>';
+    
+    // Get the answer based on question type
+    let userAnswer;
+    let isCorrect = false;
+    let evaluation = null;
+
+    switch (questionType) {
+        case 'shortanswer':
+            userAnswer = questionDiv.querySelector('textarea').value;
+            
+            // Get the current question being displayed
+            const grade = contentData.find(g => g.grade === state.selectedGrade);
+            const subject = grade.subjects.find(s => s.subject === state.selectedSubject);
+            const chapter = subject.chapters.find(c => c.chapterNumber === state.selectedChapter);
+            const worksheet = chapter.worksheets.find(w => w.id === state.selectedWorksheet);
+            const question = worksheet.questions[state.currentQuestionIndex];
+            
+            console.log("Current question:", question);
+            
+            if (question.content.rubrics) {
+                console.log("Starting evaluation...");
+                let screenshotDataUrl = 'Screenshot unavailable';
+                
+                // Capture screenshot of question div
+                try {
+                    const questionScreenshot = await html2canvas(questionDiv);
+                    screenshotDataUrl = questionScreenshot.toDataURL('image/png');
+                } catch (error) {
+                    console.error('Error capturing screenshot:', error);
+                }
+                evaluation = await evaluateAnswer(question, userAnswer, screenshotDataUrl);
+                console.log("Evaluation:", evaluation);
+            }
+            break;
+        case 'draw':
+            userAnswer = 'Drawing submission';
+            break;
+        case 'fillintheblank':
+            const inputs = Array.from(questionDiv.querySelectorAll('input.blank'));
+            userAnswer = inputs.map(input => input.value).join(', ');
+            const correctAnswers = inputs.map(input => input.dataset.answer);
+            isCorrect = inputs.every((input, i) => input.value.trim().toLowerCase() === correctAnswers[i].toLowerCase());
+            break;
+        case 'trueorfalse':
+            const selectedValue = questionDiv.querySelector('input[type="radio"]:checked')?.value;
+            userAnswer = selectedValue ? (selectedValue === 'true' ? 'True' : 'False') : 'Not answered';
+            isCorrect = selectedValue === questionDiv.querySelector('.model-answer').textContent.trim().toLowerCase();
+            break;
+        case 'simplemcq':
+            const selectedOption = questionDiv.querySelector('input[type="radio"]:checked');
+            if (selectedOption) {
+                userAnswer = selectedOption.nextElementSibling.textContent;
+                const correctAnswer = questionDiv.querySelector('.model-answer p').textContent;
+                isCorrect = userAnswer.trim() === correctAnswer.trim();
+            } else {
+                userAnswer = 'Not answered';
+            }
+            break;
+        case 'matchthefollowing':
+            const selects = Array.from(questionDiv.querySelectorAll('.matching-select'));
+            const answers = selects.map(select => select.value);
+            userAnswer = answers.map((answer, index) => {
+                const pair = question.content.pairs[index];
+                const selectedRight = question.content.pairs[answer]?.right || 'Not selected';
+                return `${pair.left} → ${selectedRight}`;
+            }).join('\n');
+            isCorrect = answers.every((answer, index) => answer === index.toString());
+            break;
+        default:
+            userAnswer = 'Answer submitted';
+    }
+
+    // Update feedback display
+    updateFeedbackDisplay(feedbackDiv, userAnswer, evaluation, isCorrect);
+
+    // Update button states
+    button.disabled = true;
+    button.textContent = 'Submitted';
+    resetButton.style.display = 'inline-block';
+
+    // Automatically show the answer
+    const toggleAnswerButton = questionDiv.querySelector('.toggle-answer');
+    const answerSection = toggleAnswerButton.nextElementSibling;
+    answerSection.style.display = 'block';
+    toggleAnswerButton.textContent = 'Hide Answer';
+}
+
+// Update the feedback display function
+function updateFeedbackDisplay(feedbackDiv, userAnswer, evaluation, isCorrect) {
+    console.log("Updating feedback display...");
+    
+    // Ensure feedback div is visible
+    feedbackDiv.style.display = 'block';
+    
+    feedbackDiv.innerHTML = `
+        <div class="feedback-content">
+            <div class="answer-section">
+                <h4>Your Response</h4>
+                <p class="user-answer">${userAnswer === "" ? 'No answer provided' : userAnswer}</p>
+                ${evaluation ? `
+                    <div class="evaluation-results">
+                        <h4>AI Evaluated Score: ${evaluation.score}/${evaluation.maxScore}</h4>
+                        ${evaluation.criteria ? 
+                            evaluation.criteria.map(criterion => `
+                                <div class="rubric-score">
+                                    <div>
+                                        <h4>${criterion.title}</h4>
+                                        <span class="score">${criterion.score}/${criterion.maxScore}</span>
+                                        <div class="feedback">${criterion.feedback}</div>
+                                    </div>
+                                </div>
+                            `).join('') 
+                            : `<div class="evaluation-feedback">${evaluation}</div>`
+                        }
+                    </div>
+                ` : isCorrect !== undefined ? `
+                    <div class="feedback-status ${isCorrect ? 'correct' : 'incorrect'}">
+                        ${isCorrect ? '✓ Correct!' : '✗ Incorrect, try again'}
+                    </div>
+                ` : ''}
+            </div>
+        </div>
+    `;
+}
+
+// Add reset answer function
+window.resetAnswer = function(button) {
+    const questionDiv = button.closest('.question');
+    const submitButton = button.previousElementSibling;
+    const feedbackDiv = questionDiv.querySelector('.feedback');
+    const questionType = questionDiv.className.split(' ')[1];
+
+    // Reset form elements based on question type
+    switch (questionType) {
+        case 'shortanswer':
+            questionDiv.querySelector('textarea').value = '';
+            break;
+        case 'fillintheblank':
+            questionDiv.querySelectorAll('input.blank').forEach(input => input.value = '');
+            break;
+        case 'trueorfalse':
+        case 'simplemcq':
+            questionDiv.querySelectorAll('input[type="radio"]').forEach(radio => radio.checked = false);
+            break;
+        // Add other question types as needed
+    }
+
+    // Hide feedback
+    feedbackDiv.style.display = 'none';
+
+    // Hide answer section and reset toggle button
+    const toggleAnswerButton = questionDiv.querySelector('.toggle-answer');
+    const answerSection = toggleAnswerButton.nextElementSibling;
+    answerSection.style.display = 'none';
+    toggleAnswerButton.textContent = 'Show Answer';
+
+    // Enable submit button and hide reset button
+    submitButton.disabled = false;
+    submitButton.textContent = 'Submit Answer';
+    button.style.display = 'none';
+};
+
+// Add helper function to get model answer based on question type
+function getModelAnswer(question) {
+    switch (question.type) {
+        case 'FillInTheBlanks':
+            return question.content.partitions
+                .filter(part => part.isBlank)
+                .map(part => part.text)
+                .join(', ');
+        case 'TrueOrFalse':
+            return question.content.isTrue ? 'True' : 'False';
+        case 'ShortAnswer':
+        case 'Draw':
+            return question.content.answer;
+        case 'SimpleMCQ':
+            return question.content.options[question.content.correctAnswer];
+        default:
+            return question.content.answer || 'Answer not available';
+    }
+}
+
+// Update toggleAnswer function to handle modal
+function toggleAnswer(button) {
+    const questionDiv = button.closest('.question');
+    const modalOverlay = questionDiv.querySelector('.modal-overlay');
+    modalOverlay.classList.add('active');
+    
+    // Prevent body scroll when modal is open
+    document.body.style.overflow = 'hidden';
+}
+
+// Update closeAnswerModal function
+function closeAnswerModal(closeButton) {
+    const modalOverlay = closeButton.closest('.modal-overlay');
+    modalOverlay.classList.remove('active');
+    
+    // Restore body scroll
+    document.body.style.overflow = '';
+}
+
+// Add click outside to close
+document.addEventListener('click', function(event) {
+    if (event.target.classList.contains('modal-overlay')) {
+        closeAnswerModal(event.target.querySelector('.modal-close'));
+    }
+});
+
+// Add escape key to close
+document.addEventListener('keydown', function(event) {
+    if (event.key === 'Escape') {
+        const activeModal = document.querySelector('.modal-overlay.active');
+        if (activeModal) {
+            closeAnswerModal(activeModal.querySelector('.modal-close'));
+        }
+    }
+}); 
