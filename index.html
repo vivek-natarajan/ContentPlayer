@@ -13,15 +13,18 @@
         <form id="apiKeyForm" class="api-key-form">
             <h2>Welcome to Content Player</h2>
             <p>To use the AI evaluation features, please enter your OpenAI API key. Your key will be stored securely in memory and cleared when you close the page.</p>
+            <p class="optional-text">This step is optional. You can skip it if you don't need AI evaluation.</p>
             <input 
                 type="password" 
                 id="apiKeyInput" 
                 class="api-key-input" 
                 placeholder="Enter your OpenAI API key (sk-...)" 
-                required
                 pattern="sk-.*"
             >
-            <button type="submit" class="button button-primary">Start Learning</button>
+            <div class="form-buttons">
+                <button type="submit" class="button button-primary">Start with AI</button>
+                <button type="button" onclick="skipApiKey()" class="button button-secondary">Skip AI Features</button>
+            </div>
         </form>
 
         <div id="mainContent">

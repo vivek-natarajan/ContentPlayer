@@ -50,13 +50,16 @@ function handleApiKeySubmit(event) {
         const apiKeyInput = document.getElementById('apiKeyInput');
         const apiKey = apiKeyInput.value.trim();
         
-        // Validate API key format
-        if (!apiKey.startsWith('sk-')) {
-            throw new Error('Invalid API key format. Key should start with "sk-"');
+        // Allow empty API key
+        if (apiKey === '') {
+            state.apiKey = null;
+        } else {
+            // Validate API key format if provided
+            if (!apiKey.startsWith('sk-')) {
+                throw new Error('Invalid API key format. Key should start with "sk-"');
+            }
+            state.apiKey = apiKey;
         }
-        
-        // Store the API key
-        state.apiKey = apiKey;
         
         // Hide the API key form and show main content
         document.getElementById('apiKeyForm').style.display = 'none';
@@ -86,14 +89,6 @@ function handleApiKeySubmit(event) {
 // Initialize the application
 async function init() {
     try {
-        // Check if API key is set
-        if (!state.apiKey) {
-            // Show API key form, hide main content
-            document.getElementById('apiKeyForm').style.display = 'block';
-            document.getElementById('mainContent').style.display = 'none';
-            return;
-        }
-
         // Hide breadcrumb initially
         breadcrumbElement.style.display = 'none';
 
@@ -114,13 +109,9 @@ async function init() {
         const chapterWorksheetsData = await chapterWorksheetsResponse.json();
         const booksData = await booksResponse.json();
 
-        console.log('Loaded data:', { worksheetsData, chapterWorksheetsData, booksData });
-
         // Transform the data
         const transformedData = transformData(worksheetsData, chapterWorksheetsData, booksData);
         
-        console.log('Transformed data:', transformedData);
-
         // Update contentData
         contentData.length = 0;
         contentData.push(...transformedData);
@@ -234,11 +225,8 @@ function displayWorksheet(worksheetId) {
     state.currentQuestionIndex = 0;
     
     const html = `
-        <div class="worksheet">
-            <h2>${worksheet.title}</h2>
-            <div class="questions">
-                ${renderSingleQuestion(worksheet.questions[0], 0, totalQuestions)}
-            </div>
+        <div class="questions">
+            ${renderSingleQuestion(worksheet.questions[0], 0, totalQuestions)}
         </div>
     `;
     
@@ -302,7 +290,6 @@ function renderSingleQuestion(question, index, totalQuestions) {
                             </div>
                         ` : ''}
                         <div class="model-answer">
-                            <h4>Example Answer:</h4>
                             <p>${getModelAnswer(question)}</p>
                         </div>
                     </div>
@@ -403,21 +390,23 @@ function renderTrueOrFalse(content) {
 }
 
 function renderMatchTheFollowing(content) {
+    // Create a shuffled array of right answers
+    const shuffledRight = [...content.pairs]
+        .map(pair => pair.right)
+        .sort(() => Math.random() - 0.5);
+
     return `
         <div class="question-text-wrapper">
             <div class="question-text">${content.question}</div>
             <div class="matching-container">
-                <div class="matching-items">
-                    ${content.pairs.map((pair, index) => `
-                        <div class="matching-pair">
-                            <div class="matching-left">${pair.left}</div>
-                            <select class="matching-select" data-index="${index}">
-                                <option value="">Select a match...</option>
-                                ${content.pairs.map((p, i) => `
-                                    <option value="${i}">${p.right}</option>
-                                `).join('')}
-                            </select>
-                        </div>
+                <div class="matching-left-column">
+                    ${content.pairs.map(pair => `
+                        <div class="matching-item">${pair.left}</div>
+                    `).join('')}
+                </div>
+                <div class="matching-right-column" data-pairs='${JSON.stringify(content.pairs)}'>
+                    ${shuffledRight.map(right => `
+                        <div class="matching-item draggable" draggable="true">${right}</div>
                     `).join('')}
                 </div>
             </div>
@@ -452,7 +441,7 @@ function renderDraw(content) {
         <div class="question-content">
             <div class="question-text">${content.question}</div>
             <div class="drawing-area">
-                <canvas class="drawing-canvas" width="400" height="300"></canvas>
+                <canvas class="drawing-canvas"></canvas>
                 <div class="drawing-tools">
                     <button class="tool" data-tool="pencil">✏️</button>
                     <button class="tool" data-tool="eraser">🧹</button>
@@ -610,22 +599,35 @@ function setupQuestionInteractions() {
         word.addEventListener('click', () => toggleCircleWord(word));
     });
     
-    // Setup drag and drop for matching
-    setupMatchingDragAndDrop();
-}
+    // Setup drag and drop for matching questions
+    const rightColumns = document.querySelectorAll('.matching-right-column');
+    rightColumns.forEach(column => {
+        column.addEventListener('dragover', e => {
+            e.preventDefault();
+            const dragging = document.querySelector('.dragging');
+            const notDragging = [...column.querySelectorAll('.matching-item:not(.dragging)')];
+            
+            const closest = notDragging.reduce((closest, item) => {
+                const box = item.getBoundingClientRect();
+                const offset = e.clientY - (box.top + box.height / 2);
+                if (offset < 0 && offset > closest.offset) {
+                    return { offset, element: item };
+                }
+                return closest;
+            }, { offset: Number.NEGATIVE_INFINITY }).element;
+            
+            if (closest) {
+                column.insertBefore(dragging, closest);
+            } else {
+                column.appendChild(dragging);
+            }
+        });
 
-// Add function to setup matching drag and drop
-function setupMatchingDragAndDrop() {
-    const matchItems = document.querySelectorAll('.match-item[draggable="true"]');
-    matchItems.forEach(item => {
-        item.addEventListener('dragstart', handleDragStart);
-        item.addEventListener('dragend', handleDragEnd);
-    });
-    
-    const dropZones = document.querySelectorAll('.right-column .match-item');
-    dropZones.forEach(zone => {
-        zone.addEventListener('dragover', handleDragOver);
-        zone.addEventListener('drop', handleDrop);
+        const items = column.querySelectorAll('.matching-item');
+        items.forEach(item => {
+            item.addEventListener('dragstart', () => item.classList.add('dragging'));
+            item.addEventListener('dragend', () => item.classList.remove('dragging'));
+        });
     });
 }
 
@@ -914,16 +916,16 @@ async function runAssistant(apiKey, assistantId, userPrompt) {
   }
 
 // Update the evaluateAnswer function to parse the response
-async function evaluateAnswer(question, userAnswer, questionScreenshot) {
+async function evaluateAnswer(question, userAnswer, questionScreenshot, questionType) {
     userAnswer = userAnswer === "" ? "No answer provided" : userAnswer;
     try {
         console.log("Evaluating answer...");
         const userPrompt = `
         question: ${question.content.question}
         hand written submission: ${userAnswer} 
-        rubrics: ${JSON.stringify(question.content.rubrics)}`;
-
-        // ${questionScreenshot}
+        rubrics: ${JSON.stringify(question.content.rubrics)}
+        ${questionType} === "ShortAnswer" ? "" : ${questionScreenshot}
+        `;
 
         const response = await runAssistant(
             state.apiKey,
@@ -956,20 +958,38 @@ async function evaluateAnswer(question, userAnswer, questionScreenshot) {
     }
 }
 
-// Update submitAnswer function to show feedback
+// Update submitAnswer function to check for API key
 async function submitAnswer(button) {
     const questionDiv = button.closest('.question');
     const feedbackDiv = questionDiv.querySelector('.feedback');
     const resetButton = button.nextElementSibling;
     const questionType = questionDiv.className.split(' ')[1];
     
+    // Get the current question
+    const grade = contentData.find(g => g.grade === state.selectedGrade);
+    const subject = grade.subjects.find(s => s.subject === state.selectedSubject);
+    const chapter = subject.chapters.find(c => c.chapterNumber === state.selectedChapter);
+    const worksheet = chapter.worksheets.find(w => w.id === state.selectedWorksheet);
+    const question = worksheet.questions[state.currentQuestionIndex];
+
+    // Capture only the question content div
+    let screenshotDataUrl = 'Screenshot unavailable';
+    try {
+        const questionContentDiv = questionDiv.querySelector('.question-content-wrapper');
+        const questionScreenshot = await html2canvas(questionContentDiv);
+        screenshotDataUrl = questionScreenshot.toDataURL('image/png');
+        console.log("Screenshot data URL:", screenshotDataUrl);
+    } catch (error) {
+        console.error('Error capturing screenshot:', error);
+    }
+    
     // Show loading state
     button.disabled = true;
-    button.textContent = 'Evaluating...';
+    button.textContent = 'Checking...';
     
     // Show feedback div with loading message
     feedbackDiv.style.display = 'block';
-    feedbackDiv.innerHTML = '<div class="loading">Evaluating your answer...</div>';
+    feedbackDiv.innerHTML = '<div class="loading">Checking your answer...</div>';
     
     // Get the answer based on question type
     let userAnswer;
@@ -978,66 +998,82 @@ async function submitAnswer(button) {
 
     switch (questionType) {
         case 'shortanswer':
-            userAnswer = questionDiv.querySelector('textarea').value;
+        case 'draw':
+        case 'labelthediagrams':
+            userAnswer = questionType === 'shortanswer' ? 
+                questionDiv.querySelector('textarea').value :
+                'Submission received';
             
-            // Get the current question being displayed
-            const grade = contentData.find(g => g.grade === state.selectedGrade);
-            const subject = grade.subjects.find(s => s.subject === state.selectedSubject);
-            const chapter = subject.chapters.find(c => c.chapterNumber === state.selectedChapter);
-            const worksheet = chapter.worksheets.find(w => w.id === state.selectedWorksheet);
-            const question = worksheet.questions[state.currentQuestionIndex];
-            
-            console.log("Current question:", question);
-            
-            if (question.content.rubrics) {
-                console.log("Starting evaluation...");
-                let screenshotDataUrl = 'Screenshot unavailable';
-                
-                // Capture screenshot of question div
-                try {
-                    const questionScreenshot = await html2canvas(questionDiv);
-                    screenshotDataUrl = questionScreenshot.toDataURL('image/png');
-                } catch (error) {
-                    console.error('Error capturing screenshot:', error);
-                }
-                evaluation = await evaluateAnswer(question, userAnswer, screenshotDataUrl);
-                console.log("Evaluation:", evaluation);
+            // Only use AI evaluation if API key is available and rubrics are present
+            if (state.apiKey && question.content.rubrics) {
+                button.textContent = 'Evaluating...';
+                feedbackDiv.innerHTML = '<div class="loading">Evaluating your answer...</div>';
+                evaluation = await evaluateAnswer(question, userAnswer, screenshotDataUrl, questionType);
             }
             break;
-        case 'draw':
-            userAnswer = 'Drawing submission';
-            break;
+
         case 'fillintheblank':
             const inputs = Array.from(questionDiv.querySelectorAll('input.blank'));
             userAnswer = inputs.map(input => input.value).join(', ');
-            const correctAnswers = inputs.map(input => input.dataset.answer);
-            isCorrect = inputs.every((input, i) => input.value.trim().toLowerCase() === correctAnswers[i].toLowerCase());
+            const correctBlankAnswers = inputs.map(input => input.dataset.answer);
+            isCorrect = inputs.every((input, i) => 
+                input.value.trim().toLowerCase() === correctBlankAnswers[i].toLowerCase()
+            );
             break;
+
         case 'trueorfalse':
             const selectedValue = questionDiv.querySelector('input[type="radio"]:checked')?.value;
             userAnswer = selectedValue ? (selectedValue === 'true' ? 'True' : 'False') : 'Not answered';
-            isCorrect = selectedValue === questionDiv.querySelector('.model-answer').textContent.trim().toLowerCase();
+            isCorrect = selectedValue === String(question.content.isTrue).toLowerCase();
             break;
+
         case 'simplemcq':
             const selectedOption = questionDiv.querySelector('input[type="radio"]:checked');
             if (selectedOption) {
-                userAnswer = selectedOption.nextElementSibling.textContent;
-                const correctAnswer = questionDiv.querySelector('.model-answer p').textContent;
-                isCorrect = userAnswer.trim() === correctAnswer.trim();
+                const selectedIndex = parseInt(selectedOption.value);
+                userAnswer = question.content.options[selectedIndex];
+                isCorrect = selectedIndex === question.content.correctAnswer;
             } else {
                 userAnswer = 'Not answered';
             }
             break;
+
         case 'matchthefollowing':
-            const selects = Array.from(questionDiv.querySelectorAll('.matching-select'));
-            const answers = selects.map(select => select.value);
-            userAnswer = answers.map((answer, index) => {
-                const pair = question.content.pairs[index];
-                const selectedRight = question.content.pairs[answer]?.right || 'Not selected';
-                return `${pair.left} → ${selectedRight}`;
-            }).join('\n');
-            isCorrect = answers.every((answer, index) => answer === index.toString());
+            const rightColumn = questionDiv.querySelector('.matching-right-column');
+            const pairs = JSON.parse(rightColumn.dataset.pairs);
+            const currentAnswers = Array.from(rightColumn.querySelectorAll('.matching-item'))
+                .map(item => item.textContent.trim());
+            
+            const leftItems = Array.from(questionDiv.querySelectorAll('.matching-left-column .matching-item'))
+                .map(item => item.textContent.trim());
+            
+            // Create current pairs for display
+            const userPairs = leftItems.map((left, i) => 
+                `${left} → ${currentAnswers[i]}`
+            );
+            
+            // Check if each pair matches the original pairs
+            isCorrect = pairs.every((pair, index) => {
+                const currentLeft = leftItems[index];
+                const currentRight = currentAnswers[index];
+                return pair.left === currentLeft && pair.right === currentRight;
+            });
+            
+            // Format answer display with proper spacing
+            userAnswer = `<div class="matching-pairs">
+                ${userPairs.map(pair => `<div class="matching-pair-result">${pair}</div>`).join('')}
+            </div>`;
             break;
+
+        case 'circle':
+            const circledWords = Array.from(questionDiv.querySelectorAll('.circle-word.circled'))
+                .map(word => word.textContent.trim());
+            userAnswer = circledWords.join(', ');
+            const correctWords = question.content.correctWords.map(word => word.trim());
+            isCorrect = correctWords.length === circledWords.length && 
+                correctWords.every(word => circledWords.includes(word));
+            break;
+
         default:
             userAnswer = 'Answer submitted';
     }
@@ -1050,25 +1086,26 @@ async function submitAnswer(button) {
     button.textContent = 'Submitted';
     resetButton.style.display = 'inline-block';
 
-    // Automatically show the answer
-    const toggleAnswerButton = questionDiv.querySelector('.toggle-answer');
-    const answerSection = toggleAnswerButton.nextElementSibling;
-    answerSection.style.display = 'block';
-    toggleAnswerButton.textContent = 'Hide Answer';
+    // Show the answer for incorrect responses or if evaluation was performed
+    if (!isCorrect || evaluation) {
+        const toggleAnswerButton = questionDiv.querySelector('.toggle-answer');
+        const answerSection = toggleAnswerButton.nextElementSibling;
+        answerSection.style.display = 'block';
+        toggleAnswerButton.textContent = 'Hide Answer';
+    }
 }
 
 // Update the feedback display function
 function updateFeedbackDisplay(feedbackDiv, userAnswer, evaluation, isCorrect) {
-    console.log("Updating feedback display...");
-    
     // Ensure feedback div is visible
     feedbackDiv.style.display = 'block';
     
     feedbackDiv.innerHTML = `
         <div class="feedback-content">
             <div class="answer-section">
-                <h4>Your Response</h4>
-                <p class="user-answer">${userAnswer === "" ? 'No answer provided' : userAnswer}</p>
+                <div class="feedback-status ${isCorrect ? 'correct' : 'incorrect'}">
+                    ${userAnswer === "" ? 'No answer provided' : userAnswer}
+                </div>
                 ${evaluation ? `
                     <div class="evaluation-results">
                         <h4>AI Evaluated Score: ${evaluation.score}/${evaluation.maxScore}</h4>
@@ -1085,17 +1122,13 @@ function updateFeedbackDisplay(feedbackDiv, userAnswer, evaluation, isCorrect) {
                             : `<div class="evaluation-feedback">${evaluation}</div>`
                         }
                     </div>
-                ` : isCorrect !== undefined ? `
-                    <div class="feedback-status ${isCorrect ? 'correct' : 'incorrect'}">
-                        ${isCorrect ? '✓ Correct!' : '✗ Incorrect, try again'}
-                    </div>
                 ` : ''}
             </div>
         </div>
     `;
 }
 
-// Add reset answer function
+// Update reset answer function
 window.resetAnswer = function(button) {
     const questionDiv = button.closest('.question');
     const submitButton = button.previousElementSibling;
@@ -1114,25 +1147,39 @@ window.resetAnswer = function(button) {
         case 'simplemcq':
             questionDiv.querySelectorAll('input[type="radio"]').forEach(radio => radio.checked = false);
             break;
-        // Add other question types as needed
+        case 'matchthefollowing':
+            // Re-shuffle the right column items
+            const rightColumn = questionDiv.querySelector('.matching-right-column');
+            const items = Array.from(rightColumn.querySelectorAll('.matching-item'));
+            items.sort(() => Math.random() - 0.5).forEach(item => rightColumn.appendChild(item));
+            break;
+        case 'circle':
+            questionDiv.querySelectorAll('.circle-word.circled').forEach(word => {
+                word.classList.remove('circled');
+            });
+            break;
     }
 
     // Hide feedback
     feedbackDiv.style.display = 'none';
+    feedbackDiv.innerHTML = '';
 
     // Hide answer section and reset toggle button
     const toggleAnswerButton = questionDiv.querySelector('.toggle-answer');
-    const answerSection = toggleAnswerButton.nextElementSibling;
-    answerSection.style.display = 'none';
+    const modalOverlay = questionDiv.querySelector('.modal-overlay');
+    modalOverlay.classList.remove('active');
     toggleAnswerButton.textContent = 'Show Answer';
 
     // Enable submit button and hide reset button
     submitButton.disabled = false;
     submitButton.textContent = 'Submit Answer';
     button.style.display = 'none';
+
+    // Restore body scroll if modal was open
+    document.body.style.overflow = '';
 };
 
-// Add helper function to get model answer based on question type
+// Update getModelAnswer function for match-the-following
 function getModelAnswer(question) {
     switch (question.type) {
         case 'FillInTheBlanks':
@@ -1147,6 +1194,14 @@ function getModelAnswer(question) {
             return question.content.answer;
         case 'SimpleMCQ':
             return question.content.options[question.content.correctAnswer];
+        case 'MatchTheFollowing':
+            return `<div class="matching-pairs">
+                ${question.content.pairs.map(pair => 
+                    `<div class="matching-pair-result correct">
+                        ${pair.left} → ${pair.right}
+                    </div>`
+                ).join('')}
+            </div>`;
         default:
             return question.content.answer || 'Answer not available';
     }
@@ -1186,4 +1241,12 @@ document.addEventListener('keydown', function(event) {
             closeAnswerModal(activeModal.querySelector('.modal-close'));
         }
     }
-}); 
+});
+
+// Add skipApiKey function
+window.skipApiKey = function() {
+    state.apiKey = null;
+    document.getElementById('apiKeyForm').style.display = 'none';
+    document.getElementById('mainContent').style.display = 'block';
+    init();
+}; 
