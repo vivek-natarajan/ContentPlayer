@@ -1095,9 +1095,9 @@ header h1 {
     color: var(--text-primary);
 }
 
-.matching-pair-result.correct {
-    /* border-left: 3px solid var(--success-color); */
-}
+/* .matching-pair-result.correct {
+    border-left: 3px solid var(--success-color);
+} */
 
 .correct-pairs-header {
     margin-top: 0.75rem;
