@@ -1,0 +1,324 @@
+{
+  "id": "fesc110_exercises",
+  "metadata": {
+    "book": "NCERT: Science - Textbook for Class VI",
+    "bookId": "fesc110",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Science",
+    "timestamp": "2025-01-16T10:34:19.877Z",
+    "chapter": "Fun with Magnets"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Fun with Magnets",
+      "exerciseNumber": "10",
+      "exerciseName": "Fun with Magnets",
+      "page": "113-114",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Artificial magnets are made in different shapes such as ",
+                "isBlank": false
+              },
+              {
+                "text": "bar",
+                "isBlank": true
+              },
+              {
+                "text": ", ",
+                "isBlank": false
+              },
+              {
+                "text": "cylindrical",
+                "isBlank": true
+              },
+              {
+                "text": " and ",
+                "isBlank": false
+              },
+              {
+                "text": "horseshoe",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The Materials which are attracted towards a magnet are called ",
+                "isBlank": false
+              },
+              {
+                "text": "magnetic materials",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Paper is not a ",
+                "isBlank": false
+              },
+              {
+                "text": "magnetic",
+                "isBlank": true
+              },
+              {
+                "text": " material.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "In olden days, sailors used to find direction by suspending a piece of ",
+                "isBlank": false
+              },
+              {
+                "text": "lodestone",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "A magnet always has ",
+                "isBlank": false
+              },
+              {
+                "text": "two",
+                "isBlank": true
+              },
+              {
+                "text": " poles.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "A cylindrical magnet has only one pole.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Artificial magnets were discovered in Greece.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Similar poles of a magnet repel each other.",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Maximum iron filings stick in the middle of a bar magnet when it is brought near them.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Bar magnets always point towards North-South direction.",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "A compass can be used to find East-West direction at any place.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Rubber is a magnetic material.",
+            "answer": false
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "It was observed that a pencil sharpener gets attracted by both the poles of a magnet although its body is made of plastic. Name a material that might have been used to make some part of it."
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "N-N ",
+                "isBlank": false
+              },
+              {
+                "text": "Repulsion",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "S-N ",
+                "isBlank": false
+              },
+              {
+                "text": "Attraction",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "N-S ",
+                "isBlank": false
+              },
+              {
+                "text": "Attraction",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "S-S ",
+                "isBlank": false
+              },
+              {
+                "text": "Repulsion",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write any two properties of a magnet."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Where are poles of a bar magnet located?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "A bar magnet has no markings to indicate its poles. How would you find out near which end is its north pole located?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "You are given an iron strip. How will you make it into a magnet?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How is a compass used to find directions?"
+          }
+        },
+        {
+          "type": "MatchTheFollowing",
+          "content": {
+            "question": "Match the statements given in Column I with those in Column II.",
+            "pairs": [
+              {
+                "left": "Boat gets attracted towards the magnet",
+                "right": "Boat is fitted with a magnet with north pole towards its head"
+              },
+              {
+                "left": "Boat is not affected by the magnet",
+                "right": "Boat is fitted with a magnet with south pole towards its head"
+              },
+              {
+                "left": "Boat moves towards the magnet",
+                "right": "Magnet's pole is brought near its head"
+              },
+              {
+                "left": "Boat moves away from the magnet",
+                "right": "Boat is made of magnetic material"
+              },
+              {
+                "left": "Boat floats without changing direction",
+                "right": "Boat is made of non-magnetic material"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

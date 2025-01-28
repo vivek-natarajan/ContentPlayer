@@ -1,0 +1,70 @@
+{
+  "id": "fepw104_exercises",
+  "metadata": {
+    "book": "NCERT: A Pact with the Sun - Supplementary Reader in English for Class VI",
+    "bookId": "fepw104",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "English",
+    "timestamp": "2025-01-16T17:07:42.215Z",
+    "chapter": "Tansen"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Exercise Worksheet",
+      "exerciseNumber": "1",
+      "exerciseName": "Questions",
+      "page": "14-15",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why did Swami Haridas say Tansen was ‘talented’?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why did Akbar ask Tansen to join his court?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How do we know that Akbar was fond of Tansen? Give two reasons."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What did the other courtiers feel about Tansen?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What happens if Raga Deepak is sung properly? Why did Tansen’s enemies want him to sing the Raga?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why did Tansen agree to sing Raga Deepak?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What steps did he take to save himself? Did his plan work? How?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Are you interested in music? Do you like classical music? Name a few distinguished Indian musicians."
+          }
+        }
+      ]
+    }
+  ]
+}

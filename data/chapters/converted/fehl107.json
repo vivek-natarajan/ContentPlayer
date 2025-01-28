@@ -1,0 +1,477 @@
+{
+  "id": "fehl107_exercises",
+  "metadata": {
+    "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
+    "bookId": "fehl107",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "English",
+    "timestamp": "2025-01-16T17:00:04.539Z",
+    "chapter": "Fair Play"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Working with the Text",
+      "exerciseNumber": "1",
+      "exerciseName": "Working with the Text",
+      "page": "84",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "\"Then the situation changed.\" What is being referred to?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "When Jumman’s aunt realised that she was not welcome in his house, what arrangement did she suggest?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What was the villagers’ reaction when the aunt explained her case to them?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why was Jumman happy over Algu’s nomination as head Panch?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "\"God lives in the heart of the Panch.\" the aunt said. What did she mean?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What was Algu’s verdict as head Panch? How did Jumman take it?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Algu found himself in a tight spot. What was his problem?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why was Algu upset over Jumman’s nomination as head Panch?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What was Jumman’s verdict as head Panch? How did Algu take it?"
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Which of the following sums up the story best? Give a reason for your choice.",
+            "options": [
+              "\"I also know that you will not kill your conscience for the sake of friendship.\"",
+              "\"Let no one deviate from the path of justice and truth for friendship or enmity.\"",
+              "\"The voice of the Panch is the voice of God.\""
+            ],
+            "correctAnswer": null
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with Language",
+      "exerciseNumber": "2",
+      "exerciseName": "Working with Language",
+      "page": "85-86",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "The best way to avoid an unnecessary argument is to ",
+                "isBlank": false
+              },
+              {
+                "text": "keep mum",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "Unfortunately, the train I was trying to catch was cancelled ",
+                "isBlank": false
+              },
+              {
+                "text": "as ill luck would have it",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "He has been told not to ",
+                "isBlank": false
+              },
+              {
+                "text": "take chances",
+                "isBlank": true
+              },
+              {
+                "text": " while driving a car through a crowded street.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "The patient needs to be properly ",
+                "isBlank": false
+              },
+              {
+                "text": "looked after",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "Why don’t the two of you ",
+                "isBlank": false
+              },
+              {
+                "text": "make it up",
+                "isBlank": true
+              },
+              {
+                "text": " by shaking hands?",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "I was in ",
+                "isBlank": false
+              },
+              {
+                "text": "a tight spot",
+                "isBlank": true
+              },
+              {
+                "text": " till my friends came to my rescue.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "When I saw a pile of dirty dishes, ",
+                "isBlank": false
+              },
+              {
+                "text": "my heart sank",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "I will ",
+                "isBlank": false
+              },
+              {
+                "text": "go into",
+                "isBlank": true
+              },
+              {
+                "text": " the matter carefully before commenting on it.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "They criticised him in the meeting but he ",
+                "isBlank": false
+              },
+              {
+                "text": "swallowed",
+                "isBlank": true
+              },
+              {
+                "text": " without protest all the criticism.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "It will ",
+                "isBlank": false
+              },
+              {
+                "text": "ease my conscience",
+                "isBlank": true
+              },
+              {
+                "text": " to know that I had done nothing wrong.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Why don’t you ",
+                "isBlank": false
+              },
+              {
+                "text": "set down",
+                "isBlank": true
+              },
+              {
+                "text": " your ideas on paper?",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "A fund has been ",
+                "isBlank": false
+              },
+              {
+                "text": "set up",
+                "isBlank": true
+              },
+              {
+                "text": " for the soldiers’ families.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "We should ",
+                "isBlank": false
+              },
+              {
+                "text": "set aside",
+                "isBlank": true
+              },
+              {
+                "text": " a little money every month.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "You should buy some woollens before winter ",
+                "isBlank": false
+              },
+              {
+                "text": "sets in",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "They ",
+                "isBlank": false
+              },
+              {
+                "text": "set out",
+                "isBlank": true
+              },
+              {
+                "text": " on the last stage of their journey.",
+                "isBlank": false
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Speaking and Writing",
+      "exerciseNumber": "3",
+      "exerciseName": "",
+      "page": "87",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Look at the following picture. One asks a question, the other answers it. Then the answer is noted in a form as shown below.\nQuestions Yes/No Additional Response\n1. Do you like to meet people? Yes I do, but not always. I do have some close friends, though.\n2. Do you like the area you live in? No, I don’t. But I have no choice."
+          }
+        },
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Work in small groups. Ask your partner the questions given below. If possible, ask him/her a reason for saying Yes or No. Then tick Yes/No, whichever is proper.",
+            "text": "1. Do you have a separate room for sleep and study?\n2. Would you prefer to live in a joint family?\n3. Do you get on with people?\n4. Do you like the area you live in?\n5. Do you find the place overcrowded?\n6. Do you use public transport?\n7. Would you like a vehicle of your own?\n8. Do you like reading?\n9. Would you like to be a teacher/doctor/engineer/architect?",
+            "answers": []
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Now that you have completed the above project, write a brief report stating what you did, how you did it and the conclusion."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with the Poem",
+      "exerciseNumber": "4",
+      "exerciseName": "Working with the Poem",
+      "page": "89-90",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Who is the speaker in the poem? Who are the people the speaker meets? What are they doing?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What wishes does the child in the poem make? Why does the child want to be a hawker, a gardener, or a watchman? Pick out the lines in each stanza, which tell us this."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "From the way the child envies the hawker, the gardener, and the watchman, we can guess that there are many things the child has to do, or must not do. Make a list of the do’s and don’ts that the child doesn’t like. The first line is done for you. The child must come home at a fixed time. The child must not get his clothes dirty in the dust. Now add to the list your own complaints about the things you have to do, or must not do."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Like the child in the poem, you perhaps have your own wishes for yourself. Talk to your friend, using 'I wish I were...'"
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Find out the different kinds of work done by the people in your neighbourhood. Make different cards for different kinds of work. You can make the card colourful with pictures of the persons doing the work."
+          }
+        }
+      ]
+    }
+  ]
+}

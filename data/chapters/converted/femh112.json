@@ -1,0 +1,283 @@
+{
+  "id": "femh112_exercises",
+  "metadata": {
+    "book": "NCERT: Mathematics - Textbook for Class VI",
+    "bookId": "femh112",
+    "chapter": "Ratio and Proportion",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Mathematics",
+    "timestamp": "2025-01-16T10:09:32.556Z"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Exercises",
+      "exerciseNumber": "12.1",
+      "exerciseName": "Exercises",
+      "page": "184-186",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "There are 20 girls and 15 boys in a class. (a) What is the ratio of number of girls to the number of boys? (b) What is the ratio of number of girls to the total number of students in the class?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Out of 30 students in a class, 6 like football, 12 like cricket and remaining like tennis. Find the ratio of (a) Number of students liking football to number of students liking tennis. (b) Number of students liking cricket to total number of students."
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "See the figure and find the ratio of (a) Number of triangles to the number of circles inside the rectangle. (b) Number of squares to all the figures inside the rectangle. (c) Number of circles to all the figures inside the rectangle.",
+            "diagrams": [
+              {
+                "url": "Page 184"
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Distances travelled by Hamid and Akhtar in an hour are 9 km and 12 km. Find the ratio of speed of Hamid to the speed of Akhtar."
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Fill in the following blanks: [Are these equivalent ratios?]",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the ratio of the following: (a) 81 to 108 (b) 98 to 63 (c) 33 km to 121 km (d) 30 minutes to 45 minutes"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the ratio of the following: (a) 30 minutes to 1.5 hours (b) 40 cm to 1.5 m (c) 55 paise to ` 1 (d) 500 mL to 2 litres"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In a year, Seema earns ` 1,50,000 and saves ` 50,000. Find the ratio of (a) Money that Seema earns to the money she saves. (b) Money that she saves to the money she spends."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "There are 102 teachers in a school of 3300 students. Find the ratio of the number of teachers to the number of students."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In a college, out of 4320 students, 2300 are girls. Find the ratio of (a) Number of girls to the total number of students. (b) Number of boys to the number of girls. (c) Number of boys to the total number of students."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Out of 1800 students in a school, 750 opted basketball, 800 opted cricket and remaining opted table tennis. If a student can opt only one game, find the ratio of (a) Number of students who opted basketball to the number of students who opted table tennis. (b) Number of students who opted cricket to the number of students opting basketball. (c) Number of students who opted basketball to the total number of students."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Cost of a dozen pens is ` 180 and cost of 8 ball pens is ` 56. Find the ratio of the cost of a pen to the cost of a ball pen."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Consider the statement: Ratio of breadth and length of a hall is 2 : 5. Complete the following table that shows some possible breadths and lengths of the hall."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Exercises",
+      "exerciseNumber": "12.2",
+      "exerciseName": "Exercises",
+      "page": "189",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Determine if the following are in proportion. (a) 15, 45, 40, 120 (b) 33, 121, 9, 96 (c) 24, 28, 36, 48 (d) 32, 48, 70, 210 (e) 4, 6, 8, 12 (f) 33, 44, 75, 100"
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "16 : 24 :: 20 : 30",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "21: 6 :: 35 : 10",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "12 : 18 :: 28 : 12",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "8 : 9 :: 24 : 27",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "5.2 : 3.9 :: 3 : 4",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "0.9 : 0.36 :: 10 : 4",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Are the following statements true? 40 persons : 200 persons = ` 15 : ` 75",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Are the following statements true? 7.5 litres : 15 litres = 5 kg : 10 kg",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Are the following statements true? 99 kg : 45 kg = ` 44 : ` 20",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Are the following statements true? 32 m : 64 m = 6 sec : 12 sec",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Are the following statements true? 45 km : 60 km = 12 hours : 15 hours",
+            "answer": true
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Determine if the following ratios form a proportion. Also, write the middle terms and extreme terms where the ratios form a proportion. (a) 25 cm : 1 m and ` 40 : ` 160 (b) 39 litres : 65 litres and 6 bottles : 10 bottles (c) 2 kg : 80 kg and 25 g : 625 g (d) 200 mL : 2.5 litre and ` 4 : ` 50"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Exercises",
+      "exerciseNumber": "12.3",
+      "exerciseName": "Exercises",
+      "page": "192-193",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "If the cost of 7 m of cloth is ` 1470, find the cost of 5 m of cloth."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Ekta earns ` 3000 in 10 days. How much will she earn in 30 days?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "If it has rained 276 mm in the last 3 days, how many cm of rain will fall in one full week (7 days)? Assume that the rain continues to fall at the same rate."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Cost of 5 kg of wheat is ` 91.50. (a) What will be the cost of 8 kg of wheat? (b) What quantity of wheat can be purchased in ` 183?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The temperature dropped 15 degree celsius in the last 30 days. If the rate of temperature drop remains the same, how many degrees will the temperature drop in the next ten days?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Shaina pays ` 15000 as rent for 3 months. How much does she have to pay for a whole year, if the rent per month remains the same?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Cost of 4 dozen bananas is ` 180. How many bananas can be purchased for ` 90?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The weight of 72 books is 9 kg. What is the weight of 40 such books?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "A truck requires 108 litres of diesel for covering a distance of 594 km. How much diesel will be required by the truck to cover a distance of 1650 km?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Raju purchases 10 pens for ` 150 and Manish buys 7 pens for ` 84. Can you say who got the pens cheaper?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Anish made 42 runs in 6 overs and Anup made 63 runs in 7 overs. Who made more runs per over?"
+          }
+        }
+      ]
+    }
+  ]
+}

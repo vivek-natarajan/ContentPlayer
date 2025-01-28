@@ -1,0 +1,175 @@
+{
+  "id": "fesc108_exercises",
+  "metadata": {
+    "book": "NCERT: Science - Textbook for Class VI",
+    "bookId": "fesc108",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Science",
+    "timestamp": "2025-01-16T10:31:39.820Z",
+    "chapter": "Light, Shadows, and Reflections"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Rearranging Words",
+      "exerciseNumber": "1",
+      "exerciseName": "Rearranging Words",
+      "page": "93",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Rearrange the boxes given below to make a sentence that helps us understand opaque objects.\nO W S A K E O P A Q U E   O B J E C T   S M S H A D"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Classification of Materials",
+      "exerciseNumber": "2",
+      "exerciseName": "Classification of Materials",
+      "page": "93",
+      "questions": [
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Classify the objects or materials given below as opaque, transparent or translucent.",
+            "text": "Air\nWater\nA piece of rock\nA sheet of aluminium\nA mirror\nA wooden board\nA sheet of polythene\nA CD\nSmoke\nA sheet of plane glass\nFog\nA piece of red hot iron\nAn umbrella\nA lighted fluorescent tube\nA wall\nA sheet of carbon paper\nThe flame of a gas burner\nA sheet of cardboard\nA lighted torch\nA sheet of cellophane\nA wire mesh\nKerosene stove\nSun\nFirefly\nMoon",
+            "answers": [
+              "Air",
+              "Water",
+              "A sheet of polythene",
+              "A sheet of plane glass",
+              "A sheet of cellophane"
+            ]
+          }
+        },
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Classify the objects or materials given below as luminous or non-luminous.",
+            "text": "Air\nWater\nA piece of rock\nA sheet of aluminium\nA mirror\nA wooden board\nA sheet of polythene\nA CD\nSmoke\nA sheet of plane glass\nFog\nA piece of red hot iron\nAn umbrella\nA lighted fluorescent tube\nA wall\nA sheet of carbon paper\nThe flame of a gas burner\nA sheet of cardboard\nA lighted torch\nA sheet of cellophane\nA wire mesh\nKerosene stove\nSun\nFirefly\nMoon",
+            "answers": [
+              "A piece of red hot iron",
+              "A lighted fluorescent tube",
+              "The flame of a gas burner",
+              "A lighted torch",
+              "Sun",
+              "Firefly"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Creating Shapes with Shadows",
+      "exerciseNumber": "3",
+      "exerciseName": "Creating Shapes with Shadows",
+      "page": "93",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Can you think of creating a shape that would give a circular shadow if held in one way and a rectangular shadow if held in another way?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Reflection in a Dark Room",
+      "exerciseNumber": "4",
+      "exerciseName": "Reflection in a Dark Room",
+      "page": "93",
+      "questions": [
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "In a completely dark room, if you hold up a mirror in front of you, will you see a reflection of yourself in the mirror?",
+            "answer": false
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Suggested Activities",
+      "exerciseNumber": "5",
+      "exerciseName": "Suggested Activities",
+      "page": "94",
+      "questions": [
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "Make a row of your friends — A, B, C and D, standing in a line. Let one friend stand in front facing them and holding out a mirror towards them. Refer to Fig. 8.10.",
+            "diagrams": [
+              {
+                "url": "A row of friends with a mirror reflecting their images."
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Now, each person can tell who they are able to see in the mirror. If A is able to see B in the mirror, then can B also see A in the mirror? Similarly, for any two pairs amongst A, B, C, or D? If A is not able to see B in the mirror, then is B able to see A in the mirror? Similarly, for any two pairs amongst A, B, C, or D? This activity tells us something about the way light travels and gets reflected from mirrors."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Daayan-Baayan",
+      "exerciseNumber": "6",
+      "exerciseName": "Daayan-Baayan",
+      "page": "94",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Take a comb in your right hand and bring it up to your hair and look at yourself in the mirror. There is your familiar face, grinning at you. Wait, try and find out which is the hand holding the comb, in your mirror reflection. Is it the right hand or the left? You were holding it in your right hand, isn't it?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "While a pinhole camera seems to be giving us upside down images, a mirror seems to be turning right hand into left hand and the left into right hand. We will learn more about this in the higher classes."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Magic Device",
+      "exerciseNumber": "7",
+      "exerciseName": "Magic Device",
+      "page": "94",
+      "questions": [
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Magic Device—In the chapter on symmetry in your Mathematics textbook, you might have made an interesting device Kaleidoscope, that uses reflections. Now, let us make another device, a periscope, that uses reflections to see around corners! Ask one of your friends to stand in the corridor just outside the entrance to the classroom with a mirror in hand. Ask another friend also holding a mirror, to stand in the middle of classroom in front of the entrance. Now ask your friends to adjust their mirrors in such a way that the image of object on the other side of the corridor becomes visible to you while you are standing inside the class."
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "Now ask your friends to adjust their mirrors in such a way that the image of object on the other side of the corridor becomes visible to you while you are standing inside the class (Fig. 8.11).",
+            "diagrams": [
+              {
+                "url": "94"
+              }
+            ]
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "You can make a simple periscope by placing two mirrors in a ‘Z’ shaped box as shown in Fig. 8.12.",
+            "diagrams": [
+              {
+                "url": "94"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

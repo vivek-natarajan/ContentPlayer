@@ -1,0 +1,154 @@
+{
+  "id": "fess110_exercises",
+  "metadata": {
+    "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+    "bookId": "fess110",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "History",
+    "timestamp": "2025-01-16T11:26:21.705Z",
+    "chapter": "Buildings, Paintings, and Books"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Let's Recall",
+      "exerciseNumber": "1",
+      "exerciseName": "Let's Recall",
+      "page": "105-106",
+      "questions": [
+        {
+          "type": "MatchTheFollowing",
+          "content": {
+            "question": "Match the following",
+            "pairs": [
+              {
+                "left": "Stupa",
+                "right": "Mound"
+              },
+              {
+                "left": "Shikhara",
+                "right": "Tower"
+              },
+              {
+                "left": "Mandapa",
+                "right": "Place in temples where people could assemble"
+              },
+              {
+                "left": "Garbhagriha",
+                "right": "Place where the image of the deity is installed"
+              },
+              {
+                "left": "Pradakshina patha",
+                "right": "Circular path around the stupa"
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "___________ was a great astronomer.",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Stories about gods and goddesses are found in the _______________.",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "____________ is recognised as the author of the Sanskrit Ramayana.",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "___________ and __________ are two Tamil epics.",
+                "isBlank": true
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let's Discuss",
+      "exerciseNumber": "2",
+      "exerciseName": "",
+      "page": "106",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Make a list of the chapters in which you find mention of metal working. What are the metal objects mentioned or shown in those chapters?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Read the story on page 104. In what ways is the monkey king similar to or different from the kings you read about in Chapters 5 and 9?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find out more and tell a story from one of the epics."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let's Do",
+      "exerciseNumber": "3",
+      "exerciseName": "Let's Do",
+      "page": "106",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "List some steps that can be taken to make buildings and monuments accessible to differently abled people."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Try and list as many uses of paper as you can."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "If you could visit any one of the places described in this chapter, which would you choose and why?"
+          }
+        }
+      ]
+    }
+  ]
+}

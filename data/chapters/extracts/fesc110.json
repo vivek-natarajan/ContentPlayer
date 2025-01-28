@@ -1,0 +1,35 @@
+{
+  "id": "fesc110_exercises",
+  "metadata": {
+    "book": "NCERT: Science - Textbook for Class VI",
+    "bookId": "fesc110",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Science",
+    "timestamp": "2025-01-16T10:34:19.877Z",
+    "chapter": "Fun with Magnets"
+  },
+  "exercises": [
+    {
+      "exerciseNumber": "10",
+      "title": "Fun with Magnets",
+      "content": "1. Fill in the blanks in the following:\n   (i) Artificial magnets are made in different shapes such as __________, __________ and ____________.\n   (ii) The Materials which are attracted towards a magnet are called________.\n   (iii) Paper is not a ______ material.\n   (iv) In olden days, sailors used to find direction by suspending a piece of ___________.\n   (v) A magnet always has __________ poles.\n\n2. State whether the following statements are true or false:\n   (i) A cylindrical magnet has only one pole.\n   (ii) Artificial magnets were discovered in Greece.\n   (iii) Similar poles of a magnet repel each other.\n   (iv) Maximum iron filings stick in the middle of a bar magnet when it is brought near them.\n   (v) Bar magnets always point towards North-South direction.\n   (vi) A compass can be used to find East-West direction at any place.\n   (vii) Rubber is a magnetic material.\n\n3. It was observed that a pencil sharpener gets attracted by both the poles of a magnet although its body is made of plastic. Name a material that might have been used to make some part of it.\n\n4. Column I shows different positions in which one pole of a magnet is placed near that of the other. Column II indicates the resulting action between them for each situation. Fill in the blanks.\n\n   Column I       Column II\n   N-N           _________\n   _______-N     Attraction\n   N-S           _________\n   S-_________   Repulsion\n\n5. Write any two properties of a magnet.\n\n6. Where are poles of a bar magnet located?\n\n7. A bar magnet has no markings to indicate its poles. How would you find out near which end is its north pole located?\n\n8. You are given an iron strip. How will you make it into a magnet?\n\n9. How is a compass used to find directions?\n\n10. A magnet was brought from different directions towards a toy boat that has been floating in water in a tub. Affect observed in each case is stated in Column I. Possible reasons for the observed affects are mentioned in Column II. Match the statements given in Column I with those in Column II.\n\n   Column I       Column II\n   Boat gets attracted towards the magnet  Boat is fitted with a magnet with north pole towards its head\n   Boat is not affected by the magnet      Boat is fitted with a magnet with south pole towards its head\n   Boat moves towards the magnet          Magnet's pole is brought near its head\n   Boat moves away from the magnet        Boat is made of magnetic material\n   Boat floats without changing direction  Boat is made of non-magnetic material",
+      "pages": [
+        "113",
+        "114"
+      ],
+      "diagrams": [
+        {
+          "questionNumber": "10",
+          "reference": "A magnet was brought from different directions towards a toy boat that has been floating in water in a tub.",
+          "description": "Diagram showing a toy boat with a magnet approaching it from different directions.",
+          "labels": [
+            "Boat",
+            "Magnet"
+          ],
+          "location": "114"
+        }
+      ]
+    }
+  ]
+}

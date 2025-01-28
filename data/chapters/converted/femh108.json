@@ -1,0 +1,462 @@
+{
+  "id": "femh108_exercises",
+  "metadata": {
+    "book": "NCERT: Mathematics - Textbook for Class VI",
+    "bookId": "femh108",
+    "chapter": "Decimals",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Mathematics",
+    "timestamp": "2025-01-16T07:27:50.177Z"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Comparing Decimals",
+      "exerciseNumber": "8.1",
+      "exerciseName": "Comparing Decimals",
+      "page": "134",
+      "questions": [
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Which is greater? 0.3 or 0.4",
+            "options": [
+              "0.3",
+              "0.4"
+            ],
+            "correctAnswer": 1
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Which is greater? 0.07 or 0.02",
+            "options": [
+              "0.07",
+              "0.02"
+            ],
+            "correctAnswer": 0
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Which is greater? 3 or 0.8",
+            "options": [
+              "3",
+              "0.8"
+            ],
+            "correctAnswer": 0
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Which is greater? 0.5 or 0.05",
+            "options": [
+              "0.5",
+              "0.05"
+            ],
+            "correctAnswer": 0
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Which is greater? 1.23 or 1.2",
+            "options": [
+              "1.23",
+              "1.2"
+            ],
+            "correctAnswer": 0
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Which is greater? 0.099 or 0.19",
+            "options": [
+              "0.099",
+              "0.19"
+            ],
+            "correctAnswer": 1
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Which is greater? 1.5 or 1.50",
+            "options": [
+              "1.5",
+              "1.50"
+            ],
+            "correctAnswer": 0
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Which is greater? 1.431 or 1.490",
+            "options": [
+              "1.431",
+              "1.490"
+            ],
+            "correctAnswer": 1
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Which is greater? 3.3 or 3.300",
+            "options": [
+              "3.3",
+              "3.300"
+            ],
+            "correctAnswer": 0
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Which is greater? 5.64 or 5.603",
+            "options": [
+              "5.64",
+              "5.603"
+            ],
+            "correctAnswer": 0
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Make five more examples and find the greater number from them."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Expressing Units Using Decimals",
+      "exerciseNumber": "8.2",
+      "exerciseName": "Expressing Units Using Decimals",
+      "page": "136",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 5 paise as rupees using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 75 paise as rupees using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 20 paise as rupees using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 50 rupees 90 paise as rupees using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 725 paise as rupees using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 15 cm as metres using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 6 cm as metres using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 2 m 45 cm as metres using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 9 m 7 cm as metres using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 419 cm as metres using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 5 mm as cm using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 60 mm as cm using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 164 mm as cm using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 9 cm 8 mm as cm using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 93 mm as cm using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 8 m as km using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 88 m as km using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 8888 m as km using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 70 km 5 m as km using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 2 g as kg using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 100 g as kg using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 3750 g as kg using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 5 kg 8 g as kg using decimals."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express 26 kg 50 g as kg using decimals."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Addition of Numbers with Decimals",
+      "exerciseNumber": "8.3",
+      "exerciseName": "Addition of Numbers with Decimals",
+      "page": "138-139",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the sum in each of the following: (a) 0.007 + 8.5 + 30.08"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the sum in each of the following: (b) 15 + 0.632 + 13.8"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the sum in each of the following: (c) 27.076 + 0.55 + 0.004"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the sum in each of the following: (d) 25.65 + 9.005 + 3.7"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the sum in each of the following: (e) 0.75 + 10.425 + 2"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the sum in each of the following: (f) 280.69 + 25.2 + 38"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Rashid spent ` 35.75 for Maths book and ` 32.60 for Science book. Find the total amount spent by Rashid."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Radhika’s mother gave her ` 10.50 and her father gave her ` 15.80, find the total amount given to Radhika by the parents."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Nasreen bought 3 m 20 cm cloth for her shirt and 2 m 5 cm cloth for her trouser. Find the total length of cloth bought by her."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Naresh walked 2 km 35 m in the morning and 1 km 7 m in the evening. How much distance did he walk in all?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Sunita travelled 15 km 268 m by bus, 7 km 7 m by car and 500 m on foot in order to reach her school. How far is her school from her residence?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Ravi purchased 5 kg 400 g rice, 2 kg 20 g sugar and 10 kg 850g flour. Find the total weight of his purchases."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Mathematics",
+      "exerciseNumber": "8.4",
+      "exerciseName": "Subtraction of Decimals",
+      "page": "140-141",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Subtract: ` 18.25 from ` 20.75"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Subtract: 202.54 m from 250 m"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Subtract: ` 5.36 from ` 8.40"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Subtract: 2.051 km from 5.206 km"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Subtract: 0.314 kg from 2.107 kg"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the value of: 9.756 – 6.28"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the value of: 21.05 – 15.27"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the value of: 18.5 – 6.79"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the value of: 11.6 – 9.847"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Raju bought a book for ` 35.65. He gave ` 50 to the shopkeeper. How much money did he get back from the shopkeeper?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Rani had ` 18.50. She bought one ice-cream for ` 11.75. How much money does she have now?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Tina had 20 m 5 cm long cloth. She cuts 4 m 50 cm length of cloth from this for making a curtain. How much cloth is left with her?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Namita travels 20 km 50 m every day. Out of this she travels 10 km 200 m by bus and the rest by auto. How much distance does she travel by auto?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Aakash bought vegetables weighing 10 kg. Out of this, 3 kg 500 g is onions, 2 kg 75 g is tomatoes and the rest is potatoes. What is the weight of the potatoes?"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "id": "fess204_exercises",
+  "metadata": {
+    "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
+    "bookId": "fess204",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Geography",
+    "timestamp": "2025-01-16T11:43:48.846Z",
+    "chapter": "Maps"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Answer the following questions briefly.",
+      "exerciseNumber": "1",
+      "exerciseName": "Answer the following questions briefly.",
+      "page": "28",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What are the three components of a map?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What are the four cardinal directions?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What do you mean by the term ‘the scale of the map’?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How are maps more helpful than a globe?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Distinguish between a map and a plan."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Which map provides detailed information?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How do symbols help in reading maps?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Worksheet",
+      "exerciseNumber": "2",
+      "exerciseName": "Tick the correct answers.",
+      "page": "29",
+      "questions": [
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Maps showing distribution of forests are",
+            "options": [
+              "Physical map",
+              "Thematic Map",
+              "Political map"
+            ],
+            "correctAnswer": 1
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "The blue colour is used for showing",
+            "options": [
+              "Water bodies",
+              "Mountains",
+              "Plains"
+            ],
+            "correctAnswer": 0
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "A compass is used –",
+            "options": [
+              "To show symbols",
+              "To find the main direction",
+              "To measure distance"
+            ],
+            "correctAnswer": 1
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "A scale is necessary",
+            "options": [
+              "For a map",
+              "For a sketch",
+              "For symbols"
+            ],
+            "correctAnswer": 0
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Worksheet",
+      "exerciseNumber": "3",
+      "exerciseName": "Draw a plan of your classroom",
+      "page": "29",
+      "questions": [
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Draw a plan of your classroom and show the teacher’s table, blackboard, desks, door and windows."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "",
+      "exerciseNumber": "4",
+      "exerciseName": "Draw a sketch of your school",
+      "page": "29",
+      "questions": [
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Draw a sketch of your school and locate the following: the principal’s room, your classroom, the playground, the library, some big trees, and drinking water."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Make the plan of a fun-park",
+      "exerciseNumber": "5",
+      "exerciseName": "Make the plan of a fun-park",
+      "page": "29",
+      "questions": [
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Make the plan of a fun-park where you can enjoy several activities: for example swings, slides, see-saw, merry-go-round, boating, swimming, looking into funny mirrors, etc., or anything else that you can think of."
+          }
+        }
+      ]
+    }
+  ]
+}

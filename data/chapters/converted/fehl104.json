@@ -1,0 +1,624 @@
+{
+  "id": "fehl104_exercises",
+  "metadata": {
+    "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
+    "bookId": "fehl104",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "English",
+    "timestamp": "2025-01-16T16:22:01.918Z",
+    "chapter": "An Indian – American Woman in Space: Kalpana Chawla"
+  },
+  "exercises": [
+    {
+      "worksheetName": "An Indian – American Woman in Space: Kalpana Chawla",
+      "exerciseNumber": "4",
+      "exerciseName": "An Indian – American Woman in Space: Kalpana Chawla",
+      "page": "48-49",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Where was Kalpana Chawla born? Why is she called an Indian – American?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "When and why did she go to the U.S.? Who did she marry?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How did she become an astronaut? What gave her the idea that she could be an astronaut?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What abilities must an astronaut have, according to the journalist?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Describe Kalpana Chawla’s first mission in space."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What does Kalpana Chawla say about pursuing a dream? Do you agree with her that success is possible?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with Language",
+      "exerciseNumber": "4.1",
+      "exerciseName": "B. Read the newspaper report to find the following facts about the Columbia’s ill-fated voyage.",
+      "page": "49",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Date and place of lift off: ",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Number of astronauts on board: ",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Number of days it stayed in space: ",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Number of experiments done by scientists: ",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Date of return journey: ",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Height at which it lost contact: ",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Match the following",
+      "exerciseNumber": "4.2",
+      "exerciseName": "Match the following",
+      "page": "50",
+      "questions": [
+        {
+          "type": "MatchTheFollowing",
+          "content": {
+            "question": "Match the terms with their correct descriptions.",
+            "pairs": [
+              {
+                "left": "unprecedented space tragedy",
+                "right": "a sad accident of a kind that has never happened before in space"
+              },
+              {
+                "left": "certified flight instructor",
+                "right": "a person with the correct qualification to teach people to fly planes"
+              },
+              {
+                "left": "space mission",
+                "right": "a set of jobs to be done in space by a group"
+              },
+              {
+                "left": "super specialisation",
+                "right": "great expertise in a limited field or a particular subject"
+              },
+              {
+                "left": "encyclopaedic knowledge",
+                "right": "having knowledge of a wide variety of subjects"
+              },
+              {
+                "left": "awe-inspiring",
+                "right": "something that causes feelings of respect and wonder"
+              },
+              {
+                "left": "in this age",
+                "right": "nowadays, in these times"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Use these phrases in sentences of your own",
+      "exerciseNumber": "4.3",
+      "exerciseName": "",
+      "page": "50",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Use the phrase 'broke apart' in a sentence of your own."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Use the phrase 'streaked over' in a sentence of your own."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Use the phrase 'spread across' in a sentence of your own."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Use the phrase 'lifted off' in a sentence of your own."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Use the phrase 'blast off' in a sentence of your own."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Use the phrase 'went on' in a sentence of your own."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Use the phrase 'cheered along' in a sentence of your own."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Use the phrase 'on board' in a sentence of your own."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Use the phrase 'carry on' in a sentence of your own."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "English Language Exercises",
+      "exerciseNumber": "4.4",
+      "exerciseName": "Make opposites using 'un-'",
+      "page": "50",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Add ‘un’– to the words below to make their opposites. Then look up the meanings of the words you have formed in the dictionary.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "identified",
+                "isBlank": false
+              },
+              {
+                "text": "unidentified",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "controlled",
+                "isBlank": false
+              },
+              {
+                "text": "uncontrolled",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "attended",
+                "isBlank": false
+              },
+              {
+                "text": "unattended",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "successful",
+                "isBlank": false
+              },
+              {
+                "text": "unsuccessful",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "important",
+                "isBlank": false
+              },
+              {
+                "text": "unimportant",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "educated",
+                "isBlank": false
+              },
+              {
+                "text": "uneducated",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "interesting",
+                "isBlank": false
+              },
+              {
+                "text": "uninteresting",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "qualified",
+                "isBlank": false
+              },
+              {
+                "text": "unqualified",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "trained",
+                "isBlank": false
+              },
+              {
+                "text": "untrained",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "answerable",
+                "isBlank": false
+              },
+              {
+                "text": "unanswerable",
+                "isBlank": true
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Speaking",
+      "exerciseNumber": "4.5",
+      "exerciseName": "Speaking",
+      "page": "51",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Form pairs. Use 'May you...' and 'I wish you/Wishing you' to wish your partner good luck and success in (i) a sports event, (ii) a quiz or a competition, and (iii) a test or examination. Be sure to thank your partner when she/he wishes you in turn."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Look up a telephone directory, or go to a post office, and get a list in English and Hindi of standard phrases that can be sent in greeting telegrams anywhere in India. Discuss which of these you might use, and when. Compare the English and Hindi phrases for expressing good wishes. Do you know such phrases in any other language?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Writing",
+      "exerciseNumber": "4.6",
+      "exerciseName": "Writing",
+      "page": "51",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Do you have a ‘dream’, or something you very much wish to do? Write a paragraph saying what you want or wish to do. Then say (in another paragraph) how you think you can make your dream come true."
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "colour",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": true
+              },
+              {
+                "text": "\n",
+                "isBlank": false
+              },
+              {
+                "text": "labor",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": true
+              },
+              {
+                "text": "\n",
+                "isBlank": false
+              },
+              {
+                "text": "traveler",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": true
+              },
+              {
+                "text": "\n",
+                "isBlank": false
+              },
+              {
+                "text": "counsellor",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": true
+              },
+              {
+                "text": "\n",
+                "isBlank": false
+              },
+              {
+                "text": "centre",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": true
+              },
+              {
+                "text": "\n",
+                "isBlank": false
+              },
+              {
+                "text": "theater",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": true
+              },
+              {
+                "text": "\n",
+                "isBlank": false
+              },
+              {
+                "text": "organize",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": true
+              },
+              {
+                "text": "\n",
+                "isBlank": false
+              },
+              {
+                "text": "realise",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": true
+              },
+              {
+                "text": "\n",
+                "isBlank": false
+              },
+              {
+                "text": "defense",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": true
+              },
+              {
+                "text": "\n",
+                "isBlank": false
+              },
+              {
+                "text": "offence",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

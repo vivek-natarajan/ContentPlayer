@@ -1,0 +1,238 @@
+{
+  "id": "fess206_exercises",
+  "metadata": {
+    "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
+    "bookId": "fess206",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Geography",
+    "timestamp": "2025-01-16T11:37:08.424Z",
+    "chapter": "Our Country – India"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Geography Worksheet",
+      "exerciseNumber": "1",
+      "exerciseName": "Answer the following questions briefly.",
+      "page": "46",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Name the major physical divisions of India."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "India shares its land boundaries with seven countries. Name them."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Which two major rivers fall into the Arabian Sea?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Name the delta formed by the Ganga and the Brahmaputra."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How many States and Union Territories are there in India? Which states have a common capital?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why do a large number of people live in the Northern plains?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why is Lakshadweep known as a coral island?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Geography Worksheet",
+      "exerciseNumber": "2",
+      "exerciseName": "Tick the correct answers.",
+      "page": "46-47",
+      "questions": [
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "The southernmost Himalayas are known as",
+            "options": [
+              "Shiwaliks",
+              "Himadri",
+              "Himachal"
+            ],
+            "correctAnswer": 0
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Sahyadris is also known as",
+            "options": [
+              "Aravali",
+              "Western Ghats",
+              "Himadri"
+            ],
+            "correctAnswer": 1
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "The Palk Strait lies between the countries",
+            "options": [
+              "Sri Lanka and Maldives",
+              "India and Sri Lanka",
+              "India and Maldives"
+            ],
+            "correctAnswer": 1
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "The Indian islands in the Arabian Sea are known as",
+            "options": [
+              "Andaman and Nicobar Islands",
+              "Lakshadweep Islands",
+              "Maldives"
+            ],
+            "correctAnswer": 1
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "The oldest mountain range in India is the",
+            "options": [
+              "Aravali hills",
+              "Western ghats",
+              "Himalayas"
+            ],
+            "correctAnswer": 0
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Geography Worksheet",
+      "exerciseNumber": "3",
+      "exerciseName": "Fill in the blanks.",
+      "page": "47",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "India has an area of about ",
+                "isBlank": false
+              },
+              {
+                "text": "3.287 million square kilometers",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The Greater Himalayas are also known as ",
+                "isBlank": false
+              },
+              {
+                "text": "Himadri",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The river Narmada falls into the ",
+                "isBlank": false
+              },
+              {
+                "text": "Arabian",
+                "isBlank": true
+              },
+              {
+                "text": " sea.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The latitude that runs almost halfway through India is ",
+                "isBlank": false
+              },
+              {
+                "text": "Tropic of Cancer",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Map skills",
+      "exerciseNumber": "4",
+      "exerciseName": "Map skills",
+      "page": "47",
+      "questions": [
+        {
+          "type": "Draw",
+          "content": {
+            "question": "On an outline map of India, mark the following: Tropic of Cancer, Standard Meridian of India, the state in which you live, Andaman Islands and Lakshadweep Islands, Western Ghats and Eastern Ghats."
+          }
+        }
+      ]
+    }
+  ]
+}

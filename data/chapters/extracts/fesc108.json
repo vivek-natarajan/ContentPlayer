@@ -1,0 +1,111 @@
+{
+  "id": "fesc108_exercises",
+  "metadata": {
+    "book": "NCERT: Science - Textbook for Class VI",
+    "bookId": "fesc108",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Science",
+    "timestamp": "2025-01-16T10:31:39.820Z",
+    "chapter": "Light, Shadows, and Reflections"
+  },
+  "exercises": [
+    {
+      "exerciseNumber": "1",
+      "title": "Rearranging Words",
+      "content": "Rearrange the boxes given below to make a sentence that helps us understand opaque objects.\nO W S A K E O P A Q U E   O B J E C T   S M S H A D",
+      "pages": [
+        "93"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "2",
+      "title": "Classification of Materials",
+      "content": "Classify the objects or materials given below as opaque, transparent or translucent and luminous or non-luminous:\nAir, water, a piece of rock, a sheet of aluminium, a mirror, a wooden board, a sheet of polythene, a CD, smoke, a sheet of plane glass, fog, a piece of red hot iron, an umbrella, a lighted fluorescent tube, a wall, a sheet of carbon paper, the flame of a gas burner, a sheet of cardboard, a lighted torch, a sheet of cellophane, a wire mesh, kerosene stove, sun, firefly, moon.",
+      "pages": [
+        "93"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "3",
+      "title": "Creating Shapes with Shadows",
+      "content": "Can you think of creating a shape that would give a circular shadow if held in one way and a rectangular shadow if held in another way?",
+      "pages": [
+        "93"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "4",
+      "title": "Reflection in a Dark Room",
+      "content": "In a completely dark room, if you hold up a mirror in front of you, will you see a reflection of yourself in the mirror?",
+      "pages": [
+        "93"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "5",
+      "title": "Suggested Activities",
+      "content": "1. Make a row of your friends — A, B, C and D, standing in a line. Let one friend stand in front facing them and holding out a mirror towards them (Fig. 8.10).\nNow, each person can tell who they are able to see in the Mirror. A,B, C, or D.\nIf, A is able to see B in the mirror then, can B also see A in the mirror? Similarly, for any two pairs amongst A,B,C, or D?\nIf A is not able to see B in the mirror, then, is B able to see A in the mirror?\nSimilarly, for any two pairs amongst A,B,C, or D?\nThis activity tells us something about the way light travels and gets reflected from mirrors. You will learn more about this in higher classes.",
+      "pages": [
+        "94"
+      ],
+      "diagrams": [
+        {
+          "questionNumber": "1",
+          "reference": "Let one friend stand in front facing them and holding out a mirror towards them (Fig. 8.10).",
+          "description": "A row of friends with a mirror reflecting their images.",
+          "labels": [
+            "A",
+            "B",
+            "C",
+            "D"
+          ],
+          "location": "94"
+        }
+      ]
+    },
+    {
+      "exerciseNumber": "6",
+      "title": "Daayan-Baayan",
+      "content": "2. Daayan-Baayan—Take a comb in your right hand and bring it up to your hair and look at yourself in the mirror. There is your familiar face, grinning at you.\nWait, try and find out which is the hand holding the comb, in your mirror reflection. Is it the right hand or the left? You were holding it in your right hand, isn't it?\nWhile a pinhole camera seems to be giving us upside down images, a mirror seems to be turning right hand into left hand and the left into right hand. We will learn more about this in the higher classes.",
+      "pages": [
+        "94"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "7",
+      "title": "Magic Device",
+      "content": "3. Magic Device—In the chapter on symmetry in your Mathematics textbook, you might have made an interesting device Kaleidoscope, that uses reflections. Now, let us make another device, a periscope, that uses reflections to see around corners! Ask one of your friends to stand in the corridor just outside the entrance to the classroom with a mirror in hand. Ask another friend also holding a mirror, to stand in the middle of classroom in front of the entrance. Now ask your friends to adjust their mirrors in such a way that the image of object on the other side of the corridor becomes visible to you while you are standing inside the class (Fig. 8.11).\nYou can make a simple periscope by placing two mirrors in a ‘Z’ shaped box as shown in Fig. 8.12.",
+      "pages": [
+        "94"
+      ],
+      "diagrams": [
+        {
+          "questionNumber": "3",
+          "reference": "Now ask your friends to adjust their mirrors in such a way that the image of object on the other side of the corridor becomes visible to you while you are standing inside the class (Fig. 8.11).",
+          "description": "Seeing around corners with a periscope setup.",
+          "labels": [
+            "Mirror 1",
+            "Mirror 2"
+          ],
+          "location": "94"
+        },
+        {
+          "questionNumber": "3",
+          "reference": "You can make a simple periscope by placing two mirrors in a ‘Z’ shaped box as shown in Fig. 8.12.",
+          "description": "A periscope setup with two mirrors in a ‘Z’ shaped box.",
+          "labels": [
+            "Mirror 1",
+            "Mirror 2"
+          ],
+          "location": "94"
+        }
+      ]
+    }
+  ]
+}

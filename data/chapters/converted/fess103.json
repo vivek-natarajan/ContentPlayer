@@ -1,0 +1,104 @@
+{
+  "id": "fess103_exercises",
+  "metadata": {
+    "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+    "bookId": "fess103",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "History",
+    "timestamp": "2025-01-16T10:49:38.329Z",
+    "chapter": "In the Earliest Cities"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Let’s recall",
+      "exerciseNumber": "1",
+      "exerciseName": "Let’s recall",
+      "page": "31",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How do archaeologists know that cloth was used in the Harappan civilisation?"
+          }
+        },
+        {
+          "type": "MatchTheFollowing",
+          "content": {
+            "question": "Match the columns",
+            "pairs": [
+              {
+                "left": "Copper",
+                "right": "Gujarat"
+              },
+              {
+                "left": "Gold",
+                "right": "Afghanistan"
+              },
+              {
+                "left": "Tin",
+                "right": "Rajasthan"
+              },
+              {
+                "left": "Precious stones",
+                "right": "Karnataka"
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why were metals, writing, the wheel, and the plough important for the Harappans?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let’s discuss",
+      "exerciseNumber": "2",
+      "exerciseName": "Let’s discuss",
+      "page": "31-32",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Make a list of all the terracotta toys shown in the lesson. Which do you think children would have enjoyed playing with the most?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Make a list of what the Harappans ate, and put a tick mark against the things you eat today."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Do you think that the life of farmers and herders who supplied food to the Harappan cities was different from that of the farmers and herders you read about in Chapter 2? Give reasons for your answer."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let’s do",
+      "exerciseNumber": "3",
+      "exerciseName": "Let’s do",
+      "page": "32",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Describe three important buildings in your city or village. Are they located in a special part of the settlement (e.g. the centre)? What are the activities that take place in these buildings?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Are there any old buildings in your locality? Find out how old they are and who looks after them."
+          }
+        }
+      ]
+    }
+  ]
+}

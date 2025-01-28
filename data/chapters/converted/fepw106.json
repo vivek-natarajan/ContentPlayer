@@ -1,0 +1,64 @@
+{
+  "id": "fepw106_exercises",
+  "metadata": {
+    "book": "NCERT: A Pact with the Sun - Supplementary Reader in English for Class VI",
+    "bookId": "fepw106",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "English",
+    "timestamp": "2025-01-16T18:43:18.663Z",
+    "chapter": "The Wonder Called Sleep"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Questions",
+      "exerciseNumber": "1",
+      "exerciseName": "Questions",
+      "page": "22-23",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is the most obvious advantage of sleep?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What happens to our body when we sleep?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Define a dream in your own words."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why are dreams important? Mention two reasons."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why has sleep been called a wonder?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Describe briefly to the class an improbable dream you have ever had."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Grandmothers and mothers sing nice little songs while rocking little ones to sleep. Such a song is called a ‘lullaby’. Do you remember a lullaby in your own language? Tell the class in English what the lullaby says."
+          }
+        }
+      ]
+    }
+  ]
+}

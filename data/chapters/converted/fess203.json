@@ -1,0 +1,271 @@
+{
+  "id": "fess203_exercises",
+  "metadata": {
+    "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
+    "bookId": "fess203",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Geography",
+    "timestamp": "2025-01-16T11:31:44.844Z",
+    "chapter": "Motions of the Earth"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Worksheet",
+      "exerciseNumber": "1",
+      "exerciseName": "Answer the following questions briefly.",
+      "page": "21",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is the angle of inclination of the earth’s axis with its orbital plane?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Define rotation and revolution."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is a leap year?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Differentiate between the Summer and Winter Solstice."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is an equinox?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why does the Southern Hemisphere experience Winter and Summer Solstice at different times than that of the Northern Hemisphere?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why do the poles experience about six months day and six months night?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Worksheet",
+      "exerciseNumber": "2",
+      "exerciseName": "Tick the correct answers.",
+      "page": "21",
+      "questions": [
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "The movement of the earth around the sun is known as",
+            "options": [
+              "Rotation",
+              "Revolution",
+              "Inclination"
+            ],
+            "correctAnswer": 1
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Direct rays of the sun fall on the equator on",
+            "options": [
+              "21 March",
+              "21 June",
+              "22 December"
+            ],
+            "correctAnswer": 0
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Christmas is celebrated in summer in",
+            "options": [
+              "Japan",
+              "India",
+              "Australia"
+            ],
+            "correctAnswer": 2
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Cycle of the seasons is caused due to",
+            "options": [
+              "Rotation",
+              "Revolution",
+              "Gravitation"
+            ],
+            "correctAnswer": 1
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "",
+      "exerciseNumber": "3",
+      "exerciseName": "Fill in the blanks.",
+      "page": "21",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "A leap year has",
+                "isBlank": false
+              },
+              {
+                "text": "366",
+                "isBlank": true
+              },
+              {
+                "text": "number of days.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The daily motion of the earth is",
+                "isBlank": false
+              },
+              {
+                "text": "rotation",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The earth travels around the sun in",
+                "isBlank": false
+              },
+              {
+                "text": "an elliptical",
+                "isBlank": true
+              },
+              {
+                "text": "orbit.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The sun’s rays fall vertically on the Tropic of",
+                "isBlank": false
+              },
+              {
+                "text": "Cancer",
+                "isBlank": true
+              },
+              {
+                "text": "on 21st June.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Days are shorter during",
+                "isBlank": false
+              },
+              {
+                "text": "winter",
+                "isBlank": true
+              },
+              {
+                "text": "season.",
+                "isBlank": false
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let's Do",
+      "exerciseNumber": "4",
+      "exerciseName": "Earth and Shadows",
+      "page": "22",
+      "questions": [
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Make a drawing to show the inclination of the earth."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Record the timings of sunrise and sunset at your place taking help from your local newspaper on the 21st of each month. In which month are the days the shortest?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Record the timings of sunrise and sunset at your place taking help from your local newspaper on the 21st of each month. In which months are the days and nights nearly equal?"
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Draw different shapes of ellipses by placing two pins nearer and farther using the same loop of thread. Notice when the ellipse becomes circular."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "On any sunny day, take a straight stick that is one metre long. Find out a clean and level place on the ground. Place this stick into the ground where it casts a distinctive (sharp) shadow. Mark the tip of the shadow with a stone or a twig or by any other means. The first shadow mark is always towards the west. See after 15 minutes and mark the tip of the shadow again. By then it would have moved a few centimetres away. Now join the two points and you have an approximate east-west line. Stand with the first mark to your left and the second mark to your right you are now facing north. This fact is true everywhere on the earth because the earth rotates in west to east direction. An alternative method is more accurate but requires more time. Set up your shadow stick and mark the first shadow in the morning. Use a piece of string to draw a clean arc through this mark around the stick. At mid-day, the shadow will shrink or disappear. In the afternoon, it will lengthen again and at the point where it touches the arc, make a second mark. Draw a line through the two marks to get an accurate east-west line."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "fess203_exercises",
+  "metadata": {
+    "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
+    "bookId": "fess203",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Geography",
+    "timestamp": "2025-01-16T11:31:44.844Z",
+    "chapter": "Motions of the Earth"
+  },
+  "exercises": [
+    {
+      "exerciseNumber": "1",
+      "title": "Answer the following questions briefly.",
+      "content": "(a) What is the angle of inclination of the earth’s axis with its orbital plane?\n(b) Define rotation and revolution.\n(c) What is a leap year?\n(d) Differentiate between the Summer and Winter Solstice.\n(e) What is an equinox?\n(f) Why does the Southern Hemisphere experience Winter and Summer Solstice in different times than that of the Northern Hemisphere?\n(g) Why do the poles experience about six months day and six months night?",
+      "pages": [
+        "21"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "2",
+      "title": "Tick the correct answers.",
+      "content": "(a) The movement of the earth around the sun is known as\n(i) Rotation (ii) Revolution (iii) Inclination\n\n(b) Direct rays of the sun fall on the equator on\n(i) 21 March (ii) 21 June (iii) 22 December\n\n(c) Christmas is celebrated in summer in\n(i) Japan (ii) India (iii) Australia\n\n(d) Cycle of the seasons is caused due to\n(i) Rotation (ii) Revolution (iii) Gravitation",
+      "pages": [
+        "21"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "3",
+      "title": "Fill in the blanks.",
+      "content": "(a) A leap year has _______________ number of days.\n(b) The daily motion of the earth is _______________.\n(c) The earth travels around the sun in ______________ orbit.\n(d) The sun’s rays fall vertically on the Tropic of ___________ on 21st June.\n(e) Days are shorter during ___________ season.",
+      "pages": [
+        "21"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "4",
+      "title": "Let's Do",
+      "content": "1. Make a drawing to show the inclination of the earth.\n\n2. Record the timings of sunrise and sunset at your place taking help from your local newspaper on the 21st of each month and answer the following:\n(a) In which month are the days the shortest?\n(b) In which months are the days and nights nearly equal?\n\n3. Draw different shapes of ellipses by placing two pins nearer and farther using the same loop of thread. Notice when the ellipse becomes circular.\n\n4. On any sunny day, take a straight stick that is one metre long. Find out a clean and level place on the ground. Place this stick into the ground where it casts a distinctive (sharp) shadow.\n\nStep (1): Mark the tip of the shadow with a stone or a twig or by any other means. The first shadow mark is always towards the west. See after 15 minutes and mark the tip of the shadow again. By then it would have moved a few centimetres away. Now join the two points and you have an approximate east-west line.\n\nStep (2): Stand with the first mark to your left and the second mark to your right you are now facing north. This fact is true everywhere on the earth because the earth rotates in west to east direction.\n\nAn alternative method is more accurate but requires more time. Set up your shadow stick and mark the first shadow in the morning. Use a piece of string to draw a clean arc through this mark around the stick. At mid-day, the shadow will shrink or disappear. In the afternoon, it will lengthen again and at the point where it touches the arc, make a second mark. Draw a line through the two marks to get an accurate east-west line.",
+      "pages": [
+        "22"
+      ],
+      "diagrams": []
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "fess101_exercises",
+  "metadata": {
+    "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+    "bookId": "fess101",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "History",
+    "timestamp": "2025-01-16T10:47:58.306Z",
+    "chapter": "Introduction: What, Where, How and When?"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Let's Recall",
+      "exerciseNumber": "1",
+      "exerciseName": "Let's Recall",
+      "page": "8",
+      "questions": [
+        {
+          "type": "MatchTheFollowing",
+          "content": {
+            "question": "Match the following:",
+            "pairs": [
+              {
+                "left": "Narmada Valley",
+                "right": "Hunting and gathering"
+              },
+              {
+                "left": "Magadha",
+                "right": "The first big kingdom"
+              },
+              {
+                "left": "Garo hills",
+                "right": "Early agriculture"
+              },
+              {
+                "left": "Indus and its tributaries",
+                "right": "The first cities"
+              },
+              {
+                "left": "Ganga Valley",
+                "right": "Cities about 2500 years ago"
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "List one major difference between manuscripts and inscriptions."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let's Discuss",
+      "exerciseNumber": "2",
+      "exerciseName": "",
+      "page": "9",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Return to Rasheeda’s question. Can you think of some answers to it?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Make a list of all the objects that archaeologists may find. Which of these could be made of stone?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why do you think ordinary men and women did not generally keep records of what they did?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Describe at least two ways in which you think the lives of kings would have been different from those of farmers."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let's Do",
+      "exerciseNumber": "3",
+      "exerciseName": "Let's Do",
+      "page": "9",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the word craftspersons on page 1. List at least five different crafts that you know about today. Are the craftspersons — (a) men (b) women (c) both men and women?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What were the subjects on which books were written in the past? Which of these would you like to read?"
+          }
+        }
+      ]
+    }
+  ]
+}

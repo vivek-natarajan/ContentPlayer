@@ -1,0 +1,249 @@
+{
+  "id": "fess202_exercises",
+  "metadata": {
+    "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
+    "bookId": "fess202",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Geography",
+    "timestamp": "2025-01-16T11:29:52.775Z",
+    "chapter": "Globe: Latitudes and Longitudes"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Answer the following questions briefly.",
+      "exerciseNumber": "1",
+      "exerciseName": "Answer the following questions briefly.",
+      "page": "16",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is the true shape of the earth?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is a globe?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is the latitudinal value of the Tropic of Cancer?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What are the three heat zones of the Earth?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What are parallels of latitude and meridians of longitude?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why does the torrid zone receive maximum amount of heat?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why is it 5.30 p.m. in India and 12.00 noon in London?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Tick the correct answers.",
+      "exerciseNumber": "2",
+      "exerciseName": "Tick the correct answers.",
+      "page": "16",
+      "questions": [
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "The value of the prime meridian is",
+            "options": [
+              "90°",
+              "0°",
+              "60°"
+            ],
+            "correctAnswer": 1
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "The frigid zone lies near",
+            "options": [
+              "the Poles",
+              "the Equator",
+              "the Tropic of Cancer"
+            ],
+            "correctAnswer": 0
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "The total number of longitudes are",
+            "options": [
+              "360",
+              "180",
+              "90"
+            ],
+            "correctAnswer": 0
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "The Antarctic circle is located in",
+            "options": [
+              "the Northern hemisphere",
+              "the Southern hemisphere",
+              "the Eastern hemisphere"
+            ],
+            "correctAnswer": 1
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Grid is a network of",
+            "options": [
+              "parallels of latitudes and meridians of longitudes",
+              "the Tropic of Cancer and the Tropic of Capricorn",
+              "the North Pole and the South Pole"
+            ],
+            "correctAnswer": 0
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Geography Worksheet",
+      "exerciseNumber": "3",
+      "exerciseName": "Fill in the blanks.",
+      "page": "17",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The Tropic of Capricorn is located at ",
+                "isBlank": false
+              },
+              {
+                "text": "23.5° S",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The Standard Meridian of India is ",
+                "isBlank": false
+              },
+              {
+                "text": "82.5° E",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The 0° Meridian is also known as ",
+                "isBlank": false
+              },
+              {
+                "text": "the Prime Meridian",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The distance between the longitudes decreases towards ",
+                "isBlank": false
+              },
+              {
+                "text": "the poles",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The Arctic Circle is located in the ",
+                "isBlank": false
+              },
+              {
+                "text": "Northern",
+                "isBlank": true
+              },
+              {
+                "text": " hemisphere.",
+                "isBlank": false
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Practical Activity",
+      "exerciseNumber": "4",
+      "exerciseName": "",
+      "page": "17",
+      "questions": [
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Draw a diagram of the globe showing the earth’s axis, the Equator, Tropics of Cancer and Capricorn, Arctic Circle and Antarctic Circle."
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Draw and cut out six circles of the same size (approx. 3 cm. radius) from cardboard. Mark diameters (NS, EW) and 23½° angles on each face of the circles as shown on the figure. Place the circles one on top of the other and stitch along the line NS. Now there are twelve semi-circles. Let one semi-circle represent 0° or Greenwich Meridian (Prime Meridian). The 6th semi-circle from it will be the 180° Meridian. Between the 0° and 180° there are 5 semi-circles on both sides which are West and East longitudes 30° apart. On two ends of the stapled line stick pins to represent the North and South Poles. A rubber band around the model touching the EW points will represent the Equator. Two rubber bands touching the 23½° points, South and North of the EW points will represent the tropics."
+          }
+        }
+      ]
+    }
+  ]
+}

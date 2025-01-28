@@ -1,0 +1,64 @@
+{
+  "id": "fepw101_exercises",
+  "metadata": {
+    "book": "NCERT: A Pact with the Sun - Supplementary Reader in English for Class VI",
+    "bookId": "fepw101",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "English",
+    "timestamp": "2025-01-16T17:02:36.670Z",
+    "chapter": "A Tale of Two Birds"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Worksheet",
+      "exerciseNumber": "1",
+      "exerciseName": "Questions",
+      "page": "3",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How did the two baby birds get separated?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Where did each of them find a home?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What did the first bird say to the stranger?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What did the second bird say to him?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How did the rishi explain the different ways in which the birds behaved?"
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Which one of the following sums up the story best?",
+            "options": [
+              "A bird in hand is worth two in the bush.",
+              "One is known by the company one keeps.",
+              "A friend in need is a friend indeed."
+            ],
+            "correctAnswer": 1
+          }
+        }
+      ]
+    }
+  ]
+}

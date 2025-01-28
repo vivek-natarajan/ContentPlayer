@@ -1,0 +1,309 @@
+{
+  "id": "femh110_exercises",
+  "metadata": {
+    "book": "NCERT: Mathematics - Textbook for Class VI",
+    "bookId": "femh110",
+    "chapter": "Mensuration",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Mathematics",
+    "timestamp": "2025-01-16T08:45:49.008Z"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Mathematics",
+      "exerciseNumber": "10.1",
+      "exerciseName": "Exercise 10.1",
+      "page": "160-162",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the perimeter of each of the following figures."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The lid of a rectangular box of sides 40 cm by 10 cm is sealed all round with tape. What is the length of the tape required?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "A table-top measures 2 m 25 cm by 1 m 50 cm. What is the perimeter of the table-top?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is the length of the wooden strip required to frame a photograph of length and breadth 32 cm and 21 cm respectively?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "A rectangular piece of land measures 0.7 km by 0.5 km. Each side is to be fenced with 4 rows of wires. What is the length of the wire needed?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the perimeter of each of the following shapes: (a) A triangle of sides 3 cm, 4 cm and 5 cm. (b) An equilateral triangle of side 9 cm. (c) An isosceles triangle with equal sides 8 cm each and third side 6 cm."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the perimeter of a triangle with sides measuring 10 cm, 14 cm and 15 cm."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the perimeter of a regular hexagon with each side measuring 8 m."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the side of the square whose perimeter is 20 m."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The perimeter of a regular pentagon is 100 cm. How long is each side?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "A piece of string is 30 cm long. What will be the length of each side if the string is used to form: (a) a square? (b) an equilateral triangle? (c) a regular hexagon?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Two sides of a triangle are 12 cm and 14 cm. The perimeter of the triangle is 36 cm. What is its third side?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the cost of fencing a square park of side 250 m at the rate of 20 per metre."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the cost of fencing a rectangular park of length 175 m and breadth 125 m at the rate of 12 per metre."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Sweety runs around a square park of side 75 m. Bulbul runs around a rectangular park with length 60 m and breadth 45 m. Who covers less distance?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is the perimeter of each of the following figures? What do you infer from the answers?"
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "Avneet buys 9 square paving slabs, each with a side of 1/2 m. He lays them in the form of a square.",
+            "diagrams": [
+              {
+                "url": "Fig 10.7(i)"
+              }
+            ]
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "Shari does not like Avneet's arrangement. She gets him to lay them out like a cross.",
+            "diagrams": [
+              {
+                "url": "Fig 10.7(ii)"
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Which arrangement has a greater perimeter?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Avneet wonders if there is a way of getting an even greater perimeter. Can you find a way of doing this? (The paving slabs must meet along complete edges i.e. they cannot be broken.)"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Exercise 10.2",
+      "exerciseNumber": "10.2",
+      "exerciseName": "Exercise 10.2",
+      "page": "164-165",
+      "questions": [
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "Find the areas of the following figures by counting square:",
+            "diagrams": [
+              {
+                "url": "Figures to be drawn on graph paper to count squares."
+              }
+            ]
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Draw any circle on a graph sheet. Count the squares and use them to estimate the area of the circular region."
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Trace shapes of leaves, flower petals and other such objects on the graph paper and find their areas."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Exercise 10.3",
+      "exerciseNumber": "10.3",
+      "exerciseName": "Exercise 10.3",
+      "page": "167-168",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the area of a rectangle with sides 3 cm and 4 cm."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the area of a rectangle with sides 12 m and 21 m."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the area of a rectangle with sides 2 km and 3 km."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the area of a rectangle with sides 2 m and 70 cm."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the area of a square with side 10 cm."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the area of a square with side 14 cm."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the area of a square with side 5 m."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The length and breadth of three rectangles are as follows: (a) 9 m and 6 m, (b) 17 m and 3 m, (c) 4 m and 14 m. Which one has the largest area and which one has the smallest?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The area of a rectangular garden 50 m long is 300 sq m. Find the width of the garden."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is the cost of tiling a rectangular plot of land 500 m long and 200 m wide at the rate of 8 per hundred sq m?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "A table-top measures 2 m by 1 m 50 cm. What is its area in square metres?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "A room is 4 m long and 3 m 50 cm wide. How many square metres of carpet is needed to cover the floor of the room?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "A floor is 5 m long and 4 m wide. A square carpet of sides 3 m is laid on the floor. Find the area of the floor that is not carpeted."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Five square flower beds each of sides 1 m are dug on a piece of land 5 m long and 4 m wide. What is the area of the remaining part of the land?"
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "By splitting the following figures into rectangles, find their areas (The measures are given in centimetres).",
+            "diagrams": [
+              {
+                "url": "168"
+              }
+            ]
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "Split the following shapes into rectangles and find their areas. (The measures are given in centimetres).",
+            "diagrams": [
+              {
+                "url": "168"
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How many tiles whose length and breadth are 12 cm and 5 cm respectively will be needed to fit in a rectangular region whose length and breadth are respectively: (a) 100 cm and 144 cm, (b) 70 cm and 36 cm."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "On a centimetre squared paper, make as many rectangles as you can, such that the area of the rectangle is 16 sq cm (consider only natural number lengths). (a) Which rectangle has the greatest perimeter? (b) Which rectangle has the least perimeter? If you take a rectangle of area 24 sq cm, what will be your answers? Given any area, is it possible to predict the shape of the rectangle with the greatest perimeter? With the least perimeter? Give example and reason."
+          }
+        }
+      ]
+    }
+  ]
+}

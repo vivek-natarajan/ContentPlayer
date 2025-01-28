@@ -1,0 +1,116 @@
+{
+  "id": "fesc111_exercises",
+  "metadata": {
+    "book": "NCERT: Science - Textbook for Class VI",
+    "bookId": "fesc111",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Science",
+    "timestamp": "2025-01-16T10:47:03.295Z",
+    "chapter": "Air Around Us"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Air Around Us",
+      "exerciseNumber": "11",
+      "exerciseName": "Air Around Us",
+      "page": "121-122",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is the composition of air?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Which gas in the atmosphere is essential for respiration?"
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "How will you prove that air supports burning?",
+            "diagrams": [
+              {
+                "url": "117"
+              }
+            ]
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "How will you show that air is dissolved in water?",
+            "diagrams": [
+              {
+                "url": "119"
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why does a lump of cotton wool shrink in water?"
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The layer of air around the earth is known as ",
+                "isBlank": false
+              },
+              {
+                "text": "atmosphere",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The component of air used by green plants to make their food, is ",
+                "isBlank": false
+              },
+              {
+                "text": "carbon dioxide",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "List five activities that are possible due to the presence of air."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How do plants and animals help each other in the exchange of gases in the atmosphere?"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "id": "fehl101_exercises",
+  "metadata": {
+    "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
+    "bookId": "fehl101",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "English",
+    "timestamp": "2025-01-16T11:52:53.156Z",
+    "chapter": "Who Did Patrick’s Homework?"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Who Did Patrick’s Homework?",
+      "exerciseNumber": "1",
+      "exerciseName": "Answer the following questions.",
+      "page": "11",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What did Patrick think his cat was playing with? What was it really?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why did the little man grant Patrick a wish?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What was Patrick’s wish?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In what subjects did the little man need help, to do Patrick’s homework?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How did Patrick help him?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Who do you think did Patrick’s homework — the little man, or Patrick himself? Give reasons for your answer."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with the Text",
+      "exerciseNumber": "2",
+      "exerciseName": "Fill in the Blanks",
+      "page": "12",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [
+              "out of luck",
+              "mystery",
+              "true to his word",
+              "chores",
+              "semester",
+              "between you and me",
+              "look up"
+            ],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "Some people find household ",
+                "isBlank": false
+              },
+              {
+                "text": "chores",
+                "isBlank": true
+              },
+              {
+                "text": " a bore, but I like to help at home.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [
+              "out of luck",
+              "mystery",
+              "true to his word",
+              "chores",
+              "semester",
+              "between you and me",
+              "look up"
+            ],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "Who stole the diamond is still a ",
+                "isBlank": false
+              },
+              {
+                "text": "mystery",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [
+              "out of luck",
+              "mystery",
+              "true to his word",
+              "chores",
+              "semester",
+              "between you and me",
+              "look up"
+            ],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "This ",
+                "isBlank": false
+              },
+              {
+                "text": "semester",
+                "isBlank": true
+              },
+              {
+                "text": " we are going to have a class exhibition.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [
+              "out of luck",
+              "mystery",
+              "true to his word",
+              "chores",
+              "semester",
+              "between you and me",
+              "look up"
+            ],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "True to his word",
+                "isBlank": true
+              },
+              {
+                "text": ", the elf began to help Patrick.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [
+              "out of luck",
+              "mystery",
+              "true to his word",
+              "chores",
+              "semester",
+              "between you and me",
+              "look up"
+            ],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "Can you ",
+                "isBlank": false
+              },
+              {
+                "text": "look up",
+                "isBlank": true
+              },
+              {
+                "text": " this word in the dictionary?",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [
+              "out of luck",
+              "mystery",
+              "true to his word",
+              "chores",
+              "semester",
+              "between you and me",
+              "look up"
+            ],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "I started early to be on time, but I was ",
+                "isBlank": false
+              },
+              {
+                "text": "out of luck",
+                "isBlank": true
+              },
+              {
+                "text": ". There was a traffic jam!",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [
+              "out of luck",
+              "mystery",
+              "true to his word",
+              "chores",
+              "semester",
+              "between you and me",
+              "look up"
+            ],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "She says she’s got a lot of books, but ",
+                "isBlank": false
+              },
+              {
+                "text": "between you and me",
+                "isBlank": true
+              },
+              {
+                "text": " I think most of them are borrowed.",
+                "isBlank": false
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with Language",
+      "exerciseNumber": "3",
+      "exerciseName": "Use the clues given below to complete this crossword puzzle.",
+      "page": "12",
+      "questions": [
+        {
+          "type": "Crossword",
+          "content": {
+            "question": "Complete the crossword using the given clues.",
+            "words": [
+              {
+                "word": "exhausted",
+                "hint": "very tired"
+              },
+              {
+                "word": "glared",
+                "hint": "had an angry look on the face"
+              },
+              {
+                "word": "shorts",
+                "hint": "short trousers"
+              },
+              {
+                "word": "defect",
+                "hint": "a fault in a machine that prevents it from working properly"
+              },
+              {
+                "word": "imp",
+                "hint": "a small and naughty boy-fairy"
+              },
+              {
+                "word": "chore",
+                "hint": "work that must be done everyday, often boring"
+              },
+              {
+                "word": "hamper",
+                "hint": "a basket with a lid"
+              },
+              {
+                "word": "squealed",
+                "hint": "gave a short, high-pitched cry"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Speaking",
+      "exerciseNumber": "4",
+      "exerciseName": "Speaking",
+      "page": "13",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In the story, Patrick does difficult things he hates to do because the elf pretends he needs help. Have you ever done something difficult or frightening by pretending about it in some way? Tell your classmates about it."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Say what you feel about homework. Do you think it is useful, even though you may not like it? Form pairs, and speak to each other. Use words and phrases like 'not be fond of', 'not take to', 'not develop a liking for', 'not appeal to', 'not be keen on', 'not have a taste for', 'support', 'assist with', 'the aid of', 'help', 'be a boon', 'give a boost to' to express your thoughts."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Writing",
+      "exerciseNumber": "5",
+      "exerciseName": "Writing",
+      "page": "14",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "This story has a lot of rhyming words, as a poem does. Can you write out some parts of it like a poem, so that the rhymes come at the end of separate lines? For example: Patrick never did homework. 'Too boring,' he said. He played baseball and hockey and Nintendo instead."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Rewrite the following incomplete sentences carefully, so that the reader does not have to guess what is left out: 1. more and more books 2. too difficult 3. got up late, missed the bus 4. solved the mystery"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Look at this cartoon by R.K.Laxman. Read the sentence given below the cartoon. Discuss the following questions with your partner: What is it about? Do you find it funny? If so, why? Do you think a cartoon is a serious drawing? Why or why not?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with the Poem",
+      "exerciseNumber": "6",
+      "exerciseName": "",
+      "page": "16",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Do you agree with what the poet says? Talk to your partner and complete these sentences.\n(i) A house is made of —————————————————––——— .\n(ii) It has ————————————————————————————— .\n(iii) A home is made by —————————————————––——— .\n(iv) It has —————————————––——————————————— ."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Now complete these sentences about your house and home.\n(i) My house is —————————————————––———————\n—————————————————––—————————————— .\n(ii) The best thing about my home is ————————————––——\n—————————————————––—————————————— ."
+          }
+        }
+      ]
+    }
+  ]
+}

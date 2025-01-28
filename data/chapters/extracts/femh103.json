@@ -1,0 +1,81 @@
+{
+  "id": "femh103_exercises",
+  "metadata": {
+    "book": "NCERT: Mathematics - Textbook for Class VI",
+    "bookId": "femh103",
+    "chapter": "Playing with Numbers",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Mathematics",
+    "timestamp": "2025-01-16T06:23:10.581Z"
+  },
+  "exercises": [
+    {
+      "exerciseNumber": "3.1",
+      "title": "Exercise 3.1",
+      "content": "1. Write all the factors of the following numbers:\n(a) 24 (b) 15 (c) 21\n(d) 27 (e) 12 (f) 20\n(g) 18 (h) 23 (i) 36\n\n2. Write first five multiples of:\n(a) 5 (b) 8 (c) 9\n\n3. Match the items in column 1 with the items in column 2.\n\nColumn 1 Column 2\n(i) 35 (a) Multiple of 8\n(ii) 15 (b) Multiple of 7\n(iii) 16 (c) Multiple of 70\n(iv) 20 (d) Factor of 30\n(v) 25 (e) Factor of 50\n(f) Factor of 20\n\n4. Find all the multiples of 9 up to 100.",
+      "pages": [
+        "28",
+        "29"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "3.2",
+      "title": "Exercise 3.2",
+      "content": "1. What is the sum of any two (a) Odd numbers? (b) Even numbers?\n\n2. State whether the following statements are True or False:\n(a) The sum of three odd numbers is even.\n(b) The sum of two odd numbers and one even number is even.\n(c) The product of three odd numbers is odd.\n(d) If an even number is divided by 2, the quotient is always odd.\n(e) All prime numbers are odd.\n(f) Prime numbers do not have any factors.\n(g) Sum of two prime numbers is always even.\n(h) 2 is the only even prime number.\n(i) All even numbers are composite numbers.\n(j) The product of two even numbers is always even.\n\n3. The numbers 13 and 31 are prime numbers. Both these numbers have same digits 1 and 3. Find such pairs of prime numbers up to 100.\n\n4. Write down separately the prime and composite numbers less than 20.\n\n5. What is the greatest prime number between 1 and 10?\n\n6. Express the following as the sum of two odd primes.\n(a) 44 (b) 36 (c) 24 (d) 18\n\n7. Give three pairs of prime numbers whose difference is 2.\n[Remark: Two prime numbers whose difference is 2 are called twin primes].\n\n8. Which of the following numbers are prime?\n(a) 23 (b) 51 (c) 37 (d) 26\n\n9. Write seven consecutive composite numbers less than 100 so that there is no prime number between them.\n\n10. Express each of the following numbers as the sum of three odd primes:\n(a) 21 (b) 31 (c) 53 (d) 61\n\n11. Write five pairs of prime numbers less than 20 whose sum is divisible by 5.\n(Hint: 3+7 = 10)\n\n12. Fill in the blanks:\n(a) A number which has only two factors is called a ______.\n(b) A number which has more than two factors is called a ______.\n(c) 1 is neither ______ nor ______.\n(d) The smallest prime number is ______.\n(e) The smallest composite number is _____.\n(f) The smallest even number is ______.",
+      "pages": [
+        "31",
+        "32"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "3.3",
+      "title": "Exercise 3.3",
+      "content": "1. Using divisibility tests, determine which of the following numbers are divisible by 2; by 3; by 4; by 5; by 6; by 8; by 9; by 10; by 11 (say, yes or no):\n\n2. Using divisibility tests, determine which of the following numbers are divisible by 4; by 8:\n(a) 572 (b) 726352 (c) 5500 (d) 6000 (e) 12159\n(f) 14560 (g) 21084 (h) 31795072 (i) 1700 (j) 2150\n\n3. Using divisibility tests, determine which of following numbers are divisible by 6:\n(a) 297144 (b) 1258 (c) 4335 (d) 61233 (e) 901352\n(f) 438750 (g) 1790184 (h) 12583 (i) 639210 (j) 17852\n\n4. Using divisibility tests, determine which of the following numbers are divisible by 11:\n(a) 5445 (b) 10824 (c) 7138965 (d) 70169308 (e) 10000001\n(f) 901153\n\n5. Write the smallest digit and the greatest digit in the blank space of each of the following numbers so that the number formed is divisible by 3:\n(a) __ 6724 (b) 4765 __ 2\n\n6. Write a digit in the blank space of each of the following numbers so that the number formed is divisible by 11:\n(a) 92 __ 389 (b) 8 __ 9484",
+      "pages": [
+        "35",
+        "36"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "3.4",
+      "title": "Exercise 3.4",
+      "content": "1. Find the common factors of:\n(a) 20 and 28 (b) 15 and 25 (c) 35 and 50 (d) 56 and 120\n\n2. Find the common factors of:\n(a) 4, 8 and 12 (b) 5, 15 and 25\n\n3. Find first three common multiples of:\n(a) 6 and 8 (b) 12 and 18\n\n4. Write all the numbers less than 100 which are common multiples of 3 and 4.\n\n5. Which of the following numbers are co-prime?\n(a) 18 and 35 (b) 15 and 37 (c) 30 and 415\n(d) 17 and 68 (e) 216 and 215 (f) 81 and 16\n\n6. A number is divisible by both 5 and 12. By which other number will that number be always divisible?\n\n7. A number is divisible by 12. By what other numbers will that number be divisible?",
+      "pages": [
+        "37"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "3.5",
+      "title": "Exercise 3.5",
+      "content": "1. Here are two different factor trees for 60. Write the missing numbers.\n\n2. Which factors are not included in the prime factorisation of a composite number?\n\n3. Write the greatest 4-digit number and express it in terms of its prime factors.\n\n4. Write the smallest 5-digit number and express it in the form of its prime factors.\n\n5. Find all the prime factors of 1729 and arrange them in ascending order. Now state the relation, if any; between two consecutive prime factors.\n\n6. The product of three consecutive numbers is always divisible by 6. Verify this statement with the help of some examples.\n\n7. The sum of two consecutive odd numbers is divisible by 4. Verify this statement with the help of some examples.\n\n8. In which of the following expressions, prime factorisation has been done?\n(a) 24 = 2 × 3 × 4 (b) 56 = 7 × 2 × 2 × 2\n(c) 70 = 2 × 5 × 7 (d) 54 = 2 × 3 × 9\n\n9. 18 is divisible by both 2 and 3. It is also divisible by 2 × 3 = 6. Similarly, a number is divisible by both 4 and 6. Can we say that the number must also be divisible by 4 × 6 = 24? If not, give an example to justify your answer.\n\n10. I am the smallest number, having four different prime factors. Can you find me?",
+      "pages": [
+        "39",
+        "40"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "3.6",
+      "title": "Exercise 3.6",
+      "content": "1. Find the HCF of the following numbers:\n(a) 18, 48 (b) 30, 42 (c) 18, 60 (d) 27, 63\n(e) 36, 84 (f) 34, 102 (g) 70, 105, 175\n(h) 91, 112, 49 (i) 18, 54, 81 (j) 12, 45, 75\n\n2. What is the HCF of two consecutive\n(a) numbers? (b) even numbers? (c) odd numbers?\n\nFind the HCF of the following:\n(i) 24 and 36 (ii) 15, 25 and 30\n(iii) 8 and 12 (iv) 12, 16 and 28\n\n3. HCF of co-prime numbers 4 and 15 was found as follows by factorisation:\n4 = 2 × 2 and 15 = 3 × 5 since there is no common prime factor, so HCF of 4 and 15 is 0. Is the answer correct? If not, what is the correct HCF?",
+      "pages": [
+        "41"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "3.7",
+      "title": "Exercise 3.7",
+      "content": "1. Renu purchases two bags of fertiliser of weights 75 kg and 69 kg. Find the maximum value of weight which can measure the weight of the fertiliser exact number of times.\n\n2. Three boys step off together from the same spot. Their steps measure 63 cm, 70 cm and 77 cm respectively. What is the minimum distance each should cover so that all can cover the distance in complete steps?\n\n3. The length, breadth and height of a room are 825 cm, 675 cm and 450 cm respectively. Find the longest tape which can measure the three dimensions of the room exactly.\n\n4. Determine the smallest 3-digit number which is exactly divisible by 6, 8 and 12.\n\n5. Determine the greatest 3-digit number exactly divisible by 8, 10 and 12.\n\n6. The traffic lights at three different road crossings change after every 48 seconds, 72 seconds and 108 seconds respectively. If they change simultaneously at 7 a.m., at what time will they change simultaneously again?\n\n7. Three tankers contain 403 litres, 434 litres and 465 litres of diesel respectively. Find the maximum capacity of a container that can measure the diesel of the three containers exact number of times.\n\n8. Find the least number which when divided by 6, 15 and 18 leave remainder 5 in each case.\n\n9. Find the smallest 4-digit number which is divisible by 18, 24 and 32.\n\n10. Find the LCM of the following numbers:\n(a) 9 and 4 (b) 12 and 5 (c) 6 and 5 (d) 15 and 4\n\nObserve a common property in the obtained LCMs. Is LCM the product of two numbers in each case?\n\n11. Find the LCM of the following numbers in which one number is the factor of the other.\n(a) 5, 20 (b) 6, 18 (c) 12, 48 (d) 9, 45\n\nWhat do you observe in the results obtained?",
+      "pages": [
+        "45"
+      ],
+      "diagrams": []
+    }
+  ]
+}

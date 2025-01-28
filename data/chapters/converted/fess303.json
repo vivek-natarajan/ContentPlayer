@@ -1,0 +1,144 @@
+{
+  "id": "fess303_exercises",
+  "metadata": {
+    "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+    "bookId": "fess303",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Civics",
+    "timestamp": "2025-01-16T11:44:53.855Z",
+    "chapter": "What is Government?"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Activities of the Government",
+      "exerciseNumber": "1",
+      "exerciseName": "Activities of the Government",
+      "page": "26",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Look at the newspaper headlines above and list the different kinds of activities that the government is reported to be doing in these newspaper headlines."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Isn’t this a wide range of activities? What do you think government is? Discuss in class."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Government Responsibilities",
+      "exerciseNumber": "2",
+      "exerciseName": "Government Responsibilities",
+      "page": "27",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Can you list three things that the government does which have not been mentioned."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Levels of Government",
+      "exerciseNumber": "3",
+      "exerciseName": "Exercise",
+      "page": "33",
+      "questions": [
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Identify which level the decision belongs to and place tick marks against the level you consider most appropriate.",
+            "text": "Local\nState\nCentral",
+            "answers": []
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The decision of the Government of India to maintain peaceful relations with Russia."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The decision of the Government of West Bengal on whether to have Board exam in Class 8 for all government schools."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Introduction of two new trains between Dibrugarh and Kanyakumari."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The decision to locate a common well in a particular area of the village."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Decision to construct a big children’s park in Patna."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The decision of the Government of Haryana to provide free electricity for all farmers."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Introduction of a new 1000 rupee note."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Understanding Government",
+      "exerciseNumber": "4",
+      "exerciseName": "Understanding Government",
+      "page": "33",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What do you understand by the word ‘government’? List five ways in which you think the government affects your daily life."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why do you think the government needs to make rules for everyone in the form of laws?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Name two essential features of a democratic government."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What was the suffrage movement? What did it accomplish?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Gandhiji strongly believed that every adult in India should be given the right to vote. However, a few people don’t share his views. They feel that illiterate people, who are mainly poor, should not be given the right to vote. What do you think? Do you think this would be a form of discrimination? Give five points to support your view and share these with the class."
+          }
+        }
+      ]
+    }
+  ]
+}

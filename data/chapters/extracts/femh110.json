@@ -1,0 +1,83 @@
+{
+  "id": "femh110_exercises",
+  "metadata": {
+    "book": "NCERT: Mathematics - Textbook for Class VI",
+    "bookId": "femh110",
+    "chapter": "Mensuration",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Mathematics",
+    "timestamp": "2025-01-16T08:45:49.008Z"
+  },
+  "exercises": [
+    {
+      "exerciseNumber": "10.1",
+      "title": "Exercise 10.1",
+      "content": "1. Find the perimeter of each of the following figures:\n2. The lid of a rectangular box of sides 40 cm by 10 cm is sealed all round with tape. What is the length of the tape required?\n3. A table-top measures 2 m 25 cm by 1 m 50 cm. What is the perimeter of the table-top?\n4. What is the length of the wooden strip required to frame a photograph of length and breadth 32 cm and 21 cm respectively?\n5. A rectangular piece of land measures 0.7 km by 0.5 km. Each side is to be fenced with 4 rows of wires. What is the length of the wire needed?\n6. Find the perimeter of each of the following shapes:\n   (a) A triangle of sides 3 cm, 4 cm and 5 cm.\n   (b) An equilateral triangle of side 9 cm.\n   (c) An isosceles triangle with equal sides 8 cm each and third side 6 cm.\n7. Find the perimeter of a triangle with sides measuring 10 cm, 14 cm and 15 cm.\n8. Find the perimeter of a regular hexagon with each side measuring 8 m.\n9. Find the side of the square whose perimeter is 20 m.\n10. The perimeter of a regular pentagon is 100 cm. How long is its each side?\n11. A piece of string is 30 cm long. What will be the length of each side if the string is used to form:\n    (a) a square?\n    (b) an equilateral triangle?\n    (c) a regular hexagon?\n12. Two sides of a triangle are 12 cm and 14 cm. The perimeter of the triangle is 36 cm. What is its third side?\n13. Find the cost of fencing a square park of side 250 m at the rate of 20 per metre.\n14. Find the cost of fencing a rectangular park of length 175 m and breadth 125 m at the rate of 12 per metre.\n15. Sweety runs around a square park of side 75 m. Bulbul runs around a rectangular park with length 60 m and breadth 45 m. Who covers less distance?\n16. What is the perimeter of each of the following figures? What do you infer from the answers?\n17. Avneet buys 9 square paving slabs, each with a side of 1/2 m. He lays them in the form of a square.\n    (a) What is the perimeter of his arrangement [Fig 10.7(i)]?\n    (b) Shari does not like his arrangement. She gets him to lay them out like a cross. What is the perimeter of her arrangement [(Fig 10.7 (ii)]?\n    (c) Which has greater perimeter?\n    (d) Avneet wonders if there is a way of getting an even greater perimeter. Can you find a way of doing this? (The paving slabs must meet along complete edges i.e. they cannot be broken.)",
+      "pages": [
+        "160",
+        "161",
+        "162"
+      ],
+      "diagrams": [
+        {
+          "questionNumber": "17(a)",
+          "reference": "What is the perimeter of his arrangement [Fig 10.7(i)]?",
+          "description": "Arrangement of paving slabs in the form of a square.",
+          "labels": [],
+          "location": "162"
+        },
+        {
+          "questionNumber": "17(b)",
+          "reference": "What is the perimeter of her arrangement [(Fig 10.7 (ii)]?",
+          "description": "Arrangement of paving slabs in the form of a cross.",
+          "labels": [],
+          "location": "162"
+        }
+      ]
+    },
+    {
+      "exerciseNumber": "10.2",
+      "title": "Exercise 10.2",
+      "content": "1. Find the areas of the following figures by counting square:\n2. Draw any circle on a graph sheet. Count the squares and use them to estimate the area of the circular region.\n3. Trace shapes of leaves, flower petals and other such objects on the graph paper and find their areas.",
+      "pages": [
+        "164",
+        "165"
+      ],
+      "diagrams": [
+        {
+          "questionNumber": "1",
+          "reference": "Find the areas of the following figures by counting square:",
+          "description": "Figures to be drawn on graph paper to count squares.",
+          "labels": [],
+          "location": "164"
+        }
+      ]
+    },
+    {
+      "exerciseNumber": "10.3",
+      "title": "Exercise 10.3",
+      "content": "1. Find the areas of the rectangles whose sides are:\n   (a) 3 cm and 4 cm\n   (b) 12 m and 21 m\n   (c) 2 km and 3 km\n   (d) 2 m and 70 cm\n2. Find the areas of the squares whose sides are:\n   (a) 10 cm\n   (b) 14 cm\n   (c) 5 m\n3. The length and breadth of three rectangles are as given below:\n   (a) 9 m and 6 m\n   (b) 17 m and 3 m\n   (c) 4 m and 14 m\n   Which one has the largest area and which one has the smallest?\n4. The area of a rectangular garden 50 m long is 300 sq m. Find the width of the garden.\n5. What is the cost of tiling a rectangular plot of land 500 m long and 200 m wide at the rate of 8 per hundred sq m?\n6. A table-top measures 2 m by 1 m 50 cm. What is its area in square metres?\n7. A room is 4 m long and 3 m 50 cm wide. How many square metres of carpet is needed to cover the floor of the room?\n8. A floor is 5 m long and 4 m wide. A square carpet of sides 3 m is laid on the floor. Find the area of the floor that is not carpeted.\n9. Five square flower beds each of sides 1 m are dug on a piece of land 5 m long and 4 m wide. What is the area of the remaining part of the land?\n10. By splitting the following figures into rectangles, find their areas (The measures are given in centimetres).\n11. Split the following shapes into rectangles and find their areas. (The measures are given in centimetres)\n12. How many tiles whose length and breadth are 12 cm and 5 cm respectively will be needed to fit in a rectangular region whose length and breadth are respectively:\n    (a) 100 cm and 144 cm\n    (b) 70 cm and 36 cm.\nA challenge!\nOn a centimetre squared paper, make as many rectangles as you can, such that the area of the rectangle is 16 sq cm (consider only natural number lengths).\n(a) Which rectangle has the greatest perimeter?\n(b) Which rectangle has the least perimeter?\nIf you take a rectangle of area 24 sq cm, what will be your answers?\nGiven any area, is it possible to predict the shape of the rectangle with the greatest perimeter? With the least perimeter? Give example and reason.",
+      "pages": [
+        "167",
+        "168"
+      ],
+      "diagrams": [
+        {
+          "questionNumber": "10",
+          "reference": "By splitting the following figures into rectangles, find their areas (The measures are given in centimetres).",
+          "description": "Figures to be split into rectangles.",
+          "labels": [],
+          "location": "168"
+        },
+        {
+          "questionNumber": "11",
+          "reference": "Split the following shapes into rectangles and find their areas. (The measures are given in centimetres)",
+          "description": "Shapes to be split into rectangles.",
+          "labels": [],
+          "location": "168"
+        }
+      ]
+    }
+  ]
+}

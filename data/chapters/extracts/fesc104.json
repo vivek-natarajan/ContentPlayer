@@ -1,0 +1,36 @@
+{
+  "id": "fesc104_exercises",
+  "metadata": {
+    "book": "NCERT: Science - Textbook for Class VI",
+    "bookId": "fesc104",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Science",
+    "timestamp": "2025-01-16T10:26:18.863Z",
+    "chapter": "Getting to Know Plants"
+  },
+  "exercises": [
+    {
+      "exerciseNumber": "4",
+      "title": "Getting to Know Plants",
+      "content": "1. Correct the following statements and rewrite them in your notebook.\n(a) Stem absorbs water and minerals from the soil.\n(b) Leaves hold the plant upright.\n(c) Roots conduct water to the leaves.\n(d) The number of petals and stamens in a flower is always equal.\n(e) If the sepals of a flower are joined together, its petals are also joined together.\n(f) If the petals of a flower are joined together, then the pistil is joined to the petal.\n\n2. Draw (a) a leaf, (b) a taproot and (c) a flower, you have studied for Table 4.3.\n\n3. Can you find a plant in your house or in your neighborhood, which has a long but weak stem? Write its name. In which category will you place it?\n\n4. What is the function of a stem?\n\n5. Which of the following leaves have reticulate venation?\nWheat, tulsi, maize, grass, coriander (dhania), China rose\n\n6. If a plant has fibrous root, what type of venation do its leaves have?\n\n7. If a plant has leaves with reticulate venation, what kind of roots will it have?\n\n8. Is it possible for you to find out whether a plant has taproot or fibrous roots by looking at the impression of its leaf on a sheet of paper?\n\n9. What are the parts of a flower?\n\n10. From the following plants, which of them have flowers?\nGrass, maize, wheat, chilli, tomato, tulsi, peepal, shisham, banyan, mango, jamun, guava, pomegranate, papaya, banana, lemon, sugarcane, potato, groundnut\n\n11. Name the part of plant which produces food. Name the process.\n\n12. In which part of a flower, you will find the ovary?\n\n13. Name two plants in which one has joined sepals and the other has separate sepals.",
+      "pages": [
+        "43",
+        "44"
+      ],
+      "diagrams": [
+        {
+          "questionNumber": "2",
+          "reference": "Draw (a) a leaf, (b) a taproot and (c) a flower, you have studied for Table 4.3.",
+          "description": "Illustrations of a leaf, taproot, and flower as per Table 4.3.",
+          "labels": [
+            "leaf",
+            "taproot",
+            "flower"
+          ],
+          "location": "43"
+        }
+      ]
+    }
+  ]
+}

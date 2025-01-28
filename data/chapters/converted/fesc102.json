@@ -1,0 +1,242 @@
+{
+  "id": "fesc102_exercises",
+  "metadata": {
+    "book": "NCERT: Science - Textbook for Class VI",
+    "bookId": "fesc102",
+    "chapter": "Sorting Materials into Groups",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Science",
+    "timestamp": "2025-01-16T10:23:53.486Z"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Sorting Materials into Groups Exercises",
+      "exerciseNumber": "1",
+      "exerciseName": "Sorting Materials into Groups Exercises",
+      "page": "19",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Name five objects which can be made from wood."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Sorting Materials into Groups Exercises",
+      "exerciseNumber": "2",
+      "exerciseName": "Sorting Materials into Groups Exercises",
+      "page": "19",
+      "questions": [
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Select those objects from the following which shine:",
+            "text": "Glass bowl\nplastic toy\nsteel spoon\ncotton shirt",
+            "answers": [
+              "Glass bowl",
+              "steel spoon"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Sorting Materials into Groups Exercises",
+      "exerciseNumber": "3",
+      "exerciseName": "",
+      "page": "19",
+      "questions": [
+        {
+          "type": "MatchTheFollowing",
+          "content": {
+            "question": "Match the objects given below with the materials from which they could be made. Remember, an object could be made from more than one material and a given material could be used for making many objects.",
+            "pairs": [
+              {
+                "left": "Book",
+                "right": "Paper"
+              },
+              {
+                "left": "Tumbler",
+                "right": "Glass"
+              },
+              {
+                "left": "Chair",
+                "right": "Wood"
+              },
+              {
+                "left": "Toy",
+                "right": "Plastics"
+              },
+              {
+                "left": "Shoes",
+                "right": "Leather"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Sorting Materials into Groups Exercises",
+      "exerciseNumber": "4",
+      "exerciseName": "State whether the statements given below are True or False.",
+      "page": "19",
+      "questions": [
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Stone is transparent, while glass is opaque.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "A notebook has lustre while eraser does not.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Chalk dissolves in water.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "A piece of wood floats on water.",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Sugar does not dissolve in water.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Oil mixes with water.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Sand settles down in water.",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Vinegar dissolves in water.",
+            "answer": true
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Sorting Materials into Groups Exercises",
+      "exerciseNumber": "5",
+      "exerciseName": "Sorting Materials into Groups Exercises",
+      "page": "19",
+      "questions": [
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Given below are the names of some objects and materials: Water, basket ball, orange, sugar, globe, apple and earthen pitcher. Group them as round shaped and other shapes.",
+            "text": "Water\nBasket ball\nOrange\nSugar\nGlobe\nApple\nEarthen pitcher",
+            "answers": [
+              "Basket ball",
+              "Orange",
+              "Globe",
+              "Apple"
+            ]
+          }
+        },
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Given below are the names of some objects and materials: Water, basket ball, orange, sugar, globe, apple and earthen pitcher. Group them as eatables and non eatables.",
+            "text": "Water\nBasket ball\nOrange\nSugar\nGlobe\nApple\nEarthen pitcher",
+            "answers": [
+              "Orange",
+              "Sugar",
+              "Apple"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Sorting Materials into Groups",
+      "exerciseNumber": "6",
+      "exerciseName": "Sorting Materials into Groups Exercises",
+      "page": "19",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "List all items known to you that float on water. Check and see if they will float on an oil or kerosene."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Sorting Materials into Groups Exercises",
+      "exerciseNumber": "7",
+      "exerciseName": "Find the odd one out from the following",
+      "page": "19",
+      "questions": [
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Find the odd one out from the following:",
+            "text": "Chair\nBed\nTable\nBaby\nCupboard",
+            "answers": [
+              "Baby"
+            ]
+          }
+        },
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Find the odd one out from the following:",
+            "text": "Rose\nJasmine\nBoat\nMarigold\nLotus",
+            "answers": [
+              "Boat"
+            ]
+          }
+        },
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Find the odd one out from the following:",
+            "text": "Aluminium\nIron\nCopper\nSilver\nSand",
+            "answers": [
+              "Sand"
+            ]
+          }
+        },
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Find the odd one out from the following:",
+            "text": "Sugar\nSalt\nSand\nCopper sulphate",
+            "answers": [
+              "Sand"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

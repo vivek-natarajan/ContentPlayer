@@ -1,0 +1,104 @@
+{
+  "id": "fess301_exercises",
+  "metadata": {
+    "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+    "bookId": "fess301",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Civics",
+    "timestamp": "2025-01-16T11:38:02.805Z",
+    "chapter": "Understanding Diversity"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Understanding Diversity",
+      "exerciseNumber": "1",
+      "exerciseName": "Understanding Diversity",
+      "page": "12",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Draw up a list of the different festivals celebrated in your locality. Which of these celebrations are shared by members of different regional and religious communities?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What do you think living in India with its rich heritage of diversity adds to your life?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Do you think the term “unity in diversity” is an appropriate term to describe India? What do you think Nehru is trying to say about Indian unity in the sentence quoted above from his book The Discovery of India?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Underline the line in the poem sung after the Jallianwala Bagh massacre, which according to you, reflects India’s essential unity."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Choose another region in India and do a similar study of the historical and geographical factors that influence the diversity found there. Are these historical and geographical factors connected to each other? How?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Diversity in India",
+      "exerciseNumber": "2",
+      "exerciseName": "Diversity in India",
+      "page": "8",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "List at least three different ways in which people in India pray. One of the possible answers has been provided for you already: Through singing a hymn."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "List at least three different ways in which people in India get married."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "List at least three different ways in which people in India dress."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "List at least three different ways in which people in India greet each other."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "List at least three different ways in which people in India cook rice."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Understanding Diversity",
+      "exerciseNumber": "3",
+      "exerciseName": "Understanding Diversity",
+      "page": "9",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Look at the map of India in an Atlas and locate Kerala and Ladakh. Can you list three ways in which the different geographical location of these two regions would influence the following? - The food people eat: - The clothes they wear: - The work they do:"
+          }
+        }
+      ]
+    }
+  ]
+}

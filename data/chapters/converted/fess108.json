@@ -1,0 +1,203 @@
+{
+  "id": "fess108_exercises",
+  "metadata": {
+    "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+    "bookId": "fess108",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "History",
+    "timestamp": "2025-01-16T10:55:41.805Z",
+    "chapter": "Villages, Towns and Trade"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Let's Recall",
+      "exerciseNumber": "1",
+      "exerciseName": "Let's Recall",
+      "page": "83",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "",
+                "isBlank": true
+              },
+              {
+                "text": " was a word used for large landowners in Tamil.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The gramabhojaka often got his land cultivated by the ",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Ploughmen were known as ",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              },
+              {
+                "text": " in Tamil.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Most grihapatis were ",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              },
+              {
+                "text": " landowners.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Describe the functions of the gramabhojaka. Why do you think he was powerful?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "List the craftspersons who would have been present in both villages and cities."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Choose the correct answer",
+      "exerciseNumber": "2",
+      "exerciseName": "Choose the correct answer",
+      "page": "83",
+      "questions": [
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Punch marked coins were made of:",
+            "options": [
+              "silver",
+              "gold",
+              "tin",
+              "ivory"
+            ],
+            "correctAnswer": 0
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Mathura was an important:",
+            "options": [
+              "village",
+              "port",
+              "religious centre",
+              "forested area"
+            ],
+            "correctAnswer": 2
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Shrenis were associations of:",
+            "options": [
+              "rulers",
+              "craftspersons",
+              "farmers",
+              "herders"
+            ],
+            "correctAnswer": 1
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let's Discuss",
+      "exerciseNumber": "3",
+      "exerciseName": "Let's Discuss",
+      "page": "84",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Which of the iron tools shown on page 73 would have been important for agriculture? What would the other tools have been used for?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Compare the drainage system in your locality with that of the cities mentioned in the lesson. What similarities and differences do you notice?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let's Do",
+      "exerciseNumber": "4",
+      "exerciseName": "",
+      "page": "84",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "If you have seen craftspersons at work, describe in a short paragraph what they do. (Hint: how do they get the raw materials, what kind of equipment do they use, how do they work, what happens to the finished product)."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "List the functions performed by men and women who live in your city or village. In what ways are these similar to those performed by people who lived in Mathura? In what ways are they different?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "List five things that you buy from the market. Which of these are made in the city/village in which you live, and which are brought by traders from other areas?"
+          }
+        }
+      ]
+    }
+  ]
+}

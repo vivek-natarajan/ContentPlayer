@@ -1,0 +1,761 @@
+{
+  "id": "femh103_exercises",
+  "metadata": {
+    "book": "NCERT: Mathematics - Textbook for Class VI",
+    "bookId": "femh103",
+    "chapter": "Playing with Numbers",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Mathematics",
+    "timestamp": "2025-01-16T06:23:10.581Z"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Exercise 3.1",
+      "exerciseNumber": "3.1",
+      "exerciseName": "Exercise 3.1",
+      "page": "28-29",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write all the factors of the following numbers: (a) 24 (b) 15 (c) 21 (d) 27 (e) 12 (f) 20 (g) 18 (h) 23 (i) 36"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write first five multiples of: (a) 5 (b) 8 (c) 9"
+          }
+        },
+        {
+          "type": "MatchTheFollowing",
+          "content": {
+            "question": "Match the items in column 1 with the items in column 2.",
+            "pairs": [
+              {
+                "left": "35",
+                "right": "Multiple of 7"
+              },
+              {
+                "left": "15",
+                "right": "Factor of 30"
+              },
+              {
+                "left": "16",
+                "right": "Multiple of 8"
+              },
+              {
+                "left": "20",
+                "right": "Factor of 20"
+              },
+              {
+                "left": "25",
+                "right": "Factor of 50"
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find all the multiples of 9 up to 100."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Mathematics",
+      "exerciseNumber": "3.2",
+      "exerciseName": "Exercise 3.2",
+      "page": "31-32",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is the sum of any two (a) Odd numbers? (b) Even numbers?"
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "The sum of three odd numbers is even.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "The sum of two odd numbers and one even number is even.",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "The product of three odd numbers is odd.",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "If an even number is divided by 2, the quotient is always odd.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "All prime numbers are odd.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Prime numbers do not have any factors.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Sum of two prime numbers is always even.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "2 is the only even prime number.",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "All even numbers are composite numbers.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "The product of two even numbers is always even.",
+            "answer": true
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The numbers 13 and 31 are prime numbers. Both these numbers have same digits 1 and 3. Find such pairs of prime numbers up to 100."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write down separately the prime and composite numbers less than 20."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is the greatest prime number between 1 and 10?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express the following as the sum of two odd primes: (a) 44 (b) 36 (c) 24 (d) 18"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Give three pairs of prime numbers whose difference is 2. [Remark: Two prime numbers whose difference is 2 are called twin primes]."
+          }
+        },
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Which of the following numbers are prime?",
+            "text": "23\n51\n37\n26",
+            "answers": [
+              "23",
+              "37"
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write seven consecutive composite numbers less than 100 so that there is no prime number between them."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express each of the following numbers as the sum of three odd primes: (a) 21 (b) 31 (c) 53 (d) 61"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write five pairs of prime numbers less than 20 whose sum is divisible by 5. (Hint: 3+7 = 10)"
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "A number which has only two factors is called a ",
+                "isBlank": false
+              },
+              {
+                "text": "prime number",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "A number which has more than two factors is called a ",
+                "isBlank": false
+              },
+              {
+                "text": "composite number",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "1 is neither ",
+                "isBlank": false
+              },
+              {
+                "text": "prime",
+                "isBlank": true
+              },
+              {
+                "text": " nor ",
+                "isBlank": false
+              },
+              {
+                "text": "composite",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The smallest prime number is ",
+                "isBlank": false
+              },
+              {
+                "text": "2",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The smallest composite number is ",
+                "isBlank": false
+              },
+              {
+                "text": "4",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The smallest even number is ",
+                "isBlank": false
+              },
+              {
+                "text": "2",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Playing with Numbers",
+      "exerciseNumber": "3.3",
+      "exerciseName": "Exercise 3.3",
+      "page": "35-36",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Using divisibility tests, determine which of the following numbers are divisible by 2; by 3; by 4; by 5; by 6; by 8; by 9; by 10; by 11 (say, yes or no):"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Using divisibility tests, determine which of the following numbers are divisible by 4; by 8: (a) 572 (b) 726352 (c) 5500 (d) 6000 (e) 12159 (f) 14560 (g) 21084 (h) 31795072 (i) 1700 (j) 2150"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Using divisibility tests, determine which of the following numbers are divisible by 6: (a) 297144 (b) 1258 (c) 4335 (d) 61233 (e) 901352 (f) 438750 (g) 1790184 (h) 12583 (i) 639210 (j) 17852"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Using divisibility tests, determine which of the following numbers are divisible by 11: (a) 5445 (b) 10824 (c) 7138965 (d) 70169308 (e) 10000001 (f) 901153"
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Write the smallest digit and the greatest digit in the blank space of each of the following numbers so that the number formed is divisible by 3: (a) __ 6724",
+                "isBlank": false
+              },
+              {
+                "text": " (b) 4765 __ 2",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Write a digit in the blank space of each of the following numbers so that the number formed is divisible by 11: (a) 92 __ 389",
+                "isBlank": false
+              },
+              {
+                "text": " (b) 8 __ 9484",
+                "isBlank": false
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Worksheet",
+      "exerciseNumber": "3.4",
+      "exerciseName": "Exercise 3.4",
+      "page": "37",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the common factors of 20 and 28."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the common factors of 15 and 25."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the common factors of 35 and 50."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the common factors of 56 and 120."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the common factors of 4, 8, and 12."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the common factors of 5, 15, and 25."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the first three common multiples of 6 and 8."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the first three common multiples of 12 and 18."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write all the numbers less than 100 which are common multiples of 3 and 4."
+          }
+        },
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Which of the following numbers are co-prime?",
+            "text": "18 and 35\n15 and 37\n30 and 415\n17 and 68\n216 and 215\n81 and 16",
+            "answers": [
+              "15 and 37",
+              "216 and 215"
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "A number is divisible by both 5 and 12. By which other number will that number be always divisible?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "A number is divisible by 12. By what other numbers will that number be divisible?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Mathematics",
+      "exerciseNumber": "3.5",
+      "exerciseName": "Exercise 3.5",
+      "page": "39-40",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Here are two different factor trees for 60. Write the missing numbers."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Which factors are not included in the prime factorisation of a composite number?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write the greatest 4-digit number and express it in terms of its prime factors."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write the smallest 5-digit number and express it in the form of its prime factors."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find all the prime factors of 1729 and arrange them in ascending order. Now state the relation, if any, between two consecutive prime factors."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The product of three consecutive numbers is always divisible by 6. Verify this statement with the help of some examples."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The sum of two consecutive odd numbers is divisible by 4. Verify this statement with the help of some examples."
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "In which of the following expressions, prime factorisation has been done?",
+            "options": [
+              "24 = 2 × 3 × 4",
+              "56 = 7 × 2 × 2 × 2",
+              "70 = 2 × 5 × 7",
+              "54 = 2 × 3 × 9"
+            ],
+            "correctAnswer": 2
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "18 is divisible by both 2 and 3. It is also divisible by 2 × 3 = 6. Similarly, a number is divisible by both 4 and 6. Can we say that the number must also be divisible by 4 × 6 = 24? If not, give an example to justify your answer."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "I am the smallest number, having four different prime factors. Can you find me?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Exercise 3.6",
+      "exerciseNumber": "3.6",
+      "exerciseName": "Exercise 3.6",
+      "page": "41",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the HCF of the following numbers: (a) 18, 48"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the HCF of the following numbers: (b) 30, 42"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the HCF of the following numbers: (c) 18, 60"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the HCF of the following numbers: (d) 27, 63"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the HCF of the following numbers: (e) 36, 84"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the HCF of the following numbers: (f) 34, 102"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the HCF of the following numbers: (g) 70, 105, 175"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the HCF of the following numbers: (h) 91, 112, 49"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the HCF of the following numbers: (i) 18, 54, 81"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the HCF of the following numbers: (j) 12, 45, 75"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is the HCF of two consecutive numbers?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is the HCF of two consecutive even numbers?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is the HCF of two consecutive odd numbers?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the HCF of the following: (i) 24 and 36"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the HCF of the following: (ii) 15, 25 and 30"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the HCF of the following: (iii) 8 and 12"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the HCF of the following: (iv) 12, 16 and 28"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "HCF of co-prime numbers 4 and 15 was found as follows by factorisation: 4 = 2 × 2 and 15 = 3 × 5 since there is no common prime factor, so HCF of 4 and 15 is 0. Is the answer correct? If not, what is the correct HCF?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Mathematics",
+      "exerciseNumber": "3.7",
+      "exerciseName": "Exercise 3.7",
+      "page": "45",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Renu purchases two bags of fertiliser of weights 75 kg and 69 kg. Find the maximum value of weight which can measure the weight of the fertiliser exact number of times."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Three boys step off together from the same spot. Their steps measure 63 cm, 70 cm and 77 cm respectively. What is the minimum distance each should cover so that all can cover the distance in complete steps?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The length, breadth and height of a room are 825 cm, 675 cm and 450 cm respectively. Find the longest tape which can measure the three dimensions of the room exactly."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Determine the smallest 3-digit number which is exactly divisible by 6, 8 and 12."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Determine the greatest 3-digit number exactly divisible by 8, 10 and 12."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The traffic lights at three different road crossings change after every 48 seconds, 72 seconds and 108 seconds respectively. If they change simultaneously at 7 a.m., at what time will they change simultaneously again?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Three tankers contain 403 litres, 434 litres and 465 litres of diesel respectively. Find the maximum capacity of a container that can measure the diesel of the three containers exact number of times."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the least number which when divided by 6, 15 and 18 leave remainder 5 in each case."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the smallest 4-digit number which is divisible by 18, 24 and 32."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the LCM of the following numbers: (a) 9 and 4 (b) 12 and 5 (c) 6 and 5 (d) 15 and 4. Observe a common property in the obtained LCMs. Is LCM the product of two numbers in each case?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the LCM of the following numbers in which one number is the factor of the other: (a) 5, 20 (b) 6, 18 (c) 12, 48 (d) 9, 45. What do you observe in the results obtained?"
+          }
+        }
+      ]
+    }
+  ]
+}

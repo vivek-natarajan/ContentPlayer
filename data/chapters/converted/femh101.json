@@ -1,0 +1,285 @@
+{
+  "id": "femh101_exercises",
+  "metadata": {
+    "book": "NCERT: Mathematics - Textbook for Class VI",
+    "bookId": "femh101",
+    "chapter": "Knowing Our Numbers",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Mathematics",
+    "timestamp": "2025-01-15T13:21:15.551Z"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Exercise 1.1",
+      "exerciseNumber": "1.1",
+      "exerciseName": "Exercise 1.1",
+      "page": "13",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "1 lakh = ",
+                "isBlank": false
+              },
+              {
+                "text": "100",
+                "isBlank": true
+              },
+              {
+                "text": " ten thousand.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "1 million = ",
+                "isBlank": false
+              },
+              {
+                "text": "10",
+                "isBlank": true
+              },
+              {
+                "text": " hundred thousand.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "1 crore = ",
+                "isBlank": false
+              },
+              {
+                "text": "10",
+                "isBlank": true
+              },
+              {
+                "text": " ten lakh.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "1 crore = ",
+                "isBlank": false
+              },
+              {
+                "text": "10",
+                "isBlank": true
+              },
+              {
+                "text": " million.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "1 million = ",
+                "isBlank": false
+              },
+              {
+                "text": "10",
+                "isBlank": true
+              },
+              {
+                "text": " lakh.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Place commas correctly and write the numerals: Seventy three lakh seventy five thousand three hundred seven."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Place commas correctly and write the numerals: Nine crore five lakh forty one."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Place commas correctly and write the numerals: Seven crore fifty two lakh twenty one thousand three hundred two."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Place commas correctly and write the numerals: Fifty eight million four hundred twenty three thousand two hundred two."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Place commas correctly and write the numerals: Twenty three lakh thirty thousand ten."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Insert commas suitably and write the names according to Indian System of Numeration: 87595762"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Insert commas suitably and write the names according to Indian System of Numeration: 8546283"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Insert commas suitably and write the names according to Indian System of Numeration: 99900046"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Insert commas suitably and write the names according to Indian System of Numeration: 98432701"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Insert commas suitably and write the names according to International System of Numeration: 78921092"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Insert commas suitably and write the names according to International System of Numeration: 7452283"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Insert commas suitably and write the names according to International System of Numeration: 99985102"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Insert commas suitably and write the names according to International System of Numeration: 48049831"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Exercise 1.2",
+      "exerciseNumber": "1.2",
+      "exerciseName": "Exercise 1.2",
+      "page": "16-17",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "A book exhibition was held for four days in a school. The number of tickets sold at the counter on the first, second, third and final day was respectively 1094, 1812, 2050 and 2751. Find the total number of tickets sold on all the four days."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Shekhar is a famous cricket player. He has so far scored 6980 runs in test matches. He wishes to complete 10,000 runs. How many more runs does he need?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In an election, the successful candidate registered 5,77,500 votes and his nearest rival secured 3,48,700 votes. By what margin did the successful candidate win the election?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Kirti bookstore sold books worth ₹2,85,891 in the first week of June and books worth ₹4,00,768 in the second week of the month. How much was the sale for the two weeks together? In which week was the sale greater and by how much?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the difference between the greatest and the least 5-digit number that can be written using the digits 6, 2, 7, 4, 3 each only once."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "A machine, on an average, manufactures 2,825 screws a day. How many screws did it produce in the month of January 2006?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "A merchant had ₹78,592 with her. She placed an order for purchasing 40 radio sets at ₹1200 each. How much money will remain with her after the purchase?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "A student multiplied 7236 by 65 instead of multiplying by 56. By how much was his answer greater than the correct answer? (Hint: Do you need to do both the multiplications?)"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "To stitch a shirt, 2 m 15 cm cloth is needed. Out of 40 m cloth, how many shirts can be stitched and how much cloth will remain? (Hint: convert data in cm.)"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Medicine is packed in boxes, each weighing 4 kg 500g. How many such boxes can be loaded in a van which cannot carry beyond 800 kg?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The distance between the school and a student’s house is 1 km 875 m. Everyday she walks both ways. Find the total distance covered by her in six days."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "A vessel has 4 litres and 500 ml of curd. In how many glasses, each of 25 ml capacity, can it be filled?"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "id": "fehl108_exercises",
+  "metadata": {
+    "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
+    "bookId": "fehl108",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "English",
+    "timestamp": "2025-01-16T17:02:01.660Z",
+    "chapter": "The Banyan Tree"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Working with the Text",
+      "exerciseNumber": "A",
+      "exerciseName": "Complete the following sentences and answer the questions",
+      "page": "98-100",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The old banyan tree “did not belong” to grandfather, but only to the boy, because ",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The small gray squirrel became friendly when ",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "When the boy started to bring him pieces of cake and biscuit, the squirrel ",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "In the spring, the banyan tree ",
+                "isBlank": true
+              },
+              {
+                "text": ", and ",
+                "isBlank": false
+              },
+              {
+                "text": " would come there.",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The banyan tree served the boy as a ",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The young boy spent his afternoons in the tree ",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "“It was to be a battle of champions.”\n(i) What qualities did the two champions have? Pick out words and phrases from the paragraph above this line in the text and write them down.\nMongoose Cobra\n(a) ________________ (a) ________________\n(b) ________________ (b) ________________\n(c) ________________ (c) ________________"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What did the cobra and the mongoose do, to show their readiness for the fight?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Who were the other two spectators? What did they do? (Did they watch, or did they join in the fight?)"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Read the descriptions below of what the snake did and what the mongoose did. Arrange their actions in the proper order.\n(i) ceased to struggle l grabbed the snake by the snout\n(ii) tried to mesmerise l dragged the snake into the mongoose the bushes\n(iii) coiled itself around l darted away and bit the the mongoose cobra on the back\n(iv) struck the crow l pretended to attack the cobra on one side\n(v) struck again and l refused to look into the missed snake’s eyes\n(vi) struck on the side l sprang aside, jumped in that the mongoose and bit pretended to attack"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "(i) What happened to the crow in the end?\n(ii) What did the myna do finally?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with Language",
+      "exerciseNumber": "B",
+      "exerciseName": "Working with Language",
+      "page": "101-102",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The word ‘round’ usually means a kind of shape. What is its meaning in the story?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find five words in the following paragraph, which are generally associated with trees. But here, they have been used differently. Underline the words.\n\nHari leaves for work at nine every morning. He works in the local branch of the firm of which his uncle is the owner. Hari’s success is really the fruit of his own labour. He is happy, but he has a small problem. The root cause of his problem is a stray dog near his office. The dog welcomes Hari with a loud bark every day."
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [
+              "dived",
+              "gliding",
+              "sprang",
+              "darting",
+              "whipped...back",
+              "delving"
+            ],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "When he began to trust me, the squirrel began ",
+                "isBlank": false
+              },
+              {
+                "text": "delving",
+                "isBlank": true
+              },
+              {
+                "text": " into my pockets for morsels of cake.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [
+              "dived",
+              "gliding",
+              "sprang",
+              "darting",
+              "whipped...back",
+              "delving"
+            ],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "I saw a cobra ",
+                "isBlank": false
+              },
+              {
+                "text": "darting",
+                "isBlank": true
+              },
+              {
+                "text": " out of a clump of cactus.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [
+              "dived",
+              "gliding",
+              "sprang",
+              "darting",
+              "whipped...back",
+              "delving"
+            ],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "The snake hissed, his forked tongue ",
+                "isBlank": false
+              },
+              {
+                "text": "whipped...back",
+                "isBlank": true
+              },
+              {
+                "text": " in and out.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [
+              "dived",
+              "gliding",
+              "sprang",
+              "darting",
+              "whipped...back",
+              "delving"
+            ],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "When the cobra tried to bite it, the mongoose ",
+                "isBlank": false
+              },
+              {
+                "text": "sprang",
+                "isBlank": true
+              },
+              {
+                "text": " aside.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [
+              "dived",
+              "gliding",
+              "sprang",
+              "darting",
+              "whipped...back",
+              "delving"
+            ],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "The snake ",
+                "isBlank": false
+              },
+              {
+                "text": "gliding",
+                "isBlank": true
+              },
+              {
+                "text": " his head ",
+                "isBlank": false
+              },
+              {
+                "text": "whipped...back",
+                "isBlank": true
+              },
+              {
+                "text": " to strike at the crow.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [
+              "dived",
+              "gliding",
+              "sprang",
+              "darting",
+              "whipped...back",
+              "delving"
+            ],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "The birds ",
+                "isBlank": false
+              },
+              {
+                "text": "dived",
+                "isBlank": true
+              },
+              {
+                "text": " at the snake.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The cobra struck the crow, his snout th ",
+                "isBlank": false
+              },
+              {
+                "text": "udding",
+                "isBlank": true
+              },
+              {
+                "text": " against its body.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The crow and the myna c ",
+                "isBlank": false
+              },
+              {
+                "text": "ollided",
+                "isBlank": true
+              },
+              {
+                "text": " in mid-air.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The birds dived at the snake, but b ",
+                "isBlank": false
+              },
+              {
+                "text": "umped",
+                "isBlank": true
+              },
+              {
+                "text": " into each other instead.",
+                "isBlank": false
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Speaking",
+      "exerciseNumber": "C",
+      "exerciseName": "Comparison Exercise",
+      "page": "103-104",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Suppose Dehra Dun is 300 years old. How old is the tree?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Use the words in the box to speak about the people and the things below, using as...as or -er than."
+          }
+        },
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Heights: Compare the heights using as...as or -er than.",
+            "text": "Zeba (155cm)\nRuby (150cm)\nRani (155cm)",
+            "answers": [
+              "Zeba is as tall as Rani",
+              "Zeba is taller than Ruby",
+              "Rani is taller than Ruby"
+            ]
+          }
+        },
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Weight Lifters: Compare the weights using as...as or -er than.",
+            "text": "Vijay (50kg)\nAkshay (50kg)\nAnwar (65kg)",
+            "answers": [
+              "Vijay is as heavy as Akshay",
+              "Anwar is heavier than Vijay",
+              "Anwar is heavier than Akshay"
+            ]
+          }
+        },
+        {
+          "type": "Circle",
+          "content": {
+            "question": "City Temperatures: Compare the temperatures using as...as or -er than.",
+            "text": "Shimla (60)\nGangtok (60)\nSrinagar (20)",
+            "answers": [
+              "Shimla is as cold as Gangtok",
+              "Srinagar is colder than Shimla",
+              "Srinagar is colder than Gangtok"
+            ]
+          }
+        },
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Lengths: Compare the lengths using as...as or -er than.",
+            "text": "Romi’s pencil (3 inches long)\nMona’s pencil (5 inches long)\nRaja’s pencil (3 inches long)",
+            "answers": [
+              "Romi's pencil is as long as Raja's pencil",
+              "Mona's pencil is longer than Romi's pencil",
+              "Mona's pencil is longer than Raja's pencil"
+            ]
+          }
+        },
+        {
+          "type": "Circle",
+          "content": {
+            "question": "City Temperatures: Compare the temperatures using as...as or -er than.",
+            "text": "Delhi (430)\nChennai (390)\nNagpur (430)",
+            "answers": [
+              "Delhi is as hot as Nagpur",
+              "Delhi is hotter than Chennai",
+              "Nagpur is hotter than Chennai"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Writing",
+      "exerciseNumber": "D",
+      "exerciseName": "My Favourite Place",
+      "page": "105",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Read again the paragraphs of the story in which the author describes the banyan tree, and what he used to do there. Is there a place in your house, or in your grandparents’ or uncles’ or aunts’ houses, that you specially like? Write a short paragraph about it, saying where it is, what you do there, and why you like it. You may instead write about a place you dislike, or are afraid of."
+          }
+        }
+      ]
+    }
+  ]
+}

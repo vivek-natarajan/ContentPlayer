@@ -1,0 +1,195 @@
+{
+  "id": "fesc105_exercises",
+  "metadata": {
+    "book": "NCERT: Science - Textbook for Class VI",
+    "bookId": "fesc105",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Science",
+    "timestamp": "2025-01-16T10:27:09.344Z",
+    "chapter": "Body Movements"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Body Movements Exercises",
+      "exerciseNumber": "1",
+      "exerciseName": "Body Movements Exercises",
+      "page": "57",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Joints of the bones help in the",
+                "isBlank": false
+              },
+              {
+                "text": "movement",
+                "isBlank": true
+              },
+              {
+                "text": "of the body.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "A combination of bones and cartilages forms the",
+                "isBlank": false
+              },
+              {
+                "text": "skeleton",
+                "isBlank": true
+              },
+              {
+                "text": "of the body.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The bones at the elbow are joined by a",
+                "isBlank": false
+              },
+              {
+                "text": "hinge",
+                "isBlank": true
+              },
+              {
+                "text": "joint.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The contraction of the",
+                "isBlank": false
+              },
+              {
+                "text": "muscles",
+                "isBlank": true
+              },
+              {
+                "text": "pulls the bones during movement.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "The movement and locomotion of all animals is exactly the same.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "The cartilages are harder than bones.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "The finger bones do not have joints.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "The fore arm has two bones.",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Cockroaches have an outer skeleton.",
+            "answer": true
+          }
+        },
+        {
+          "type": "MatchTheFollowing",
+          "content": {
+            "question": "Match the items in Column I with one or more items of Column II.",
+            "pairs": [
+              {
+                "left": "Upper jaw",
+                "right": "is an immovable joint"
+              },
+              {
+                "left": "Fish",
+                "right": "have fins on the body"
+              },
+              {
+                "left": "Fish",
+                "right": "have streamlined body"
+              },
+              {
+                "left": "Ribs",
+                "right": "protect the heart"
+              },
+              {
+                "left": "Snail",
+                "right": "show very slow movement"
+              },
+              {
+                "left": "Cockroach",
+                "right": "have an outer skeleton"
+              },
+              {
+                "left": "Cockroach",
+                "right": "can fly in the air"
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is a ball and socket joint?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Which of the skull bones are movable?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why can our elbow not move backwards?"
+          }
+        }
+      ]
+    }
+  ]
+}

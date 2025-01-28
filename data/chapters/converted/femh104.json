@@ -1,0 +1,249 @@
+{
+  "id": "femh104_exercises",
+  "metadata": {
+    "book": "NCERT: Mathematics - Textbook for Class VI",
+    "bookId": "femh104",
+    "chapter": "Basic Geometrical Ideas",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Mathematics",
+    "timestamp": "2025-01-16T07:07:54.809Z"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Exercise 4.1",
+      "exerciseNumber": "4.1",
+      "exerciseName": "Exercise 4.1",
+      "page": "52-53",
+      "questions": [
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "Use the figure to name: (a) Five points (b) A line (c) Four rays (d) Five line segments",
+            "diagrams": [
+              {
+                "url": "Page 52"
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Name the line given in all possible (twelve) ways, choosing only two letters at a time from the four given."
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "Use the figure to name: (a) Line containing point E. (b) Line passing through A. (c) Line on which O lies (d) Two pairs of intersecting lines.",
+            "diagrams": [
+              {
+                "url": "Page 52"
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How many lines can pass through (a) one given point? (b) two given points?"
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Draw a rough figure and label suitably in each of the following cases: (a) Point P lies on AB. (b) XY and PQ intersect at M. (c) Line l contains E and F but not D. (d) OP and OQ meet at O."
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Consider the following figure of line MN. Say whether following statements are true or false in context of the given figure: (a) Q, M, O, N, P are points on the line MN.",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "M, O, N are points on a line segment MN.",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "M and N are end points of line segment MN.",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "O and N are end points of line segment OP.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "M is one of the end points of line segment QO.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "M is point on ray OP.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Ray OP is different from ray QP.",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Ray OP is same as ray OM.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Ray OM is not opposite to ray OP.",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "O is not an initial point of OP.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "N is the initial point of NP and NM.",
+            "answer": false
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Mathematics Worksheet",
+      "exerciseNumber": "4.2",
+      "exerciseName": "Exercise 4.2",
+      "page": "55-56",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Classify the following curves as (i) Open or (ii) Closed."
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Draw rough diagrams to illustrate the following: (a) Open curve, (b) Closed curve."
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Draw any polygon and shade its interior."
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "Consider the given figure and answer the questions: (a) Is it a curve? (b) Is it closed?",
+            "diagrams": [
+              {
+                "url": "Page 55"
+              }
+            ]
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Illustrate, if possible, each one of the following with a rough diagram: (a) A closed curve that is not a polygon. (b) An open curve made up entirely of line segments. (c) A polygon with two sides."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Exercise 4.3",
+      "exerciseNumber": "4.3",
+      "exerciseName": "Exercise 4.3",
+      "page": "58",
+      "questions": [
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "Name the angles in the given figure.",
+            "diagrams": [
+              {
+                "url": "Page 58"
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In the given diagram, name the point(s) in the interior of ∠DOE."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In the given diagram, name the point(s) in the exterior of ∠EOF."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In the given diagram, name the point(s) on ∠EOF."
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Draw rough diagrams of two angles such that they have one point in common."
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Draw rough diagrams of two angles such that they have two points in common."
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Draw rough diagrams of two angles such that they have three points in common."
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Draw rough diagrams of two angles such that they have four points in common."
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Draw rough diagrams of two angles such that they have one ray in common."
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "id": "fess201_exercises",
+  "metadata": {
+    "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
+    "bookId": "fess201",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Geography",
+    "timestamp": "2025-01-16T11:28:07.301Z",
+    "chapter": "The Earth in the Solar System"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Worksheet",
+      "exerciseNumber": "1",
+      "exerciseName": "Answer the following questions briefly.",
+      "page": "7",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How does a planet differ from a star?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is meant by the ‘Solar System’?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Name all the planets according to their distance from the sun."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why is the Earth called a unique planet?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why do we see only one side of the moon always?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is the Universe?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Worksheet",
+      "exerciseNumber": "2",
+      "exerciseName": "Tick the correct answer.",
+      "page": "8",
+      "questions": [
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "The planet known as the “Earth’s Twin” is",
+            "options": [
+              "Jupiter",
+              "Saturn",
+              "Venus"
+            ],
+            "correctAnswer": 2
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Which is the third nearest planet to the sun?",
+            "options": [
+              "Venus",
+              "Earth",
+              "Mercury"
+            ],
+            "correctAnswer": 1
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "All the planets move around the sun in a",
+            "options": [
+              "Circular path",
+              "Rectangular path",
+              "Elongated path"
+            ],
+            "correctAnswer": 2
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "The Pole Star indicates the direction to the",
+            "options": [
+              "South",
+              "North",
+              "East"
+            ],
+            "correctAnswer": 1
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Asteroids are found between the orbits of",
+            "options": [
+              "Saturn and Jupiter",
+              "Mars and Jupiter",
+              "The Earth and Mars"
+            ],
+            "correctAnswer": 1
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Fill in the blanks.",
+      "exerciseNumber": "3",
+      "exerciseName": "Fill in the blanks.",
+      "page": "8",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "A group of ",
+                "isBlank": false
+              },
+              {
+                "text": "stars",
+                "isBlank": true
+              },
+              {
+                "text": " forming various patterns is called a ",
+                "isBlank": false
+              },
+              {
+                "text": "constellation",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "A huge system of stars is called",
+                "isBlank": false
+              },
+              {
+                "text": " galaxy",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "",
+                "isBlank": false
+              },
+              {
+                "text": "The Moon",
+                "isBlank": true
+              },
+              {
+                "text": " is the closest celestial body to our earth.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "",
+                "isBlank": false
+              },
+              {
+                "text": "Earth",
+                "isBlank": true
+              },
+              {
+                "text": " is the third nearest planet to the sun.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Planets do not have their own",
+                "isBlank": false
+              },
+              {
+                "text": " light",
+                "isBlank": true
+              },
+              {
+                "text": " and ",
+                "isBlank": false
+              },
+              {
+                "text": "heat",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Activities",
+      "exerciseNumber": "4",
+      "exerciseName": "Activities",
+      "page": "8",
+      "questions": [
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Prepare a chart of the solar system."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "During a vacation visit a planetarium and describe your experience in the class."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Organise a quiz contest on the earth and the solar system."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Project Work",
+      "exerciseNumber": "5",
+      "exerciseName": "Project Work",
+      "page": "9",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The sun is commonly known as Soorya or Sooraj in Hindi. Find out its name in different languages of our country. Take help of your friends, teachers and neighbours."
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "You might have heard that people make human chains and run for world peace etc. You can also make a human solar system and run for fun. Follow these steps: \n\nStep 1: All children of your class can play this game. Assemble in a big hall or on a playground.\n\nStep 2: Now draw 8 circles on the ground as shown in the figure drawn on the opposite page. Use a 5-metre long rope. Mark at every half a metre with a chalk or ink. Place a small nail to mark the centre. Now hold one end of the rope at the central position. Ask your friend to hold a chalk at the ½ metre mark and move around the nail holding rope and chalk together on the ground. You have drawn one circle just as you do on paper using a compass and a pencil. Draw other circles in the same manner.\n\nStep 3: Prepare 10 placards. Name them as Sun, Moon, Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.\n\nStep 4: Select 10 children in the following order and give each one of them a placard. Order of placard distribution: The Sun - tallest, The moon - smallest; Mercury, Mars, Venus and Earth (almost equal heights); Neptune, Uranus, Saturn and Jupiter taller than the earlier four planets but smaller than the Sun. Now ask the children holding placards to take their places with the Sun in the centre in their orbits. Ask the child holding the moon placard to keep the hand of the child holding the earth placard always. Now your Solar System is almost ready to go into action. Now make everybody move slowly in the anti-clockwise direction. Your class has turned into a small human replica of the solar system. While moving on your orbit you can also turn around. For everybody the spin should be anti-clockwise except for Venus and Uranus who will make the spin in the clockwise direction."
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "Draw 8 circles on the ground as shown in the figure drawn on the opposite page.",
+            "diagrams": [
+              {
+                "url": "Figure showing the layout for drawing circles representing orbits."
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

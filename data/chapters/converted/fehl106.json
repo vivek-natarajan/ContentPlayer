@@ -1,0 +1,335 @@
+{
+  "id": "fehl106_exercises",
+  "metadata": {
+    "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
+    "bookId": "fehl106",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "English",
+    "timestamp": "2025-01-16T16:57:58.665Z",
+    "chapter": "Who I Am"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Working with the Text",
+      "exerciseNumber": "1",
+      "exerciseName": "Answer the following questions.",
+      "page": "71-72",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Peter’s favourite day of the week is Sunday because —————–——————————————— ——————————————————————————–—"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Nasir wants to learn —————————————— ———————————————————————————— ———————————————————————––––––––"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Dolma believes that she can make a good Prime Minister because ——————————— ————————————————————————––— ———–————–––————––————––————––"
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Peter is an only child.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "When Serbjit gets angry he shouts at people.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Nasir lives in the city.",
+            "answer": false
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with Language",
+      "exerciseNumber": "2",
+      "exerciseName": "Working with Language",
+      "page": "72-73",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "When I enjoy dancing or physical activity, I use my ",
+                "isBlank": false
+              },
+              {
+                "text": "bodily-kinesthetic",
+                "isBlank": true
+              },
+              {
+                "text": " intelligence.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "When I enjoy looking at maps and examining pictures I use my ",
+                "isBlank": false
+              },
+              {
+                "text": "spatial",
+                "isBlank": true
+              },
+              {
+                "text": " intelligence.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "When I enjoy working with numbers and solving maths problems I use my ",
+                "isBlank": false
+              },
+              {
+                "text": "logical-mathematical",
+                "isBlank": true
+              },
+              {
+                "text": " intelligence.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "When I enjoy telling a story or arguing, I use my ",
+                "isBlank": false
+              },
+              {
+                "text": "linguistic",
+                "isBlank": true
+              },
+              {
+                "text": " intelligence.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "MatchTheFollowing",
+          "content": {
+            "question": "Match the job on the left with its description on the right.",
+            "pairs": [
+              {
+                "left": "Navigator",
+                "right": "Finds and monitors the route to get to a place, or the direction of travel."
+              },
+              {
+                "left": "Architect",
+                "right": "Plans the design of a building, town, or city."
+              },
+              {
+                "left": "Politician",
+                "right": "Works in politics, usually by standing for election."
+              },
+              {
+                "left": "Engineer",
+                "right": "Designs and builds things like roads, bridges, or engines."
+              },
+              {
+                "left": "Computer programmer",
+                "right": "Designs the system by which a computer runs or gives information."
+              },
+              {
+                "left": "Athlete",
+                "right": "Works in sports or activities such as running, jumping, etc."
+              },
+              {
+                "left": "Disc jockey",
+                "right": "Controls and puts together a programme of music."
+              },
+              {
+                "left": "Composer",
+                "right": "Makes up notes to create music."
+              },
+              {
+                "left": "Counsellor",
+                "right": "Advises people what to do about jobs, personal problems, etc."
+              },
+              {
+                "left": "Journalist",
+                "right": "Reports on recent news for newspaper, radio, or TV."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Writing",
+      "exerciseNumber": "3",
+      "exerciseName": "Writing",
+      "page": "73-74",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write a paragraph about yourself so that people who read it will get to know you better. You could write about yourself from any point of view, or choose one of the following topics: What I enjoy doing most, What makes me angry, What I hate to do, What I want to become. Remember to give a reason or details of what you write about, so that anyone reading it will understand you better."
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "After you have finished your paragraph, affix your photo on the sheet and display it on the wall."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Read each other’s paragraphs. Did you understand someone else better after you had read what he/she wrote?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with the Poem",
+      "exerciseNumber": "4",
+      "exerciseName": "Working with the Poem",
+      "page": "74-75",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Do not let a thought shrivel and die because",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "English is a",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": true
+              },
+              {
+                "text": "with words that everyone can play.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "One has to match",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Words are the",
+                "isBlank": false
+              },
+              {
+                "text": " ",
+                "isBlank": true
+              },
+              {
+                "text": "of thought.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In groups of four discuss the following lines and their meanings: All that you do is match the words to the brightest thoughts in your head."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In groups of four discuss the following lines and their meanings: For many of the loveliest things have never yet been said."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In groups of four discuss the following lines and their meanings: And everyone’s longing today to hear some fresh and beautiful thing."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In groups of four discuss the following lines and their meanings: But only words can free a thought from its prison behind your eyes."
+          }
+        }
+      ]
+    }
+  ]
+}

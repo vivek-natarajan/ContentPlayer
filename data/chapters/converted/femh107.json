@@ -1,0 +1,585 @@
+{
+  "id": "femh107_exercises",
+  "metadata": {
+    "book": "NCERT: Mathematics - Textbook for Class VI",
+    "bookId": "femh107",
+    "chapter": "Fractions",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Mathematics",
+    "timestamp": "2025-01-16T07:25:16.830Z"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Fractions and Integers",
+      "exerciseNumber": "7.1",
+      "exerciseName": "Exercise 7.1",
+      "page": "105-106",
+      "questions": [
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Write the fraction representing the shaded portion."
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Colour the part according to the given fraction."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Identify the error, if any."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What fraction of a day is 8 hours?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What fraction of an hour is 40 minutes?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Arya, Abhimanyu, and Vivek shared lunch. Arya has brought two sandwiches, one made of vegetable and one of jam. The other two boys forgot to bring their lunch. Arya agreed to share his sandwiches so that each person will have an equal share of each sandwich. How can Arya divide his sandwiches so that each person has an equal share? What part of a sandwich will each boy receive?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Kanchan dyes dresses. She had to dye 30 dresses. She has so far finished 20 dresses. What fraction of dresses has she finished?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write the natural numbers from 2 to 12. What fraction of them are prime numbers?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write the natural numbers from 102 to 113. What fraction of them are prime numbers?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Worksheet",
+      "exerciseNumber": "7.2",
+      "exerciseName": "Exercise 7.2",
+      "page": "111-112",
+      "questions": [
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Draw number lines and locate the points on them: (a) 1/2, 1/4, 3/4, 4/4 (b) 1/8, 2/8, 3/8, 7/8 (c) 2/5, 3/5, 8/5, 4/5"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express the following as mixed fractions: (a) 20/3 (b) 11/5 (c) 17/7 (d) 28/5 (e) 19/6 (f) 35/9"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Express the following as improper fractions: (a) 7 3/4 (b) 5 6/7 (c) 2 5/6 (d) 10 3/5 (e) 9 3/7 (f) 8 4/9"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Mathematics",
+      "exerciseNumber": "7.3",
+      "exerciseName": "Exercise 7.3",
+      "page": "116-117",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write the simplest form of: (i) 15/75 (ii) 16/72 (iii) 17/51 (iv) 42/28 (v) 80/24"
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Is 49/64 in its simplest form?",
+            "answer": false
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "2/7 = ",
+                "isBlank": false
+              },
+              {
+                "text": "?",
+                "isBlank": true
+              },
+              {
+                "text": "/8",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "5/8 = ",
+                "isBlank": false
+              },
+              {
+                "text": "?",
+                "isBlank": true
+              },
+              {
+                "text": "/10",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "3/5 = ",
+                "isBlank": false
+              },
+              {
+                "text": "?",
+                "isBlank": true
+              },
+              {
+                "text": "/20",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "45/60 = ",
+                "isBlank": false
+              },
+              {
+                "text": "?",
+                "isBlank": true
+              },
+              {
+                "text": "/15",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "18/24 = ",
+                "isBlank": false
+              },
+              {
+                "text": "?",
+                "isBlank": true
+              },
+              {
+                "text": "/4",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the equivalent fraction of 3/5 having: (a) denominator 20 (b) numerator 9 (c) denominator 30 (d) numerator 27"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the equivalent fraction of 36/48 with: (a) numerator 9 (b) denominator 4"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Check whether the given fractions are equivalent: (a) 5/9 and 30/54 (b) 3/10 and 12/50 (c) 7/13 and 5/11"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Reduce the following fractions to simplest form: (a) 48/60 (b) 150/60 (c) 84/98 (d) 12/52 (e) 7/28"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Fractions",
+      "exerciseNumber": "7.4",
+      "exerciseName": "Exercise 7.4",
+      "page": "122-124",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write shaded portion as fraction. Arrange them in ascending and descending order using correct sign ‘&lt;’, ‘=’, ‘&gt;’ between the fractions."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Compare the fractions and put an appropriate sign.\n(a) 3/6 and 5/6\n(b) 1/7 and 1/4\n(c) 4/5 and 5/5\n(d) 3/5 and 3/7"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Make five more such pairs and put appropriate signs."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Look at the figures and write ‘&lt;’ or ‘&gt;’, ‘=’ between the given pairs of fractions.\n(a) 1/6 and 1/3\n(b) 3/4 and 2/6\n(c) 2/3 and 2/4\n(d) 6/6 and 3/3\n(e) 5/6 and 5/5"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How quickly can you do this? Fill appropriate sign. (‘&lt;’, ‘=’, ‘&gt;’)\n(a) 1 1/2 and 1 1/5\n(b) 2 3/4 and 2 3/6\n(c) 3 2/5 and 3 2/3\n(d) 3 2/4 and 3 2/8\n(e) 3 6/5 and 3 6/5\n(f) 7 3/9 and 7 3/9\n(g) 1 2/4 and 1 2/8\n(h) 6 4/10 and 6 4/5\n(i) 3 2/4 and 7/8\n(j) 6 4/10 and 6 3/10\n(k) 5 15/7 and 5 15/21"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Exercise 7.5",
+      "exerciseNumber": "7.5",
+      "exerciseName": "Exercise 7.5",
+      "page": "127-128",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write these fractions appropriately as additions or subtractions."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Solve: (a) 1/18 + 1/18"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Solve: (b) 8/15 + 3/15"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Solve: (c) 7/7 - 5/7"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Solve: (d) 1/22 + 21/22"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Solve: (e) 12/15 - 7/15"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Solve: (f) 5/8 + 3/8"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Solve: (g) 1/2 - 1/3"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Solve: (h) 1/4 + 0/4"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Solve: (i) 12/3 - 5/3"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Shubham painted 2/3 of the wall space in his room. His sister Madhavi helped and painted 1/3 of the wall space. How much did they paint together?"
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "7/10 - 3/10 = ",
+                "isBlank": false
+              },
+              {
+                "text": "?",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "? - 3/21 = 5/21",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "3/3 - ",
+                "isBlank": false
+              },
+              {
+                "text": "? = 6/6",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "5/12 + ",
+                "isBlank": false
+              },
+              {
+                "text": "? = 27/27",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Javed was given 5/7 of a basket of oranges. What fraction of oranges was left in the basket?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Fractions",
+      "exerciseNumber": "7.6",
+      "exerciseName": "Exercise 7.6",
+      "page": "130-132",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Solve: (a) 2/3 + 1/7"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Solve: (b) 3/10 + 7/15"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Solve: (c) 4/9 + 2/7"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Solve: (d) 5/7 + 1/3"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Solve: (e) 2/5 + 1/6"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Solve: (f) 4/5 + 2/3"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Solve: (g) 2/3 + 3/4 + 1/2"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Solve: (h) 1/2 + 1/3 + 1/6"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Solve: (i) 1 1/3 + 3 2/3"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Solve: (j) 4 2/3 + 3 1/4"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Sarita bought 2/5 metre of ribbon and Lalita 3/4 metre of ribbon. What is the total length of the ribbon they bought?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Naina was given 1 1/2 piece of cake and Najma was given 1 1/3 piece of cake. Find the total amount of cake given to both of them."
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "5/8 - 1/4 = ",
+                "isBlank": false
+              },
+              {
+                "text": "?",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "? - 1/5 = 1/2",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "1/2 - 1/6 = ",
+                "isBlank": false
+              },
+              {
+                "text": "?",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "A piece of wire 7/8 metre long broke into two pieces. One piece was 1/4 metre long. How long is the other piece?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Nandini’s house is 9/10 km from her school. She walked some distance and then took a bus for 1/2 km to reach the school. How far did she walk?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Asha and Samuel have bookshelves of the same size partly filled with books. Asha’s shelf is 5/6th full and Samuel’s shelf is 2/5th full. Whose bookshelf is more full? By what fraction?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Jaidev takes 2 1/5 minutes to walk across the school ground. Rahul takes 7/4 minutes to do the same. Who takes less time and by what fraction?"
+          }
+        }
+      ]
+    }
+  ]
+}

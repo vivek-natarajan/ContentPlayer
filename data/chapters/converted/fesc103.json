@@ -1,0 +1,167 @@
+{
+  "id": "fesc103_exercises",
+  "metadata": {
+    "book": "NCERT: Science - Textbook for Class VI",
+    "bookId": "fesc103",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Science",
+    "timestamp": "2025-01-16T10:25:11.751Z",
+    "chapter": "Separation of Substances"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Science",
+      "exerciseNumber": "1",
+      "exerciseName": "Separation of Substances",
+      "page": "29-30",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why do we need to separate different components of a mixture? Give two examples."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is winnowing? Where is it used?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How will you separate husk or dirt particles from a given sample of pulses before cooking?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is sieving? Where is it used?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How will you separate sand and water from their mixture?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Is it possible to separate sugar mixed with wheat flour? If yes, how will you do it?"
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "How would you obtain clear water from a sample of muddy water?",
+            "diagrams": [
+              {
+                "url": "25"
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The method of separating seeds of paddy from its stalks is called ",
+                "isBlank": false
+              },
+              {
+                "text": "threshing",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "When milk, cooled after boiling, is poured onto a piece of cloth the cream (malai) is left behind on it. This process of separating cream from milk is an example of ",
+                "isBlank": false
+              },
+              {
+                "text": "filtration",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Salt is obtained from seawater by the process of ",
+                "isBlank": false
+              },
+              {
+                "text": "evaporation",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Impurities settled at the bottom when muddy water was kept overnight in a bucket. The clear water was then poured off from the top. The process of separation used in this example is called ",
+                "isBlank": false
+              },
+              {
+                "text": "decantation",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "A mixture of milk and water can be separated by filtration.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "A mixture of powdered salt and sugar can be separated by the process of winnowing.",
+            "answer": false
+          }
+        }
+      ]
+    }
+  ]
+}

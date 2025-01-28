@@ -1,0 +1,104 @@
+{
+  "id": "femh111_exercises",
+  "metadata": {
+    "book": "NCERT: Mathematics - Textbook for Class VI",
+    "bookId": "femh111",
+    "chapter": "Algebra",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Mathematics",
+    "timestamp": "2025-01-16T09:57:19.211Z"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Algebra",
+      "exerciseNumber": "11.1",
+      "exerciseName": "Exercise 11.1",
+      "page": "175-176",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the rule which gives the number of matchsticks required to make the following matchstick patterns. Use a variable to write the rule for each:\n(a) A pattern of letter T\n(b) A pattern of letter Z\n(c) A pattern of letter U\n(d) A pattern of letter V\n(e) A pattern of letter E\n(f) A pattern of letter S\n(g) A pattern of letter A"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "We already know the rule for the pattern of letters L, C, and F. Some of the letters from question 1 give us the same rule as that given by L. Which are these? Why does this happen?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Cadets are marching in a parade. There are 5 cadets in a row. What is the rule which gives the number of cadets, given the number of rows? (Use n for the number of rows.)"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "If there are 50 mangoes in a box, how will you write the total number of mangoes in terms of the number of boxes? (Use b for the number of boxes.)"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The teacher distributes 5 pencils per student. Can you tell how many pencils are needed, given the number of students? (Use s for the number of students.)"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "A bird flies 1 kilometer in one minute. Can you express the distance covered by the bird in terms of its flying time in minutes? (Use t for flying time in minutes.)"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Radha is drawing a dot Rangoli with chalk powder. She has 9 dots in a row. How many dots will her Rangoli have for r rows? How many dots are there if there are 8 rows? If there are 10 rows?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Leela is Radha's younger sister. Leela is 4 years younger than Radha. Can you write Leela's age in terms of Radha's age? Take Radha's age to be x years."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Mother has made laddus. She gives some laddus to guests and family members; still 5 laddus remain. If the number of laddus mother gave away is l, how many laddus did she make?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Oranges are to be transferred from larger boxes into smaller boxes. When a large box is emptied, the oranges from it fill two smaller boxes and still 10 oranges remain outside. If the number of oranges in a small box are taken to be x, what is the number of oranges in the larger box?"
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "Look at the following matchstick pattern of squares (Fig 11.6). The squares are not separate. Two neighbouring squares have a common matchstick. Observe the patterns and find the rule that gives the number of matchsticks in terms of the number of squares. (Hint: If you remove the vertical stick at the end, you will get a pattern of Cs.)",
+            "diagrams": [
+              {
+                "url": "Fig 11.6"
+              }
+            ]
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "Fig 11.7 gives a matchstick pattern of triangles. As in Exercise 11 (a) above, find the general rule that gives the number of matchsticks in terms of the number of triangles.",
+            "diagrams": [
+              {
+                "url": "Fig 11.7"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

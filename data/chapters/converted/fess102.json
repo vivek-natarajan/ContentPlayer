@@ -1,0 +1,112 @@
+{
+  "id": "fess102_exercises",
+  "metadata": {
+    "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+    "bookId": "fess102",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "History",
+    "timestamp": "2025-01-16T10:48:47.446Z",
+    "chapter": "From Hunting–Gathering to Growing Food"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Let’s recall",
+      "exerciseNumber": "1",
+      "exerciseName": "Let’s recall",
+      "page": "20",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Hunter-gatherers chose to live in caves and rock shelters because ————————.",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Grasslands developed around ———————— years ago.",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why do people who grow crops have to stay in the same place for a long time?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why do archaeologists think that many people who lived in Mehrgarh were hunters to start with and that herding became more important later?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let’s discuss",
+      "exerciseNumber": "2",
+      "exerciseName": "Let’s discuss",
+      "page": "21",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why did the hunter-gatherers travel from place to place? In what ways are these similar to/different from the reasons for which we travel today?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "List three ways in which hunter-gatherers used fire. Would you use fire for any of these purposes today?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "List three ways in which the lives of farmers and herders would have been different from that of hunter-gatherers."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let’s do",
+      "exerciseNumber": "3",
+      "exerciseName": "Let’s do",
+      "page": "21",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "List the cereals that you eat. Do you grow the cereals you eat?"
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "If you grow the cereals you eat, draw a chart to show the stages in growing them."
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "If you do not grow the cereals you eat, draw a chart to show how these cereals reach you from the farmers who grow them."
+          }
+        }
+      ]
+    }
+  ]
+}

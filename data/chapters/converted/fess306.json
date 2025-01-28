@@ -1,0 +1,202 @@
+{
+  "id": "fess306_exercises",
+  "metadata": {
+    "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+    "bookId": "fess306",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Civics",
+    "timestamp": "2025-01-16T11:48:42.874Z",
+    "chapter": "Urban Administration"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Questions",
+      "exerciseNumber": "1",
+      "exerciseName": "Questions",
+      "page": "56-57",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why did the children go to Yasmin Khala’s house?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "List four ways in which the work of the Municipal Corporation affects the life of a city-dweller."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Who is a Municipal Councillor?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What did Gangabai do and why?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How does the Municipal Corporation earn the money to do its work?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In the two photographs you see different ways of collecting and disposing garbage. Which way do you think provides safety to the person disposing garbage? What are the dangers of collecting garbage in the manner shown in the first photograph? Why do you think that proper ways of disposing garbage are not available to those who work in municipalities?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Several poor people in the city work as domestic servants as well as work for the Corporation, keeping the city clean. Yet the slums in which they live are quite filthy. This is because these slums seldom have any water and sanitation facilities. The reason often given by the Municipal Corporation is that the land in which the poor have set up their homes does not belong to them and that slum-dwellers do not pay taxes. However people living in middle class neighbourhoods pay very little in taxes compared to the amount of money the corporation spends on them in setting up parks, street lighting facilities, regular garbage collection etc. Also as you read in this chapter, the property taxes collected by the Municipality makes up only 25-30 per cent of its money. Why do you think it is important that the Corporation should spend more money on slum localities? Why is it important that the Municipal Corporation provide the poor in the city with the same facilities that the rich get?"
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "The Government of India launched the Swachh Bharat Mission on 2 October 2014 to promote cleanliness in both rural and urban areas all over the nation. Under the “Swachh Bharat, Swachh Vidyalaya” campaign, many activities are also being carried out in schools to generate awareness on sanitation and hygiene amongst students. Observe the ways in which “Swachh Bharat Abhiyan” is being implemented by municipality / panchayat in your locality. Prepare a poster and display it in your school."
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "In the two photographs you see different ways of collecting and disposing garbage.",
+            "diagrams": [
+              {
+                "url": "56"
+              }
+            ]
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "Look at the image related to the Swachh Bharat Mission.",
+            "diagrams": [
+              {
+                "url": "57"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Fill in the blanks",
+      "exerciseNumber": "2",
+      "exerciseName": "Fill in the blanks",
+      "page": "52",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "In a panchayat the elected members are called ",
+                "isBlank": false
+              },
+              {
+                "text": "___________.",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The city is divided into several ",
+                "isBlank": false
+              },
+              {
+                "text": "___________.",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "In a municipal corporation the elected members are called ",
+                "isBlank": false
+              },
+              {
+                "text": "_________.",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Groups of councillors deal with issues that affect the ",
+                "isBlank": false
+              },
+              {
+                "text": "___________.",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Elections are held once every ",
+                "isBlank": false
+              },
+              {
+                "text": "___________ years for the panchayat as well as for the municipality.",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "While the councillors make decisions the administrative staff led by the Commissioner ",
+                "isBlank": false
+              },
+              {
+                "text": "___________ these.",
+                "isBlank": true
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

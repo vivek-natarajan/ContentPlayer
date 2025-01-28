@@ -1,0 +1,169 @@
+{
+  "id": "fess106_exercises",
+  "metadata": {
+    "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+    "bookId": "fess106",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "History",
+    "timestamp": "2025-01-16T10:53:34.932Z",
+    "chapter": "New Questions and Ideas"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Let's recall",
+      "exerciseNumber": "1",
+      "exerciseName": "Let's recall",
+      "page": "61",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Describe the ways in which the Buddha tried to spread his message to the people."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let's recall",
+      "exerciseNumber": "2",
+      "exerciseName": "Write whether true or false",
+      "page": "61",
+      "questions": [
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "The Buddha encouraged animal sacrifices.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Sarnath is important because it was the place where the Buddha taught for the first time.",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "The Buddha taught that karma has no effect on our lives.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "The Buddha attained enlightenment at Bodh Gaya.",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Upanishadic thinkers believed that the atman and brahman were ultimately one.",
+            "answer": true
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let's recall",
+      "exerciseNumber": "3",
+      "exerciseName": "What were the questions that Upanishadic thinkers wanted to answer?",
+      "page": "61",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What were the questions that Upanishadic thinkers wanted to answer?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let's recall",
+      "exerciseNumber": "4",
+      "exerciseName": "Let's recall",
+      "page": "61",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What were the main teachings of the Mahavira?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let's discuss",
+      "exerciseNumber": "5",
+      "exerciseName": "Let's discuss",
+      "page": "61",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why do you think Anagha’s mother wanted her to know the story of the Buddha?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "",
+      "exerciseNumber": "6",
+      "exerciseName": "Let's discuss",
+      "page": "61",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Do you think it would have been easy for slaves to join the sangha? Give reasons for your answer."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let's discuss",
+      "exerciseNumber": "7",
+      "exerciseName": "Discuss the reasons why the Chinese pilgrims came to India.",
+      "page": "61",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Discuss the reasons why the Chinese pilgrims came to India."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "",
+      "exerciseNumber": "8",
+      "exerciseName": "Let's do",
+      "page": "61",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Make a list of at least five ideas and questions mentioned in this lesson. Choose three from the list and discuss why you think they are important even today."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let's do",
+      "exerciseNumber": "9",
+      "exerciseName": "Find out more about men and women who renounce the world today.",
+      "page": "61",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find out more about men and women who renounce the world today. Where do they live, what kinds of clothes do they wear, what do they eat? Why do they renounce the world?"
+          }
+        }
+      ]
+    }
+  ]
+}

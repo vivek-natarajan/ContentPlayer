@@ -1,0 +1,156 @@
+{
+  "id": "fess308_exercises",
+  "metadata": {
+    "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+    "bookId": "fess308",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Civics",
+    "timestamp": "2025-01-16T11:51:03.002Z",
+    "chapter": "Urban Livelihoods"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Urban Livelihoods",
+      "exerciseNumber": "1",
+      "exerciseName": "Urban Livelihoods",
+      "page": "69",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What do you see in this illustration?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "You have already read about the work that people do in rural areas. Now compare the work that people in this illustration are doing with the work that people do in rural areas."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Some parts of the city are different from others. What differences do you notice in this illustration?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working on the Street",
+      "exerciseNumber": "2",
+      "exerciseName": "Working on the Street",
+      "page": "72",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why did Bachchu Manjhi come to the city?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why can’t Bachchu Manjhi live with his family?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Talk to a vegetable vendor or hawker and find out how do they organise their work, their way of preparing, purchasing, selling etc."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Bachchu Manjhi has to think twice before taking a day off from work. Why?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "In the Market",
+      "exerciseNumber": "3",
+      "exerciseName": "In the Market",
+      "page": "74",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why did Harpreet and Vandana start a showroom? What do they have to do to run the showroom?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Talk to a shop owner in a market and find out how he plans his work. Have there been any changes in his business in the past twenty years?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What are the differences between those who sell on the street and those in the market?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "In the Factory-Workshop Area",
+      "exerciseNumber": "4",
+      "exerciseName": "In the Factory-Workshop Area",
+      "page": "75-76",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why do you think small workshops and factories employ casual workers?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Describe the working conditions of people like Nirmala keeping in mind the following: working hours, conditions in the workplace, earnings, and the days of work available."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Would you say that domestic workers like housemaids are also casual workers? Why? Describe the workday of one such woman detailing the work she does in other peoples’ houses."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "In the Office Area",
+      "exerciseNumber": "5",
+      "exerciseName": "In the Office Area",
+      "page": "78",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Complete the following table and discuss how their work is different."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In what ways is a permanent and regular job different from a casual job? Discuss."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What benefits does Sudha get along with her salary?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Fill in the following table to show the services provided by people in the markets which you visit frequently."
+          }
+        }
+      ]
+    }
+  ]
+}

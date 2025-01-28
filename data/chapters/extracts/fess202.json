@@ -1,0 +1,50 @@
+{
+  "id": "fess202_exercises",
+  "metadata": {
+    "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
+    "bookId": "fess202",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Geography",
+    "timestamp": "2025-01-16T11:29:52.775Z",
+    "chapter": "Globe: Latitudes and Longitudes"
+  },
+  "exercises": [
+    {
+      "exerciseNumber": "1",
+      "title": "Answer the following questions briefly.",
+      "content": "1. Answer the following questions briefly.\n(a) What is the true shape of the earth?\n(b) What is a globe?\n(c) What is the latitudinal value of the Tropic of Cancer?\n(d) What are the three heat zones of the Earth?\n(e) What are parallels of latitude and meridians of longitude?\n(f) Why does the torrid zone receive maximum amount of heat?\n(g) Why is it 5.30 p.m. in India and 12.00 noon in London?",
+      "pages": [
+        "16"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "2",
+      "title": "Tick the correct answers.",
+      "content": "2. Tick the correct answers.\n(a) The value of the prime meridian is\n(i) 90° (ii) 0° (iii) 60°\n(b) The frigid zone lies near\n(i) the Poles (ii) the Equator (iii) the Tropic of Cancer\n(c) The total number of longitudes are\n(i) 360 (ii) 180 (iii) 90\n(d) The Antarctic circle is located in\n(i) the Northern hemisphere\n(ii) the Southern hemisphere\n(iii) the Eastern hemisphere\n(e) Grid is a network of\n(i) parallels of latitudes and meridians of longitudes\n(ii) the Tropic of Cancer and the Tropic of Capricorn\n(iii) the North Pole and the South Pole",
+      "pages": [
+        "16"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "3",
+      "title": "Fill in the blanks.",
+      "content": "3. Fill in the blanks.\n(a) The Tropic of Capricorn is located at _________________\n(b) The Standard Meridian of India is ____________________\n(c) The 0° Meridian is also known as ____________________\n(d) The distance between the longitudes decreases towards___________\n(e) The Arctic Circle is located in the ____________ hemisphere.",
+      "pages": [
+        "17"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "4",
+      "title": "Practical Activity",
+      "content": "1. Draw a diagram of the globe showing the earth’s axis, the Equator, Tropics of Cancer and Capricorn, Arctic Circle and Antarctic Circle.\n2. Draw and cut out six circles of the same size (approx. 3 cm. radius) from cardboard. Mark diametres (NS, EW) and 23½° angles on each face of the circles as shown on the figure. Place the circle one on top of the other and stitch along the line NS. Now there are twelve semi-circles. Let one semi-circle represent 0° or Greenwich Meridian (Prime Meridian). The 6th semi-circle from it will be the 180° Meridian. Between the 0° and 180° there are 5 semi-circles on both sides which are West and East longitudes 30° apart. On two ends of the stapled line stick pins to represent the North and South Poles.\nA rubber band around the model touching the EW points will represent the Equator. Two rubber bands touching the 23½° points, South and North of the EW points will represent the tropics.",
+      "pages": [
+        "17"
+      ],
+      "diagrams": []
+    }
+  ]
+}

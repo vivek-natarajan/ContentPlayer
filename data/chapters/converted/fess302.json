@@ -1,0 +1,118 @@
+{
+  "id": "fess302_exercises",
+  "metadata": {
+    "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+    "bookId": "fess302",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Civics",
+    "timestamp": "2025-01-16T11:38:57.992Z",
+    "chapter": "Diversity and Discrimination"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Worksheet 1",
+      "exerciseNumber": "1",
+      "exerciseName": "Questions",
+      "page": "22",
+      "questions": [
+        {
+          "type": "MatchTheFollowing",
+          "content": {
+            "question": "Match the following statements in a way that challenges stereotypes.",
+            "pairs": [
+              {
+                "left": "Two surgeons were sitting down to lunch when one of them made a call on the mobile phone",
+                "right": "to speak with her daughter who had just returned from school."
+              },
+              {
+                "left": "The boy who won the drawing competition went to the dias",
+                "right": "on a wheelchair to collect his prize."
+              },
+              {
+                "left": "One of the fastest athletes in the world",
+                "right": "suffers from chronic asthma."
+              },
+              {
+                "left": "She was not that well-off but had a dream",
+                "right": "to become an astronaut which she did."
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Questions",
+      "exerciseNumber": "2",
+      "exerciseName": "Questions",
+      "page": "22",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How can the stereotype that girls are a burden on their parents affect the life of a daughter? Imagine this situation and list at least five different effects that this stereotype can have on the way daughters get treated in the house."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Questions",
+      "exerciseNumber": "3",
+      "exerciseName": "Questions",
+      "page": "22",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What does the Constitution say with regard to equality? Why do you think it is important for all people to be equal?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Questions",
+      "exerciseNumber": "4",
+      "exerciseName": "Discussion Scenarios",
+      "page": "23",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Discuss what you could do if a friend begins to tease a classmate because he is poor."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Discuss what you could do if you are watching TV with your family and one of them makes a prejudicial comment about a particular religious community."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Discuss what you could do if children in your class refuse to share their food with a particular person because they think she is dirty."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Discuss what you could do if someone tells you a joke that makes fun of a community because of their accent."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Discuss what you could do if some boys make remarks about girls not being able to play games as well as them."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Discuss in class what the different groups have suggested for the above situations, and also talk about the problems that can come up when raising the issue."
+          }
+        }
+      ]
+    }
+  ]
+}

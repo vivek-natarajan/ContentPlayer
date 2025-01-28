@@ -1,0 +1,285 @@
+{
+  "id": "fess205_exercises",
+  "metadata": {
+    "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
+    "bookId": "fess205",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Geography",
+    "timestamp": "2025-01-16T11:34:46.061Z",
+    "chapter": "Major Domains of the Earth"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Answer the following questions briefly.",
+      "exerciseNumber": "1",
+      "exerciseName": "Answer the following questions briefly.",
+      "page": "37",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What are the four major domains of the earth?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Name the major continents of the earth."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Name the two continents that lie entirely in the Southern Hemisphere."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Name the different layers of atmosphere."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why is the earth called the ‘blue planet’?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why is the Northern Hemisphere called the Land Hemisphere?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why is the Biosphere important for living organisms?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Tick the correct answers.",
+      "exerciseNumber": "2",
+      "exerciseName": "Tick the correct answers.",
+      "page": "38",
+      "questions": [
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "The mountain range that separates Europe from Asia is",
+            "options": [
+              "the Andes",
+              "the Himalayas",
+              "the Urals"
+            ],
+            "correctAnswer": 2
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "The continent of North America is linked to South America by",
+            "options": [
+              "an Isthmus",
+              "a Strait",
+              "a Canal"
+            ],
+            "correctAnswer": 0
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "The major constituent of atmosphere by per cent is",
+            "options": [
+              "Nitrogen",
+              "Oxygen",
+              "Carbon dioxide"
+            ],
+            "correctAnswer": 0
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "The domain of the earth consisting of solid rocks is",
+            "options": [
+              "the Atmosphere",
+              "the Hydrosphere",
+              "the Lithosphere"
+            ],
+            "correctAnswer": 2
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Which is the largest continent?",
+            "options": [
+              "Africa",
+              "Asia",
+              "Australia"
+            ],
+            "correctAnswer": 1
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Fill in the blanks.",
+      "exerciseNumber": "3",
+      "exerciseName": "Fill in the blanks.",
+      "page": "38",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The deepest point on the earth is ",
+                "isBlank": false
+              },
+              {
+                "text": "Mariana Trench",
+                "isBlank": true
+              },
+              {
+                "text": " in the Pacific Ocean.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The ",
+                "isBlank": false
+              },
+              {
+                "text": "Indian",
+                "isBlank": true
+              },
+              {
+                "text": " Ocean is named after a country.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The ",
+                "isBlank": false
+              },
+              {
+                "text": "biosphere",
+                "isBlank": true
+              },
+              {
+                "text": " is a narrow contact zone of land, water and air that supports life.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The continents of Europe and Asia together are known as ",
+                "isBlank": false
+              },
+              {
+                "text": "Eurasia",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The highest mountain peak on the earth is ",
+                "isBlank": false
+              },
+              {
+                "text": "Mount Everest",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Activities",
+      "exerciseNumber": "4",
+      "exerciseName": "Activities",
+      "page": "38",
+      "questions": [
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Cut the outline of the continents from an outline map of the world and arrange them according to their decreasing sizes."
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Cut the outline of the continents from an outline map of the world and try to fit them together as a jig-saw puzzle."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Collect pictures of expeditions to the Himalayas. Write about the kind of equipment carried by the climbers for protection against sunshine, temperature and the lack of air."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Map Skills",
+      "exerciseNumber": "5",
+      "exerciseName": "Map Skills",
+      "page": "38",
+      "questions": [
+        {
+          "type": "Draw",
+          "content": {
+            "question": "On the outline map of the world, mark the following: Europe, Asia, Antarctica, South America, Australia, Indian Ocean, Pacific Ocean, Atlantic Ocean, Ural Mountains, and Isthmus of Panama."
+          }
+        }
+      ]
+    }
+  ]
+}

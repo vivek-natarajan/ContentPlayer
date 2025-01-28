@@ -1,0 +1,187 @@
+{
+  "id": "fess104_exercises",
+  "metadata": {
+    "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+    "bookId": "fess104",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "History",
+    "timestamp": "2025-01-16T10:50:34.331Z",
+    "chapter": "What Books and Burials Tell Us"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Let’s recall",
+      "exerciseNumber": "1",
+      "exerciseName": "Let’s recall",
+      "page": "41",
+      "questions": [
+        {
+          "type": "MatchTheFollowing",
+          "content": {
+            "question": "Match the columns",
+            "pairs": [
+              {
+                "left": "Sukta",
+                "right": "Well-said"
+              },
+              {
+                "left": "Chariots",
+                "right": "Used in battles"
+              },
+              {
+                "left": "Yajna",
+                "right": "Sacrifice"
+              },
+              {
+                "left": "Dasa",
+                "right": "Slave"
+              },
+              {
+                "left": "Megalith",
+                "right": "Stone boulder"
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Slaves were used for ",
+                "isBlank": false
+              },
+              {
+                "text": "__________",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Megaliths are found in ",
+                "isBlank": false
+              },
+              {
+                "text": "__________",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Stone circles or boulders on the surface were used to ",
+                "isBlank": false
+              },
+              {
+                "text": "__________",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Port-holes were used for ",
+                "isBlank": false
+              },
+              {
+                "text": "__________",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "People at Inamgaon ate ",
+                "isBlank": false
+              },
+              {
+                "text": "__________",
+                "isBlank": true
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let’s discuss",
+      "exerciseNumber": "2",
+      "exerciseName": "Let’s discuss",
+      "page": "41-42",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In what ways are the books we read today different from the Rigveda?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What kind of evidence from burials do archaeologists use to find out whether there were social differences amongst those who were buried?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In what ways do you think that the life of a raja was different from that of a dasa or dasi?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let’s do",
+      "exerciseNumber": "3",
+      "exerciseName": "Exercise",
+      "page": "42",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find out whether your school library has a collection of books on religion, and list the names of five books from this collection."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write down a short poem or song that you have memorised. Did you hear or read the poem or song? How did you learn it by heart?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In the Rigveda, people were described in terms of the work they did and the languages they spoke. In the table below, fill in the names of six people you know, choosing three men and three women. For each of them, mention the work they do and the language they speak. Would you like to add anything else to the description?"
+          }
+        }
+      ]
+    }
+  ]
+}

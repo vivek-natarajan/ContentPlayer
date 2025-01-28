@@ -1,0 +1,70 @@
+{
+  "id": "fepw103_exercises",
+  "metadata": {
+    "book": "NCERT: A Pact with the Sun - Supplementary Reader in English for Class VI",
+    "bookId": "fepw103",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "English",
+    "timestamp": "2025-01-16T17:03:35.212Z",
+    "chapter": "The Shepherd's Treasure"
+  },
+  "exercises": [
+    {
+      "worksheetName": "The Shepherd’s Treasure",
+      "exerciseNumber": "1",
+      "exerciseName": "The Shepherd’s Treasure",
+      "page": "10",
+      "questions": [
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "The shepherd hadn’t been to school because",
+            "options": [
+              "he was very poor.",
+              "there were very few schools in those days.",
+              "he wasn’t interested in studies."
+            ],
+            "correctAnswer": 0
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Who visited the shepherd one day, and why?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why did the other governors grow jealous of the shepherd?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why was the new governor called to the palace?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why was everyone delighted to see the iron chest on the camel’s back?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What did the iron chest contain? Why did the shepherd always carry it? Is it an example of the shepherd’s humility or wisdom or both?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How did the king reward the new governor?"
+          }
+        }
+      ]
+    }
+  ]
+}

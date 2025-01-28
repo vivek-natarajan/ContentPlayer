@@ -1,0 +1,133 @@
+{
+  "id": "fesc109_exercises",
+  "metadata": {
+    "book": "NCERT: Science - Textbook for Class VI",
+    "bookId": "fesc109",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Science",
+    "timestamp": "2025-01-16T10:32:55.993Z",
+    "chapter": "Electricity and Circuits"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Electricity and Circuits Exercises",
+      "exerciseNumber": "9",
+      "exerciseName": "Electricity and Circuits Exercises",
+      "page": "102-103",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "A device that is used to break an electric circuit is called ",
+                "isBlank": false
+              },
+              {
+                "text": "switch",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "An electric cell has ",
+                "isBlank": false
+              },
+              {
+                "text": "two",
+                "isBlank": true
+              },
+              {
+                "text": " terminals.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Electric current can flow through metals.",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Instead of metal wires, a jute string can be used to make a circuit.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Electric current can pass through a sheet of thermo Col.",
+            "answer": false
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Explain why the bulb would not glow in the arrangement shown in Fig. 9.13."
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Complete the drawing shown in Fig. 9.14 to indicate where the free ends of the two wires should be joined to make the bulb glow."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is the purpose of using an electric switch? Name some electrical gadgets that have switches built into them."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Would the bulb glow after completing the circuit shown in Fig. 9.14 if instead of safety pin we use an eraser?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Would the bulb glow in the circuit shown in Fig. 9.15?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Using the \"conduction tester\" on an object it was found that the bulb begins to glow. Is that object a conductor or an insulator? Explain."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why should an electrician use rubber gloves while repairing an electric switch at your home? Explain."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The handles of the tools like screwdrivers and pliers used by electricians for repair work usually have plastic or rubber covers on them. Can you explain why?"
+          }
+        }
+      ]
+    }
+  ]
+}

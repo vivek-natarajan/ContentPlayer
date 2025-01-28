@@ -1,0 +1,208 @@
+{
+  "id": "fesc107_exercises",
+  "metadata": {
+    "book": "NCERT: Science - Textbook for Class VI",
+    "bookId": "fesc107",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Science",
+    "timestamp": "2025-01-16T10:29:20.270Z",
+    "chapter": "Motion and Measurement of Distances"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Motion and Measurement of Distances",
+      "exerciseNumber": "1",
+      "exerciseName": "Motion and Measurement of Distances",
+      "page": "85",
+      "questions": [
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Draw a map of your classroom. Roll a ball on the floor. In your map mark the points where the ball started and where it stopped. Show also the path it moved along. Did the ball move along a straight line?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Using string and a scale, let each student measure the length of his/her foot. Prepare a bar graph of the foot length measurements that have been obtained for the whole class."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Motion and Measurement of Distances",
+      "exerciseNumber": "2",
+      "exerciseName": "Motion and Measurement of Distances",
+      "page": "85",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Give two examples each, of modes of transport used on land, water and air."
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "One metre is",
+                "isBlank": false
+              },
+              {
+                "text": "100",
+                "isBlank": true
+              },
+              {
+                "text": "cm.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Five kilometre is",
+                "isBlank": false
+              },
+              {
+                "text": "5000",
+                "isBlank": true
+              },
+              {
+                "text": "m.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Motion of a child on a swing is",
+                "isBlank": false
+              },
+              {
+                "text": "periodic",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Motion of the needle of a sewing machine is",
+                "isBlank": false
+              },
+              {
+                "text": "oscillatory",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Motion of wheel of a bicycle is",
+                "isBlank": false
+              },
+              {
+                "text": "circular",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why can a pace or a footstep not be used as a standard unit of length?"
+          }
+        },
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Arrange the following lengths in their increasing magnitude.",
+            "text": "1 metre\n1 centimetre\n1 kilometre\n1 millimetre",
+            "answers": [
+              "1 millimetre",
+              "1 centimetre",
+              "1 metre",
+              "1 kilometre"
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The height of a person is 1.65 m. Express it into cm and mm."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The distance between Radha's home and her school is 3250 m. Express this distance into km."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "While measuring the length of a knitting needle, the reading of the scale at one end is 3.0 cm and at the other end is 33.1 cm. What is the length of the needle?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write the similarities and differences between the motion of a bicycle and a ceiling fan that has been switched on."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why would you not like to use a measuring tape made of an elastic material like rubber to measure distance? What would be some of the problems you would meet in telling someone about a distance you measured with such a tape?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Give two examples of periodic motion."
+          }
+        }
+      ]
+    }
+  ]
+}

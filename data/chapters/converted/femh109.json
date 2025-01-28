@@ -1,0 +1,73 @@
+{
+  "id": "femh109_exercises",
+  "metadata": {
+    "book": "NCERT: Mathematics - Textbook for Class VI",
+    "bookId": "femh109",
+    "chapter": "Data Handling",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Mathematics",
+    "timestamp": "2025-01-16T07:28:53.908Z"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Mathematics",
+      "exerciseNumber": "9.1",
+      "exerciseName": "Exercise 9.1",
+      "page": "150-152",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In a Mathematics test, the following marks were obtained by 40 students. Arrange these marks in a table using tally marks: 8 1 3 7 6 5 5 4 4 2 4 9 5 3 7 1 6 5 2 7 7 3 8 4 2 8 9 5 8 6 7 4 5 6 9 6 4 4 6 6. (a) Find how many students obtained marks equal to or more than 7. (b) How many students obtained marks below 4?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Following is the choice of sweets of 30 students of Class VI: Ladoo, Barfi, Ladoo, Jalebi, Ladoo, Rasgulla, Jalebi, Ladoo, Barfi, Rasgulla, Ladoo, Jalebi, Jalebi, Rasgulla, Ladoo, Rasgulla, Jalebi, Ladoo, Rasgulla, Ladoo, Ladoo, Barfi, Rasgulla, Rasgulla, Jalebi, Rasgulla, Ladoo, Rasgulla, Jalebi, Ladoo. (a) Arrange the names of sweets in a table using tally marks. (b) Which sweet is preferred by most of the students?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Catherine threw a dice 40 times and noted the number appearing each time as shown below: 1 3 5 6 6 3 5 4 1 6 2 5 3 4 6 1 5 5 6 1 1 2 2 3 5 2 4 5 5 6 5 1 6 2 3 5 2 4 1 5. Make a table and enter the data using tally marks. Find the number that appeared (a) The minimum number of times (b) The maximum number of times (c) Find those numbers that appear an equal number of times."
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "Following pictograph shows the number of tractors in five villages. Observe the pictograph and answer the following questions: (i) Which village has the minimum number of tractors? (ii) Which village has the maximum number of tractors? (iii) How many more tractors village C has as compared to village B. (iv) What is the total number of tractors in all the five villages?",
+            "diagrams": [
+              {
+                "url": "151"
+              }
+            ]
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "The number of girl students in each class of a co-educational middle school is depicted by the pictograph. Observe this pictograph and answer the following questions: (a) Which class has the minimum number of girl students? (b) Is the number of girls in Class VI less than the number of girls in Class V? (c) How many girls are there in Class VII?",
+            "diagrams": [
+              {
+                "url": "151"
+              }
+            ]
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "The sale of electric bulbs on different days of a week is shown below. Observe this pictograph and answer the following questions: (a) Which merchant sold the maximum number of baskets? (b) How many fruit baskets were sold by Anwar? (c) The merchants who have sold 600 or more number of baskets are planning to buy a godown for the next season. Can you name them?",
+            "diagrams": [
+              {
+                "url": "152"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

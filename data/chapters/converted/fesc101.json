@@ -1,0 +1,157 @@
+{
+  "id": "fesc101_exercises",
+  "metadata": {
+    "book": "NCERT: Science - Textbook for Class VI",
+    "bookId": "fesc101",
+    "chapter": "Components of Food",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Science",
+    "timestamp": "2025-01-16T10:22:12.936Z"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Components of Food Exercises",
+      "exerciseNumber": "1",
+      "exerciseName": "Components of Food Exercises",
+      "page": "10",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Name the major nutrients in our food."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Name the following: (a) The nutrients which mainly give energy to our body. (b) The nutrients that are needed for the growth and maintenance of our body. (c) A vitamin required for maintaining good eyesight. (d) A mineral that is required for keeping our bones healthy."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Name two foods each rich in: (a) Fats (b) Starch (c) Dietary fibre (d) Protein"
+          }
+        },
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Tick () the statements that are correct.",
+            "text": "By eating rice alone, we can fulfill nutritional requirement of our body.\nDeficiency diseases can be prevented by eating a balanced diet.\nBalanced diet for the body should contain a variety of food items.\nMeat alone is sufficient to provide all nutrients to the body.",
+            "answers": [
+              "Deficiency diseases can be prevented by eating a balanced diet.",
+              "Balanced diet for the body should contain a variety of food items."
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "",
+                "isBlank": true
+              },
+              {
+                "text": " is caused by deficiency of Vitamin D.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Deficiency of ",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              },
+              {
+                "text": " causes a disease known as beri-beri.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Deficiency of Vitamin C causes a disease known as ",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Night blindness is caused due to deficiency of ",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              },
+              {
+                "text": " in our food.",
+                "isBlank": false
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Suggested Projects and Activities",
+      "exerciseNumber": "2",
+      "exerciseName": "Suggested Projects and Activities",
+      "page": "10",
+      "questions": [
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Prepare a diet chart to provide a balanced diet to a twelve-year-old child. The diet chart should include food items which are not expensive and are commonly available in your area."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "We have learnt that excess intake of fats is harmful for the body. What about other nutrients? Would it be harmful for the body to take too much of proteins or vitamins in the diet? Read about diet-related problems to find answers to these questions and have a class discussion on this topic."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Test the food usually eaten by cattle or a pet to find out which nutrients are present in animal food. Compare results obtained from the whole class to conclude about balanced diet requirements for different animals."
+          }
+        }
+      ]
+    }
+  ]
+}

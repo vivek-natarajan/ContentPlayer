@@ -1,0 +1,134 @@
+{
+  "id": "fess105_exercises",
+  "metadata": {
+    "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+    "bookId": "fess105",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "History",
+    "timestamp": "2025-01-16T10:51:50.926Z",
+    "chapter": "Kingdoms, Kings and An Early Republic"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Let’s recall",
+      "exerciseNumber": "1",
+      "exerciseName": "Let’s recall",
+      "page": "50",
+      "questions": [
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Rajas who let the ashvamedha horse pass through their lands were invited to the sacrifice.",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "The charioteer sprinkled sacred water on the king.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Archaeologists have found palaces in the settlements of the janapadas.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Pots to store grain were made out of Painted Grey Ware.",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Many cities in mahajanapadas were fortified.",
+            "answer": true
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "",
+      "exerciseNumber": "2",
+      "exerciseName": "Let’s recall",
+      "page": "50",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "Fill in the chart given below with the terms: hunter-gatherers, farmers, traders, craftspersons, herders.",
+                "isBlank": false
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "",
+      "exerciseNumber": "3",
+      "exerciseName": "Let’s recall",
+      "page": "50",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Who were the groups who could not participate in the assemblies of the ganas?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let’s discuss",
+      "exerciseNumber": "4",
+      "exerciseName": "Let’s discuss",
+      "page": "51",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why did the rajas of mahajanapadas build forts?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let’s do",
+      "exerciseNumber": "5",
+      "exerciseName": "Let’s do",
+      "page": "51",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Were there any janapadas in your state? If yes, name them. If not, name the janapadas that would have been the closest to your state, and mention whether they were to the east, west, north or south."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let’s do",
+      "exerciseNumber": "6",
+      "exerciseName": "Let’s do",
+      "page": "51",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find out whether the groups mentioned in answer 3 have voting rights at present."
+          }
+        }
+      ]
+    }
+  ]
+}

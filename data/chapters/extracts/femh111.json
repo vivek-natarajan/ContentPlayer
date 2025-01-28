@@ -1,0 +1,39 @@
+{
+  "id": "femh111_exercises",
+  "metadata": {
+    "book": "NCERT: Mathematics - Textbook for Class VI",
+    "bookId": "femh111",
+    "chapter": "Algebra",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Mathematics",
+    "timestamp": "2025-01-16T09:57:19.211Z"
+  },
+  "exercises": [
+    {
+      "exerciseNumber": "11.1",
+      "title": "Exercise 11.1",
+      "content": "1. Find the rule which gives the number of matchsticks required to make the following matchstick patterns. Use a variable to write the rule.\n(a) A pattern of letter T as\n(b) A pattern of letter Z as\n(c) A pattern of letter U as\n(d) A pattern of letter V as\n(e) A pattern of letter E as\n(f) A pattern of letter S as\n(g) A pattern of letter A as\n\n2. We already know the rule for the pattern of letters L, C and F. Some of the letters from Q.1 (given above) give us the same rule as that given by L. Which are these? Why does this happen?\n\n3. Cadets are marching in a parade. There are 5 cadets in a row. What is the rule which gives the number of cadets, given the number of rows? (Use n for the number of rows.)\n\n4. If there are 50 mangoes in a box, how will you write the total number of mangoes in terms of the number of boxes? (Use b for the number of boxes.)\n\n5. The teacher distributes 5 pencils per student. Can you tell how many pencils are needed, given the number of students? (Use s for the number of students.)\n\n6. A bird flies 1 kilometer in one minute. Can you express the distance covered by the bird in terms of its flying time in minutes? (Use t for flying time in minutes.)\n\n7. Radha is drawing a dot Rangoli (a beautiful pattern of lines joining dots) with chalk powder. She has 9 dots in a row. How many dots will her Rangoli have for r rows? How many dots are there if there are 8 rows? If there are 10 rows?\n\n8. Leela is Radha's younger sister. Leela is 4 years younger than Radha. Can you write Leela's age in terms of Radha's age? Take Radha's age to be x years.\n\n9. Mother has made laddus. She gives some laddus to guests and family members; still 5 laddus remain. If the number of laddus mother gave away is l, how many laddus did she make?\n\n10. Oranges are to be transferred from larger boxes into smaller boxes. When a large box is emptied, the oranges from it fill two smaller boxes and still 10 oranges remain outside. If the number of oranges in a small box are taken to be x, what is the number of oranges in the larger box?\n\n11. (a) Look at the following matchstick pattern of squares (Fig 11.6). The squares are not separate. Two neighbouring squares have a common matchstick. Observe the patterns and find the rule that gives the number of matchsticks in terms of the number of squares. (Hint: If you remove the vertical stick at the end, you will get a pattern of Cs.)\n(b) Fig 11.7 gives a matchstick pattern of triangles. As in Exercise 11 (a) above, find the general rule that gives the number of matchsticks in terms of the number of triangles.",
+      "pages": [
+        "175",
+        "176"
+      ],
+      "diagrams": [
+        {
+          "questionNumber": "11(a)",
+          "reference": "Look at the following matchstick pattern of squares (Fig 11.6).",
+          "description": "Matchstick pattern of squares with common matchsticks.",
+          "labels": [],
+          "location": "176"
+        },
+        {
+          "questionNumber": "11(b)",
+          "reference": "Fig 11.7 gives a matchstick pattern of triangles.",
+          "description": "Matchstick pattern of triangles.",
+          "labels": [],
+          "location": "176"
+        }
+      ]
+    }
+  ]
+}

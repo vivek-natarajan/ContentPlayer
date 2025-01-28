@@ -1,0 +1,64 @@
+{
+  "id": "fepw105_exercises",
+  "metadata": {
+    "book": "NCERT: A Pact with the Sun - Supplementary Reader in English for Class VI",
+    "bookId": "fepw105",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "English",
+    "timestamp": "2025-01-16T17:08:08.400Z",
+    "chapter": "The Monkey and the Crocodile"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Questions",
+      "exerciseNumber": "1",
+      "exerciseName": "Questions",
+      "page": "20",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The monkey was happy living in the fruit tree, but his happiness was not complete. What did he miss?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What did the two friends generally talk about?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why was the crocodile’s wife annoyed with her husband one day?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why was the crocodile unwilling to invite his friend home?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What did the crocodile tell the monkey midstream?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How did the monkey save himself?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What does the last sentence of the story suggest? What would the crocodile tell his wife?"
+          }
+        }
+      ]
+    }
+  ]
+}

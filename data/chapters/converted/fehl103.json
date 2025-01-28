@@ -1,0 +1,306 @@
+{
+  "id": "fehl103_exercises",
+  "metadata": {
+    "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
+    "bookId": "fehl103",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "English",
+    "timestamp": "2025-01-16T11:57:24.302Z",
+    "chapter": "Taro's Reward"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Working with the Text",
+      "exerciseNumber": "1",
+      "exerciseName": "Exercise",
+      "page": "32-33",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why did Taro run in the direction of the stream?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How did Taro’s father show his happiness after drinking saké?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why did the waterfall give Taro saké and others water?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why did the villagers want to drown Taro?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why did the Emperor reward Taro?"
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Taro earned very little money because",
+            "options": [
+              "he didn’t work hard enough.",
+              "the villagers didn’t need wood.",
+              "the price of wood was very low."
+            ],
+            "correctAnswer": 2
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "Taro decided to earn extra money",
+            "options": [
+              "to live a more comfortable life.",
+              "to buy his old father some saké.",
+              "to repair the cracks in the hut."
+            ],
+            "correctAnswer": 1
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "The neighbour left Taro’s hut in a hurry because",
+            "options": [
+              "she was delighted with the drink.",
+              "she was astonished to hear Taro’s story.",
+              "she wanted to tell the whole village about the waterfall."
+            ],
+            "correctAnswer": 2
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with Language",
+      "exerciseNumber": "2",
+      "exerciseName": "Working with Language",
+      "page": "34",
+      "questions": [
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Strike off the words in the box below that are not suitable. Taro wanted to give his old parents everything they needed. This shows that he was …",
+            "text": "thoughtful\nhardworking\nloving\nhonest\nconsiderate\ntrustworthy\nefficient\nkind",
+            "answers": [
+              "thoughtful",
+              "loving",
+              "considerate",
+              "kind"
+            ]
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "“This made Taro sadder than ever.” ‘This’ refers to",
+            "options": [
+              "a strong wind that began to blow.",
+              "Taro’s father’s old age.",
+              "Taro’s inability to buy expensive saké for his father."
+            ],
+            "correctAnswer": 2
+          }
+        },
+        {
+          "type": "SimpleMCQ",
+          "content": {
+            "question": "“This, said the emperor, was to encourage all children to honour and obey their parents.” ‘This’ refers to",
+            "options": [
+              "the most beautiful fountain in the city.",
+              "rewarding Taro with gold and giving the fountain his name.",
+              "sending for Taro to hear his story."
+            ],
+            "correctAnswer": 1
+          }
+        },
+        {
+          "type": "MatchTheFollowing",
+          "content": {
+            "question": "Arrange the words below in pairs that rhyme.",
+            "pairs": [
+              {
+                "left": "money",
+                "right": "sunny"
+              },
+              {
+                "left": "young",
+                "right": "lung"
+              },
+              {
+                "left": "sad",
+                "right": "bad"
+              },
+              {
+                "left": "chop",
+                "right": "stop"
+              },
+              {
+                "left": "last",
+                "right": "fast"
+              },
+              {
+                "left": "wax",
+                "right": "axe"
+              },
+              {
+                "left": "could",
+                "right": "wood"
+              },
+              {
+                "left": "sound",
+                "right": "round"
+              },
+              {
+                "left": "way",
+                "right": "day"
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [
+              "lonely",
+              "little",
+              "hard",
+              "young",
+              "thoughtful",
+              "delicious",
+              "beautiful"
+            ],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "A ",
+                "isBlank": false
+              },
+              {
+                "text": "young",
+                "isBlank": true
+              },
+              {
+                "text": " woodcutter lived on a ",
+                "isBlank": false
+              },
+              {
+                "text": "lonely",
+                "isBlank": true
+              },
+              {
+                "text": " hillside. He was a ",
+                "isBlank": false
+              },
+              {
+                "text": "thoughtful",
+                "isBlank": true
+              },
+              {
+                "text": " son who worked ",
+                "isBlank": false
+              },
+              {
+                "text": "hard",
+                "isBlank": true
+              },
+              {
+                "text": " but earned ",
+                "isBlank": false
+              },
+              {
+                "text": "little",
+                "isBlank": true
+              },
+              {
+                "text": " money. One day he saw a ",
+                "isBlank": false
+              },
+              {
+                "text": "beautiful",
+                "isBlank": true
+              },
+              {
+                "text": " waterfall hidden behind a rock. He tasted the water and found it ",
+                "isBlank": false
+              },
+              {
+                "text": "delicious",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Speaking and Writing",
+      "exerciseNumber": "3",
+      "exerciseName": "Speaking and Writing",
+      "page": "35",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Speak the following sentences clearly but as quickly as you can. Learn them by heart: How much wood would a woodchuck chuck if a woodchuck would chuck wood. Betty bought a bit of butter, but the bit of butter was a little bitter so she bought some better butter to make the bitter butter better."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "The story ‘Taro’s Reward’ shows that Taro is thoughtful, hardworking and also wise. Read aloud the parts of the story that show these qualities in Taro."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Like Patrick in the story ‘Who Did Patrick’s Homework’, Taro is helped by magic. Do you believe in magic? What are the magical things that happen in these stories?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Which story do you like better, and why? Do you know such stories in other languages? Discuss these questions in class."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write a paragraph or two about these two stories, comparing them."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Dictation",
+      "exerciseNumber": "4",
+      "exerciseName": "Dictation",
+      "page": "36",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Your teacher will speak the words given below. Write against each two new words that rhyme with it.\n1. bed\n2. wax\n3. fast\n4. chop\n5. young"
+          }
+        }
+      ]
+    }
+  ]
+}

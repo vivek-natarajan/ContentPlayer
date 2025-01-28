@@ -1,0 +1,194 @@
+{
+  "id": "fess107_exercises",
+  "metadata": {
+    "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+    "bookId": "fess107",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "History",
+    "timestamp": "2025-01-16T10:54:38.547Z",
+    "chapter": "From a Kingdom to an Empire"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Let's recall",
+      "exerciseNumber": "1",
+      "exerciseName": "Let's recall",
+      "page": "68-69",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Make a list of the occupations of the people who lived within the Mauryan empire."
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Officials collected ",
+                "isBlank": false
+              },
+              {
+                "text": "taxes",
+                "isBlank": true
+              },
+              {
+                "text": " from the area under the direct control of the ruler.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "Royal princes often went to the provinces as ",
+                "isBlank": false
+              },
+              {
+                "text": "governors",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "The Mauryan rulers tried to control ",
+                "isBlank": false
+              },
+              {
+                "text": "roads",
+                "isBlank": true
+              },
+              {
+                "text": " and ",
+                "isBlank": false
+              },
+              {
+                "text": "rivers",
+                "isBlank": true
+              },
+              {
+                "text": " which were important for transport.",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "People in forested regions provided the Mauryan officials with ",
+                "isBlank": false
+              },
+              {
+                "text": "elephants",
+                "isBlank": true
+              },
+              {
+                "text": ".",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Ujjain was the gateway to the north-west.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Chandragupta’s ideas were written down in the Arthashastra.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Kalinga was the ancient name of Bengal.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Most Ashokan inscriptions are in the Brahmi script.",
+            "answer": true
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let's discuss",
+      "exerciseNumber": "2",
+      "exerciseName": "Let's discuss",
+      "page": "69",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What were the problems that Ashoka wanted to solve by introducing dhamma?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What were the means adopted by Ashoka to spread the message of dhamma?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why do you think slaves and servants were ill-treated? Do you think the orders of the emperor would have improved their condition? Give reasons for your answer."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Let's do",
+      "exerciseNumber": "3",
+      "exerciseName": "Let's do",
+      "page": "69",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write a short paragraph explaining to Roshan why the lions are shown on our currency notes. List at least one other object on which you see them."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Suppose you had the power to inscribe your orders, what four commands would you like to issue?"
+          }
+        }
+      ]
+    }
+  ]
+}

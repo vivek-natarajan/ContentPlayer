@@ -1,0 +1,33 @@
+{
+  "id": "femh101_exercises",
+  "metadata": {
+    "book": "NCERT: Mathematics - Textbook for Class VI",
+    "bookId": "femh101",
+    "chapter": "Knowing Our Numbers",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Mathematics",
+    "timestamp": "2025-01-15T13:21:15.551Z"
+  },
+  "exercises": [
+    {
+      "exerciseNumber": "1.1",
+      "title": "Exercise 1.1",
+      "content": "1. Fill in the blanks:\n(a) 1 lakh = _______ ten thousand.\n(b) 1 million = _______ hundred thousand.\n(c) 1 crore = _______ ten lakh.\n(d) 1 crore = _______ million.\n(e) 1 million = _______ lakh.\n\n2. Place commas correctly and write the numerals:\n(a) Seventy three lakh seventy five thousand three hundred seven.\n(b) Nine crore five lakh forty one.\n(c) Seven crore fifty two lakh twenty one thousand three hundred two.\n(d) Fifty eight million four hundred twenty three thousand two hundred two.\n(e) Twenty three lakh thirty thousand ten.\n\n3. Insert commas suitably and write the names according to Indian System of Numeration:\n(a) 87595762 (b) 8546283 (c) 99900046 (d) 98432701\n\n4. Insert commas suitably and write the names according to International System of Numeration:\n(a) 78921092 (b) 7452283 (c) 99985102 (d) 48049831",
+      "pages": [
+        "13"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "1.2",
+      "title": "Exercise 1.2",
+      "content": "1. A book exhibition was held for four days in a school. The number of tickets sold at the counter on the first, second, third and final day was respectively 1094, 1812, 2050 and 2751. Find the total number of tickets sold on all the four days.\n\n2. Shekhar is a famous cricket player. He has so far scored 6980 runs in test matches. He wishes to complete 10,000 runs. How many more runs does he need?\n\n3. In an election, the successful candidate registered 5,77,500 votes and his nearest rival secured 3,48,700 votes. By what margin did the successful candidate win the election?\n\n4. Kirti bookstore sold books worth ` 2,85,891 in the first week of June and books worth ` 4,00,768 in the second week of the month. How much was the sale for the two weeks together? In which week was the sale greater and by how much?\n\n5. Find the difference between the greatest and the least 5-digit number that can be written using the digits 6, 2, 7, 4, 3 each only once.\n\n6. A machine, on an average, manufactures 2,825 screws a day. How many screws did it produce in the month of January 2006?\n\n7. A merchant had ` 78,592 with her. She placed an order for purchasing 40 radio sets at ` 1200 each. How much money will remain with her after the purchase?\n\n8. A student multiplied 7236 by 65 instead of multiplying by 56. By how much was his answer greater than the correct answer? (Hint: Do you need to do both the multiplications?)\n\n9. To stitch a shirt, 2 m 15 cm cloth is needed. Out of 40 m cloth, how many shirts can be stitched and how much cloth will remain? (Hint: convert data in cm.)\n\n10. Medicine is packed in boxes, each weighing 4 kg 500g. How many such boxes can be loaded in a van which cannot carry beyond 800 kg?\n\n11. The distance between the school and a student’s house is 1 km 875 m. Everyday she walks both ways. Find the total distance covered by her in six days.\n\n12. A vessel has 4 litres and 500 ml of curd. In how many glasses, each of 25 ml capacity, can it be filled?",
+      "pages": [
+        "16",
+        "17"
+      ],
+      "diagrams": []
+    }
+  ]
+}

@@ -1,0 +1,708 @@
+{
+  "id": "fehl102_exercises",
+  "metadata": {
+    "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
+    "bookId": "fehl102",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "English",
+    "timestamp": "2025-01-16T11:55:18.807Z",
+    "chapter": "How the Dog Found Himself a New Master!"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Working with the Text",
+      "exerciseNumber": "1",
+      "exerciseName": "A. Discuss these questions in pairs before you write the answers.",
+      "page": "21",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why did the dog feel the need for a master?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Who did he first choose as his master? Why did he leave that master?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Who did he choose next?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why did he serve the Lion for a long time?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Who did he finally choose as his master and why?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with the Text",
+      "exerciseNumber": "2",
+      "exerciseName": "B. A summary of the story is given below. Fill in the blanks to complete it taking appropriate phrases from the box.",
+      "page": "22",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "This is the story of ",
+                "isBlank": false
+              },
+              {
+                "text": "a dog",
+                "isBlank": true
+              },
+              {
+                "text": ", who used to be ",
+                "isBlank": false
+              },
+              {
+                "text": "his own master",
+                "isBlank": true
+              },
+              {
+                "text": ". He decided to find a master ",
+                "isBlank": false
+              },
+              {
+                "text": "stronger than anyone else",
+                "isBlank": true
+              },
+              {
+                "text": ". First he found ",
+                "isBlank": false
+              },
+              {
+                "text": "a wolf",
+                "isBlank": true
+              },
+              {
+                "text": ", but the wolf was afraid of ",
+                "isBlank": false
+              },
+              {
+                "text": "the bear",
+                "isBlank": true
+              },
+              {
+                "text": ". The dog thought that the bear was ",
+                "isBlank": false
+              },
+              {
+                "text": "the strongest of all",
+                "isBlank": true
+              },
+              {
+                "text": ". After some time the dog met ",
+                "isBlank": false
+              },
+              {
+                "text": "a lion",
+                "isBlank": true
+              },
+              {
+                "text": ", who seemed the strongest. He stayed with the lion for a long time. One day he realised that the lion was ",
+                "isBlank": false
+              },
+              {
+                "text": "afraid of man",
+                "isBlank": true
+              },
+              {
+                "text": ". To this day, the dog remains man’s best friend.",
+                "isBlank": false
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with Language",
+      "exerciseNumber": "3",
+      "exerciseName": "Complete the Phrases",
+      "page": "22",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "a ",
+                "isBlank": false
+              },
+              {
+                "text": "fleet",
+                "isBlank": true
+              },
+              {
+                "text": " of ships",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "a ",
+                "isBlank": false
+              },
+              {
+                "text": "bunch",
+                "isBlank": true
+              },
+              {
+                "text": " of flowers",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "a ",
+                "isBlank": false
+              },
+              {
+                "text": "brood",
+                "isBlank": true
+              },
+              {
+                "text": " of chicks",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "a ",
+                "isBlank": false
+              },
+              {
+                "text": "herd",
+                "isBlank": true
+              },
+              {
+                "text": " of cattle",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "a ",
+                "isBlank": false
+              },
+              {
+                "text": "bundle",
+                "isBlank": true
+              },
+              {
+                "text": " of sticks",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "a ",
+                "isBlank": false
+              },
+              {
+                "text": "flock",
+                "isBlank": true
+              },
+              {
+                "text": " of sheep",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "a ",
+                "isBlank": false
+              },
+              {
+                "text": "school",
+                "isBlank": true
+              },
+              {
+                "text": " of fish",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": true,
+            "partitions": [
+              {
+                "text": "a ",
+                "isBlank": false
+              },
+              {
+                "text": "pack",
+                "isBlank": true
+              },
+              {
+                "text": " of wolves",
+                "isBlank": false
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with Language",
+      "exerciseNumber": "4",
+      "exerciseName": "B. Make nouns from the words given below by adding –ness or –ity.",
+      "page": "22-23",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "honest",
+                "isBlank": false
+              },
+              {
+                "text": "honesty",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "kind",
+                "isBlank": false
+              },
+              {
+                "text": "kindness",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "cruel",
+                "isBlank": false
+              },
+              {
+                "text": "cruelty",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "calm",
+                "isBlank": false
+              },
+              {
+                "text": "calmness",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "sad",
+                "isBlank": false
+              },
+              {
+                "text": "sadness",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "active",
+                "isBlank": false
+              },
+              {
+                "text": "activity",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "creative",
+                "isBlank": false
+              },
+              {
+                "text": "creativity",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "sincere",
+                "isBlank": false
+              },
+              {
+                "text": "sincerity",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "cheerful",
+                "isBlank": false
+              },
+              {
+                "text": "cheerfulness",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "bitter",
+                "isBlank": false
+              },
+              {
+                "text": "bitterness",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "sensitive",
+                "isBlank": false
+              },
+              {
+                "text": "sensitivity",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "great",
+                "isBlank": false
+              },
+              {
+                "text": "greatness",
+                "isBlank": true
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with Language",
+      "exerciseNumber": "5",
+      "exerciseName": "Wordsearch",
+      "page": "23",
+      "questions": [
+        {
+          "type": "Crossword",
+          "content": {
+            "question": "There are twelve words hidden in this table. Six can be found horizontally and the remaining six vertically. All of them are describing words like ‘good’, ‘happy’, etc. The first letters of the words are given below:\n\nHorizontal:  H    R    F    F    S    G\n\nVertical:  A    W    S    F    L    Q",
+            "words": []
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with the Poem",
+      "exerciseNumber": "6",
+      "exerciseName": "Working with the Poem",
+      "page": "26",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "List out the action words in the poem.\n\ndive, dip, snaps, ",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              },
+              {
+                "text": ", ",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              },
+              {
+                "text": ", ",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              },
+              {
+                "text": ", ",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              },
+              {
+                "text": ", ",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              },
+              {
+                "text": "\n\nFind out the meanings of these words.",
+                "isBlank": false
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with the Poem",
+      "exerciseNumber": "7",
+      "exerciseName": "Working with the Poem",
+      "page": "26",
+      "questions": [
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "He runs like",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "He eats like",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "She sings like",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "It shines like",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "It flies like",
+                "isBlank": false
+              },
+              {
+                "text": "",
+                "isBlank": true
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with the Poem",
+      "exerciseNumber": "8",
+      "exerciseName": "Working with the Poem",
+      "page": "26",
+      "questions": [
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Try to make a kite with your friends. Collect the things required such as colour paper/newspaper, thread, glue, a thin stick that can be bent. After making the kite see if you can fly it."
+          }
+        }
+      ]
+    }
+  ]
+}

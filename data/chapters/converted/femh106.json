@@ -1,0 +1,387 @@
+{
+  "id": "femh106_exercises",
+  "metadata": {
+    "book": "NCERT: Mathematics - Textbook for Class VI",
+    "bookId": "femh106",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Mathematics",
+    "timestamp": "2025-01-16T07:20:10.032Z",
+    "chapter": "Integers"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Mathematics",
+      "exerciseNumber": "6.1",
+      "exerciseName": "Exercise 6.1",
+      "page": "90-92",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write opposites of the following: (a) Increase in weight (b) 30 km north (c) 80 m east (d) Loss of Rs 700 (e) 100 m above sea level"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Represent the following numbers as integers with appropriate signs: (a) An aeroplane is flying at a height two thousand metre above the ground. (b) A submarine is moving at a depth, eight hundred metre below the sea level. (c) A deposit of rupees two hundred. (d) Withdrawal of rupees seven hundred."
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Represent the following numbers on a number line: (a) +5 (b) -10 (c) +8 (d) -1 (e) -6"
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "Adjacent figure is a vertical number line, representing integers. Observe it and locate the following points: (a) If point D is +8, then which point is -8? (b) Is point G a negative integer or a positive integer? (c) Write integers for points B and E. (d) Which point marked on this number line has the least value? (e) Arrange all the points in decreasing order of value.",
+            "diagrams": [
+              {
+                "url": "Page 91"
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Following is the list of temperatures of five places in India on a particular day of the year. (a) Write the temperatures of these places in the form of integers in the blank column. (b) Following is the number line representing the temperature in degree Celsius. Plot the name of the city against its temperature. (c) Which is the coolest place? (d) Write the names of the places where temperatures are above 10°C."
+          }
+        },
+        {
+          "type": "Circle",
+          "content": {
+            "question": "In each of the following pairs, which number is to the right of the other on the number line?",
+            "text": "2, 9\n-3, -8\n0, -1\n-11, 10\n-6, 6\n1, -100",
+            "answers": [
+              "9",
+              "-3",
+              "0",
+              "10",
+              "6",
+              "1"
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Write all the integers between the given pairs (write them in the increasing order): (a) 0 and -7 (b) -4 and 4 (c) -8 and -15 (d) -30 and -23"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "(a) Write four negative integers greater than -20. (b) Write four integers less than -10."
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "-8 is to the right of -10 on a number line.",
+            "answer": true
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "-100 is to the right of -50 on a number line.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "Smallest negative integer is -1.",
+            "answer": false
+          }
+        },
+        {
+          "type": "TrueOrFalse",
+          "content": {
+            "question": "-26 is greater than -25.",
+            "answer": false
+          }
+        },
+        {
+          "type": "Draw",
+          "content": {
+            "question": "Draw a number line and answer the following: (a) Which number will we reach if we move 4 numbers to the right of -2. (b) Which number will we reach if we move 5 numbers to the left of 1. (c) If we are at -8 on the number line, in which direction should we move to reach -13? (d) If we are at -6 on the number line, in which direction should we move to reach -1?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Mathematics",
+      "exerciseNumber": "6.2",
+      "exerciseName": "Exercise 6.2",
+      "page": "98-99",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Using the number line write the integer which is 3 more than 5."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Using the number line write the integer which is 5 more than –5."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Using the number line write the integer which is 6 less than 2."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Using the number line write the integer which is 3 less than –2."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Use number line and add the following integers: 9 + (– 6)."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Use number line and add the following integers: 5 + (– 11)."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Use number line and add the following integers: (– 1) + (– 7)."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Use number line and add the following integers: (– 5) + 10."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Use number line and add the following integers: (– 1) + (– 2) + (– 3)."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Use number line and add the following integers: (– 2) + 8 + (– 4)."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Add without using number line: 11 + (– 7)."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Add without using number line: (– 13) + (+ 18)."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Add without using number line: (– 10) + (+ 19)."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Add without using number line: (– 250) + (+ 150)."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Add without using number line: (– 380) + (– 270)."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Add without using number line: (– 217) + (– 100)."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the sum of 137 and – 354."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the sum of – 52 and 52."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the sum of – 312, 39 and 192."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the sum of – 50, – 200 and 300."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the sum: (– 7) + (– 9) + 4 + 16."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the sum: (37) + (– 2) + (– 65) + (– 8)."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Integers",
+      "exerciseNumber": "6.3",
+      "exerciseName": "Exercise 6.3",
+      "page": "101-102",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the result of the following: (a) 35 – (20) (b) 72 – (90) (c) (– 15) – (– 18) (d) (–20) – (13) (e) 23 – (– 12) (f) (–32) – (– 40)"
+          }
+        },
+        {
+          "type": "Circle",
+          "content": {
+            "question": "Fill in the blanks with &gt;, &lt; or = sign.",
+            "text": "(– 3) + (– 6) ______ (– 3) – (– 6)\n(– 21) – (– 10) _____ (– 31) + (– 11)\n45 – (– 11) ______ 57 + (– 4)\n(– 25) – (– 42) _____ (– 42) – (– 25)",
+            "answers": []
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "(– 8) + ",
+                "isBlank": false
+              },
+              {
+                "text": "8",
+                "isBlank": true
+              },
+              {
+                "text": " = 0",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "13 + ",
+                "isBlank": false
+              },
+              {
+                "text": "-13",
+                "isBlank": true
+              },
+              {
+                "text": " = 0",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "12 + (– 12) = ",
+                "isBlank": false
+              },
+              {
+                "text": "0",
+                "isBlank": true
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "(– 4) + ",
+                "isBlank": false
+              },
+              {
+                "text": "-8",
+                "isBlank": true
+              },
+              {
+                "text": " = – 12",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "FillInTheBlanks",
+          "content": {
+            "distractors": [],
+            "showOptions": false,
+            "partitions": [
+              {
+                "text": "",
+                "isBlank": true
+              },
+              {
+                "text": "5",
+                "isBlank": true
+              },
+              {
+                "text": " – 15 = – 10",
+                "isBlank": false
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Find the result of the following: (a) (– 7) – 8 – (– 25) (b) (– 13) + 32 – 8 – 1 (c) (– 7) + (– 8) + (– 90) (d) 50 – (– 40) – (– 2)"
+          }
+        }
+      ]
+    }
+  ]
+}

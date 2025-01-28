@@ -1,0 +1,24 @@
+{
+  "id": "femh102_exercises",
+  "metadata": {
+    "book": "NCERT: Mathematics - Textbook for Class VI",
+    "bookId": "femh102",
+    "chapter": "Whole Numbers",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Mathematics",
+    "timestamp": "2025-01-15T13:26:20.047Z"
+  },
+  "exercises": [
+    {
+      "exerciseNumber": "2.1",
+      "title": "Exercise 2.1",
+      "content": "1. Write the next three natural numbers after 10999.\n\n2. Write the three whole numbers occurring just before 10001.\n\n3. Which is the smallest whole number?\n\n4. How many whole numbers are there between 32 and 53?\n\n5. Write the successor of :\n(a) 2440701 (b) 100199 (c) 1099999 (d) 2345670\n\n6. Write the predecessor of :\n(a) 94 (b) 10000 (c) 208090 (d) 7654321\n\n7. In each of the following pairs of numbers, state which whole number is on the left of the other number on the number line. Also write them with the appropriate sign (&gt;, &lt;) between them.\n(a) 530, 503 (b) 370, 307 (c) 98765, 56789 (d) 9830415, 10023001\n\n8. Which of the following statements are true (T) and which are false (F) ?\n(a) Zero is the smallest natural number. (b) 400 is the predecessor of 399.\n(c) Zero is the smallest whole number. (d) 600 is the successor of 599.\n(e) All natural numbers are whole numbers.\n(f) All whole numbers are natural numbers.\n(g) The predecessor of a two digit number is never a single digit number.\n(h) 1 is the smallest whole number.\n(i) The natural number 1 has no predecessor.\n(j) The whole number 1 has no predecessor.\n(k) The whole number 13 lies between 11 and 12.\n(l) The whole number 0 has no predecessor.\n(m) The successor of a two digit number is always a two digit number.",
+      "pages": [
+        "22",
+        "23"
+      ],
+      "diagrams": []
+    }
+  ]
+}

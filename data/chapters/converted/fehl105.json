@@ -1,0 +1,208 @@
+{
+  "id": "fehl105_exercises",
+  "metadata": {
+    "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
+    "bookId": "fehl105",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "English",
+    "timestamp": "2025-01-16T16:40:39.064Z",
+    "chapter": "A Different Kind of School"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Working with the Text",
+      "exerciseNumber": "1",
+      "exerciseName": "Put these sentences from the story in the right order",
+      "page": "60-61",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Put these sentences from the story in the right order and write them out in a paragraph. Don’t refer to the text.\n1. I shall be so glad when today is over.\n2. Having a leg tied up and hopping about on a crutch is almost fun, I guess.\n3. I don’t think I’ll mind being deaf for a day — at least not much.\n4. But being blind is so frightening.\n5. Only you must tell me about things.\n6. Let’s go for a little walk.\n7. The other bad days can’t be half as bad as this."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with the Text",
+      "exerciseNumber": "2",
+      "exerciseName": "Answer the following questions",
+      "page": "61",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why do you think the writer visited Miss Beam’s school?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What was the ‘game’ that every child in the school had to play?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "“Each term every child has one blind day, one lame day…” Complete the line. Which day was the hardest? Why was it the hardest?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What was the purpose of these special days?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with Language",
+      "exerciseNumber": "3",
+      "exerciseName": "",
+      "page": "62",
+      "questions": [
+        {
+          "type": "MatchTheFollowing",
+          "content": {
+            "question": "Match the words and phrases with their meanings in the box below.",
+            "pairs": [
+              {
+                "left": "homesick",
+                "right": ""
+              },
+              {
+                "left": "practically",
+                "right": ""
+              },
+              {
+                "left": "it pains me",
+                "right": ""
+              },
+              {
+                "left": "appreciate",
+                "right": ""
+              },
+              {
+                "left": "thoughtless",
+                "right": ""
+              },
+              {
+                "left": "exercise",
+                "right": ""
+              },
+              {
+                "left": "relief",
+                "right": ""
+              },
+              {
+                "left": "ghastly",
+                "right": ""
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Re-word these lines from the story: I had heard a great deal about Miss Beam’s school."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Re-word these lines from the story: Miss Beam was all that I had expected — middle-aged, full of authority."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Re-word these lines from the story: I went to the window which overlooked a large garden."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Re-word these lines from the story: “We cannot bandage the children’s mouths, so they really have to exercise their will-power.”"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with Language",
+      "exerciseNumber": "4",
+      "exerciseName": "Working with Language",
+      "page": "62",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Given below is a page from a dictionary. Look at it carefully and find a word which means the same as ghastly. Write down the word and its two meanings."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Given below is a page from a dictionary. Look at it carefully and find a word meaning a part of the school year."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Given below is a page from a dictionary. Look at it carefully and find a word that means examination."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Working with the Poem",
+      "exerciseNumber": "5",
+      "exerciseName": "Working with the Poem",
+      "page": "66",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why does the poet want to know where the teachers go at four o’clock?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What are the things normal people do that the poet talks about?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What does the poet imagine about where teachers live, what they do at home, the people with whom they live, and their activities when they were children in school?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why does the poet wonder if teachers also do things that other people do?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How does the poet plan to find out? What will he do once he finds out?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What do you think the phrase 'punished in the corner' from the poem means?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What do you think the phrase 'leave their greens' from the poem means?"
+          }
+        }
+      ]
+    }
+  ]
+}

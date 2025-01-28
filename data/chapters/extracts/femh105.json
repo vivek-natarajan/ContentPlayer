@@ -1,0 +1,91 @@
+{
+  "id": "femh105_exercises",
+  "metadata": {
+    "book": "NCERT: Mathematics - Textbook for Class VI",
+    "bookId": "femh105",
+    "chapter": "Understanding Elementary Shapes",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Mathematics",
+    "timestamp": "2025-01-16T07:16:31.963Z"
+  },
+  "exercises": [
+    {
+      "exerciseNumber": "5.1",
+      "title": "Measuring Line Segments",
+      "content": "1. What is the disadvantage in comparing line segments by mere observation?\n2. Why is it better to use a divider than a ruler, while measuring the length of a line segment?\n3. Draw any line segment, say AB. Take any point C lying in between A and B. Measure the lengths of AB, BC and AC. Is AB = AC + CB?\n[Note: If A, B, C are any three points on a line such that AC + CB = AB, then we can be sure that C lies between A and B.]",
+      "pages": [
+        "61"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "5.2",
+      "title": "Revolutions and Angles",
+      "content": "1. What fraction of a clockwise revolution does the hour hand of a clock turn through, when it goes from\n(a) 3 to 9 (b) 4 to 7 (c) 7 to 10\n(d) 12 to 9 (e) 1 to 10 (f) 6 to 3\n2. Where will the hand of a clock stop if it\n(a) starts at 12 and makes 1/2 of a revolution, clockwise?\n(b) starts at 2 and makes 1/2 of a revolution, clockwise?\n(c) starts at 5 and makes 1/4 of a revolution, clockwise?\n(d) starts at 5 and makes 3/4 of a revolution, clockwise?\n3. Which direction will you face if you start facing\n(a) east and make 1/2 of a revolution clockwise?\n(b) east and make 1 1/2 of a revolution clockwise?\n(c) west and make 3/4 of a revolution anti-clockwise?\n(d) south and make one full revolution?\n(Should we specify clockwise or anti-clockwise for this last question? Why not?)\n4. What part of a revolution have you turned through if you stand facing\n(a) east and turn clockwise to face north?\n(b) south and turn clockwise to face east?\n(c) west and turn clockwise to face east?\n5. Find the number of right angles turned through by the hour hand of a clock when it goes from\n(a) 3 to 6 (b) 2 to 8 (c) 5 to 11\n(d) 10 to 1 (e) 12 to 9 (f) 12 to 6\n6. How many right angles do you make if you start facing\n(a) south and turn clockwise to west?\n(b) north and turn anti-clockwise to east?\n(c) west and turn to west?\n(d) south and turn to north?\n7. Where will the hour hand of a clock stop if it starts\n(a) from 6 and turns through 1 right angle?\n(b) from 8 and turns through 2 right angles?\n(c) from 10 and turns through 3 right angles?\n(d) from 7 and turns through 2 straight angles?",
+      "pages": [
+        "64",
+        "65"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "5.3",
+      "title": "Angles",
+      "content": "1. Match the following:\n(i) Straight angle (a) Less than one-fourth of a revolution\n(ii) Right angle (b) More than half a revolution\n(iii) Acute angle (c) Half of a revolution\n(iv) Obtuse angle (d) One-fourth of a revolution\n(v) Reflex angle (e) Between 1/4 and 1/2 of a revolution\n(f) One complete revolution\n2. Classify each one of the following angles as right, straight, acute, obtuse or reflex.",
+      "pages": [
+        "68"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "5.4",
+      "title": "Measuring Angles",
+      "content": "1. What is the measure of (i) a right angle? (ii) a straight angle?\n2. Say True or False:\n(a) The measure of an acute angle &lt; 90°.\n(b) The measure of an obtuse angle &lt; 90°.\n(c) The measure of a reflex angle &gt; 180°.\n(d) The measure of one complete revolution = 360°.\n(e) If m ∠A = 53° and m ∠B = 35°, then m ∠A &gt; m ∠B.\n3. Write down the measures of\n(a) some acute angles. (b) some obtuse angles.\n(give at least two examples of each).\n4. Measure the angles given below using the Protractor and write down the measure.\n5. Which angle has a large measure?\nFirst estimate and then measure.\nMeasure of Angle A =\nMeasure of Angle B =\n6. From these two angles which has larger measure? Estimate and then confirm by measuring them.\n7. Fill in the blanks with acute, obtuse, right or straight:\n(a) An angle whose measure is less than that of a right angle is______.\n(b) An angle whose measure is greater than that of a right angle is ______.\n(c) An angle whose measure is the sum of the measures of two right angles is _____.\n(d) When the sum of the measures of two angles is that of a right angle, then each one of them is ______.\n(e) When the sum of the measures of two angles is that of a straight angle and if one of them is acute then the other should be _______.\n8. Find the measure of the angle shown in each figure. (First estimate with your eyes and then find the actual measure with a protractor).\n9. Find the angle measure between the hands of the clock in each figure: 9.00 a.m. 1.00 p.m. 6.00 p.m.\n10. Investigate: In the given figure, the angle measures 30°. Look at the same figure through a magnifying glass. Does the angle become larger? Does the size of the angle change?\n11. Measure and classify each angle.",
+      "pages": [
+        "71",
+        "72"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "5.5",
+      "title": "Perpendicular Lines",
+      "content": "1. Which of the following are models for perpendicular lines:\n(a) The adjacent edges of a table top.\n(b) The lines of a railway track.\n(c) The line segments forming the letter ‘L’.\n(d) The letter V.\n2. Let PQ be the perpendicular to the line segment XY. Let PQ and XY intersect in the point A. What is the measure of ∠PAY?\n3. There are two set-squares in your box. What are the measures of the angles that are formed at their corners? Do they have any angle measure that is common?\n4. Study the diagram. The line l is perpendicular to line m\n(a) Is CE = EG?\n(b) Does PE bisect CG?\n(c) Identify any two line segments for which PE is the perpendicular bisector.\n(d) Are these true?\n(i) AC &gt; FG\n(ii) CD = GH\n(iii) BC &lt; EH.",
+      "pages": [
+        "73"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "5.6",
+      "title": "Classification of Triangles",
+      "content": "1. Name the types of following triangles:\n(a) Triangle with lengths of sides 7 cm, 8 cm and 9 cm.\n(b) ∆ABC with AB = 8.7 cm, AC = 7 cm and BC = 6 cm.\n(c) ∆PQR such that PQ = QR = PR = 5 cm.\n(d) ∆DEF with ∠D = 90°\n(e) ∆XYZ with ∠Y = 90° and XY = YZ.\n(f) ∆LMN with ∠L = 30°, ∠M = 70° and ∠N = 80°.\n2. Match the following:\nMeasures of Triangle Type of Triangle\n(i) 3 sides of equal length (a) Scalene\n(ii) 2 sides of equal length (b) Isosceles right angled\n(iii) All sides are of different length (c) Obtuse angled\n(iv) 3 acute angles (d) Right angled\n(v) 1 right angle (e) Equilateral\n(vi) 1 obtuse angle (f) Acute angled\n(vii) 1 right angle with two sides of equal length (g) Isosceles\n3. Name each of the following triangles in two different ways: (you may judge the nature of the angle by observation)\n4. Try to construct triangles using match sticks. Some are shown here. Can you make a triangle with\n(a) 3 matchsticks?\n(b) 4 matchsticks?\n(c) 5 matchsticks?\n(d) 6 matchsticks?\n(Remember you have to use all the available matchsticks in each case)\nName the type of triangle in each case. If you cannot make a triangle, think of reasons for it.",
+      "pages": [
+        "75",
+        "76"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "5.7",
+      "title": "Quadrilaterals",
+      "content": "1. Place a pair of unequal sticks such that they have their end points joined at one end. Now place another such pair meeting the free ends of the first pair. What is the figure enclosed? It is a quadrilateral, like the one you see here. The sides of the quadrilateral are AB, BC, ___, ___. There are 4 angles for this quadrilateral. They are given by ∠BAD, ∠ADC, ∠DCB and _____. BD is one diagonal. What is the other? Measure the length of the sides and the diagonals. Measure all the angles also.\n2. Using four unequal sticks, as you did in the above activity, see if you can form a quadrilateral such that\n(a) all the four angles are acute.\n(b) one of the angles is obtuse.\n(c) one of the angles is right angled.\n(d) two of the angles are obtuse.\n(e) two of the angles are right angled.\n(f) the diagonals are perpendicular to one another.",
+      "pages": [
+        "77",
+        "78"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "5.8",
+      "title": "Polygons",
+      "content": "1. Examine whether the following are polygons. If any one among them is not, say why?\n2. Name each polygon. Make two more examples of each of these.\n3. Draw a rough sketch of a regular hexagon. Connecting any three of its vertices, draw a triangle. Identify the type of the triangle you have drawn.\n4. Draw a rough sketch of a regular octagon. (Use squared paper if you wish). Draw a rectangle by joining exactly four of the vertices of the octagon.\n5. A diagonal is a line segment that joins any two vertices of the polygon and is not a side of the polygon. Draw a rough sketch of a pentagon and draw its diagonals.",
+      "pages": [
+        "80",
+        "81"
+      ],
+      "diagrams": []
+    }
+  ]
+}

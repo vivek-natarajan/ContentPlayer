@@ -1,0 +1,64 @@
+{
+  "id": "fepw107_exercises",
+  "metadata": {
+    "book": "NCERT: A Pact with the Sun - Supplementary Reader in English for Class VI",
+    "bookId": "fepw107",
+    "chapter": "A Pact with the Sun",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "English",
+    "timestamp": "2025-01-16T18:50:39.184Z"
+  },
+  "exercises": [
+    {
+      "worksheetName": "A Pact with the Sun",
+      "exerciseNumber": "1",
+      "exerciseName": "Exercises",
+      "page": "28",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What did the physicians ask Saeeda’s mother to do to get well? Did their advice help her? If not, why?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What did the specialist prescribe in addition to medicine?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What did Saeeda tell the sunrays to do?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Why were the sunrays keen to go down to the earth the next day?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is your own formula for keeping good health?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Who would you recommend to a patient in your neighbourhood — the physicians contacted first or the specialist contacted next? Give reasons for your choice."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "When would you make a pact with the sun? When you are going on a picnic, or when you are playing a cricket match? Think of other occasions."
+          }
+        }
+      ]
+    }
+  ]
+}

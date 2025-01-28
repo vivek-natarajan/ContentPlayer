@@ -1,0 +1,127 @@
+{
+  "id": "fess305_exercises",
+  "metadata": {
+    "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+    "bookId": "fess305",
+    "curriculum": "CBSE",
+    "grade": "6",
+    "subject": "Civics",
+    "timestamp": "2025-01-16T11:47:38.453Z",
+    "chapter": "Rural Administration"
+  },
+  "exercises": [
+    {
+      "worksheetName": "Rural Administration Questions",
+      "exerciseNumber": "1",
+      "exerciseName": "Rural Administration Questions",
+      "page": "49",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is the work of the police?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "List two things that the work of a Patwari includes."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What is the work of a tehsildar?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What issue is the poem trying to raise? Do you think this is an important issue? Why?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In what ways are the work of the Panchayat, that you read about in the previous chapter, and the work of the Patwari related to each other?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Visit a police station and find out the work that the police have to do to prevent crime and maintain law and order in their area especially during festivals, public meetings etc."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Who is in charge of all the police stations in a district? Find out."
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "How do women benefit under the new law?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "In your neighbourhood are there women who own property? How did they acquire it?"
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Exercise on Public Services",
+      "exerciseNumber": "2",
+      "exerciseName": "Exercise on Public Services",
+      "page": "47",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "List the public services in the village/area such as: the milk society, the fair price shop, the bank, the police station, the agricultural society for seeds and fertiliser, the post office or sub post office, the anganwadi, crèche, government school/s, health centre or government hospital etc. Collect information on three public services and discuss with your teacher how improvements can be made in their functioning. One example has been worked out."
+          }
+        }
+      ]
+    },
+    {
+      "worksheetName": "Khasra Record Exercise",
+      "exerciseNumber": "3",
+      "exerciseName": "Khasra Record Exercise",
+      "page": "45",
+      "questions": [
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Who owns the land south of Mohan’s field?"
+          }
+        },
+        {
+          "type": "LabelTheDiagrams",
+          "content": {
+            "question": "Mark the common boundary between Mohan’s and Raghu’s lands.",
+            "diagrams": [
+              {
+                "url": "The Khasra record of the Patwari gives you information regarding the map given below."
+              }
+            ]
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "Who can use field no 3?"
+          }
+        },
+        {
+          "type": "ShortAnswer",
+          "content": {
+            "question": "What information can one get for field no 2 and field no 3?"
+          }
+        }
+      ]
+    }
+  ]
+}
