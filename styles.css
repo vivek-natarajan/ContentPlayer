@@ -1066,8 +1066,8 @@ header h1 {
 }
 
 .matching-feedback-mark.incorrect {
-    color: var(--error-color); */
-}
+    color: var(--error-color); 
+} */
 
 .feedback-content .answer-section p {
     margin: 0;
