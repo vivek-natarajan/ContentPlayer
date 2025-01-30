@@ -12,20 +12,65 @@
   "exercises": [
     {
       "exerciseNumber": "1",
-      "title": "Motion and Measurement of Distances",
-      "content": "1. Draw a map of your classroom. Roll a ball on the floor. In your map mark the points where the ball started and where it stopped. Show also the path it moved along. Did the ball move along a straight line?\n\n2. Using string and a scale, let each student measure the length of his/her foot. Prepare a bar graph of the foot length measurements that have been obtained for the whole class.",
-      "pages": [
-        "85"
-      ],
+      "title": "Exercises",
+      "content": "1. **Give two examples each, of modes of transport used on land, water and air.**\n\n2. **Fill in the blanks:**\n\n(i) One metre is ______________ cm.\n\n(ii) Five kilometre is ______________ m.\n\n(iii) Motion of a child on a swing is ______________.\n\n(iv) Motion of the needle of a sewing machine is ______________.\n\n(v) Motion of wheel of a bicycle is ______________.",
+      "pages": ["85"],
       "diagrams": []
     },
     {
       "exerciseNumber": "2",
-      "title": "Motion and Measurement of Distances",
-      "content": "1. Give two examples each, of modes of transport used on land, water and air.\n\n2. Fill in the blanks:\n\n(i) One metre is ______________ cm.\n\n(ii) Five kilometre is ______________ m.\n\n(iii) Motion of a child on a swing is ______________.\n\n(iv) Motion of the needle of a sewing machine is ______________.\n\n(v) Motion of wheel of a bicycle is ______________.\n\n3. Why can a pace or a footstep not be used as a standard unit of length?\n\n4. Arrange the following lengths in their increasing magnitude: 1 metre, 1 centimetre, 1 kilometre, 1 millimetre.\n\n5. The height of a person is 1.65 m. Express it into cm and mm.\n\n6. The distance between Radha's home and her school is 3250 m. Express this distance into km.\n\n7. While measuring the length of a knitting needle, the reading of the scale at one end is 3.0 cm and at the other end is 33.1 cm. What is the length of the needle?\n\n8. Write the similarities and differences between the motion of a bicycle and a ceiling fan that has been switched on.\n\n9. Why would you not like to use a measuring tape made of an elastic material like rubber to measure distance? What would be some of the problems you would meet in telling someone about a distance you measured with such a tape?\n\n10. Give two examples of periodic motion.",
-      "pages": [
-        "85"
-      ],
+      "title": "Exercises",
+      "content": "3. **Why can a pace or a footstep not be used as a standard unit of length?**",
+      "pages": ["85"],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "3",
+      "title": "Exercises",
+      "content": "4. **Arrange the following lengths in their increasing magnitude:**\n\n1 metre, 1 centimetre, 1 kilometre, 1 millimetre.",
+      "pages": ["85"],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "4",
+      "title": "Exercises",
+      "content": "5. **The height of a person is 1.65 m. Express it into cm and mm.**",
+      "pages": ["85"],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "5",
+      "title": "Exercises",
+      "content": "6. **The distance between Radha's home and her school is 3250 m. Express this distance into km.**",
+      "pages": ["85"],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "6",
+      "title": "Exercises",
+      "content": "7. **While measuring the length of a knitting needle, the reading of the scale at one end is 3.0 cm and at the other end is 33.1 cm. What is the length of the needle?**",
+      "pages": ["85"],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "7",
+      "title": "Exercises",
+      "content": "8. **Write the similarities and differences between the motion of a bicycle and a ceiling fan that has been switched on.**",
+      "pages": ["85"],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "8",
+      "title": "Exercises",
+      "content": "9. **Why would you not like to use a measuring tape made of an elastic material like rubber to measure distance? What would be some of the problems you would meet in telling someone about a distance you measured with such a tape?**",
+      "pages": ["85"],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "9",
+      "title": "Exercises",
+      "content": "10. **Give two examples of periodic motion.**",
+      "pages": ["85"],
       "diagrams": []
     }
   ]
