@@ -12,12 +12,9 @@
   "exercises": [
     {
       "exerciseNumber": "1",
-      "title": "Separation of Substances",
-      "content": "1. Why do we need to separate different components of a mixture? Give two examples.\n\n2. What is winnowing? Where is it used?\n\n3. How will you separate husk or dirt particles from a given sample of pulses before cooking?\n\n4. What is sieving? Where is it used?\n\n5. How will you separate sand and water from their mixture?\n\n6. Is it possible to separate sugar mixed with wheat flour? If yes, how will you do it?\n\n7. How would you obtain clear water from a sample of muddy water?\n\n8. Fill up the blanks\n\n(a) The method of separating seeds of paddy from its stalks is called ___________.\n\n(b) When milk, cooled after boiling, is poured onto a piece of cloth the cream (malai) is left behind on it. This process of separating cream from milk is an example of ___________.\n\n(c) Salt is obtained from seawater by the process of ___________.\n\n(d) Impurities settled at the bottom when muddy water was kept overnight in a bucket. The clear water was then poured off from the top. The process of separation used in this example is called ___________.\n\n9. True or false?\n\n(a) A mixture of milk and water can be separated by filtration.\n\n(b) A mixture of powdered salt and sugar can be separated by the process of winnowing.",
-      "pages": [
-        "29",
-        "30"
-      ],
+      "title": "Exercises",
+      "content": "1. Why do we need to separate different components of a mixture? Give two examples.\n\n2. What is winnowing? Where is it used?\n\n3. How will you separate husk or dirt particles from a given sample of pulses before cooking?\n\n4. What is sieving? Where is it used?\n\n5. How will you separate sand and water from their mixture?\n\n6. Is it possible to separate sugar mixed with wheat flour? If yes, how will you do it?\n\n7. How would you obtain clear water from a sample of muddy water?",
+      "pages": ["29"],
       "diagrams": [
         {
           "questionNumber": "7",
@@ -27,9 +24,30 @@
             "undissolved material (soil)",
             "mixture (soil + water)"
           ],
-          "location": "25"
+          "location": "24"
         }
       ]
+    },
+    {
+      "exerciseNumber": "2",
+      "title": "Exercises",
+      "content": "8. **Fill in the blanks**\n\n(a) The method of separating seeds of paddy from its stalks is called ___________.\n\n(b) When milk, cooled after boiling, is poured onto a piece of cloth the cream (malai) is left behind on it. This process of separating cream from milk is an example of ___________.\n\n(c) Salt is obtained from seawater by the process of ___________.\n\n(d) Impurities settled at the bottom when muddy water was kept overnight in a bucket. The clear water was then poured off from the top. The process of separation used in this example is called ___________.",
+      "pages": ["29"],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "3",
+      "title": "Exercises",
+      "content": "9. **True or False?**\n\n(a) A mixture of milk and water can be separated by filtration.\n\n(b) A mixture of powdered salt and sugar can be separated by the process of winnowing.\n\n(c) Separation of sugar from tea can be done with filtration.\n\n(d) Grain and husk can be separated with the process of decantation.",
+      "pages": ["29"],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "4",
+      "title": "Exercises",
+      "content": "10. Lemonade is prepared by mixing lemon juice and sugar in water. You wish to add ice to cool it. Should you add ice to the lemonade before or after dissolving sugar? In which case would it be possible to dissolve more sugar?",
+      "pages": ["30"],
+      "diagrams": []
     }
   ]
 }
