@@ -13,7 +13,7 @@
     {
       "exerciseNumber": "9.1",
       "title": "Exercise 9.1",
-      "content": "1. In a Mathematics test, the following marks were obtained by 40 students. Arrange these marks in a table using tally marks.\n8 1 3 7 6 5 5 4 4 2\n4 9 5 3 7 1 6 5 2 7\n7 3 8 4 2 8 9 5 8 6\n7 4 5 6 9 6 4 4 6 6\n(a) Find how many students obtained marks equal to or more than 7.\n(b) How many students obtained marks below 4?\n\n2. Following is the choice of sweets of 30 students of Class VI.\nLadoo, Barfi, Ladoo, Jalebi, Ladoo, Rasgulla, Jalebi, Ladoo, Barfi, Rasgulla, Ladoo,\nJalebi, Jalebi, Rasgulla, Ladoo, Rasgulla, Jalebi, Ladoo, Rasgulla, Ladoo, Ladoo,\nBarfi, Rasgulla, Rasgulla, Jalebi, Rasgulla, Ladoo, Rasgulla, Jalebi, Ladoo.\n(a) Arrange the names of sweets in a table using tally marks.\n(b) Which sweet is preferred by most of the students?\n\n3. Catherine threw a dice 40 times and noted the number appearing each time as shown below:\n1 3 5 6 6 3 5 4 1 6\n2 5 3 4 6 1 5 5 6 1\n1 2 2 3 5 2 4 5 5 6\n5 1 6 2 3 5 2 4 1 5\nMake a table and enter the data using tally marks. Find the number that appeared.\n(a) The minimum number of times\n(b) The maximum number of times\n(c) Find those numbers that appear an equal number of times.\n\n4. Following pictograph shows the number of tractors in five villages.\nObserve the pictograph and answer the following questions.\n(i) Which village has the minimum number of tractors?\n(ii) Which village has the maximum number of tractors?\n(iii) How many more tractors village C has as compared to village B.\n(iv) What is the total number of tractors in all the five villages?\n\n5. The number of girl students in each class of a co-educational middle school is depicted by the pictograph:\nObserve this pictograph and answer the following questions:\n(a) Which class has the minimum number of girl students?\n(b) Is the number of girls in Class VI less than the number of girls in Class V?\n(c) How many girls are there in Class VII?\n\n6. The sale of electric bulbs on different days of a week is shown below:\nObserve this pictograph and answer the following questions:\n(a) Which merchant sold the maximum number of baskets?\n(b) How many fruit baskets were sold by Anwar?\n(c) The merchants who have sold 600 or more number of baskets are planning to buy a godown for the next season. Can you name them?",
+      "content": "1. In a Mathematics test, the following marks were obtained by 40 students. Arrange these marks in a table using tally marks.\n8 1 3 7 6 5 5 4 4 2\n4 9 5 3 7 1 6 5 2 7\n7 3 8 4 2 8 9 5 8 6\n7 4 5 6 9 6 4 4 6 6\n(a) Find how many students obtained marks equal to or more than 7.\n(b) How many students obtained marks below 4?\n\n2. Following is the choice of sweets of 30 students of Class VI.\nLadoo, Barfi, Ladoo, Jalebi, Ladoo, Rasgulla, Jalebi, Ladoo, Barfi, Rasgulla, Ladoo,\nJalebi, Jalebi, Rasgulla, Ladoo, Rasgulla, Jalebi, Ladoo, Rasgulla, Ladoo, Ladoo,\nBarfi, Rasgulla, Rasgulla, Jalebi, Rasgulla, Ladoo, Rasgulla, Jalebi, Ladoo.\n(a) Arrange the names of sweets in a table using tally marks.\n(b) Which sweet is preferred by most of the students?\n\n3. Catherine threw a dice 40 times and noted the number appearing each time as shown below:\n1 3 5 6 6 3 5 4 1 6\n2 5 3 4 6 1 5 5 6 1\n1 2 2 3 5 2 4 5 5 6\n5 1 6 2 3 5 2 4 1 5\nMake a table and enter the data using tally marks. Find the number that appeared.\n(a) The minimum number of times\n(b) The maximum number of times\n(c) Find those numbers that appear an equal number of times.\n\n4. Following pictograph shows the number of tractors in five villages.\nObserve the pictograph and answer the following questions.\n(i) Which village has the minimum number of tractors?\n(ii) Which village has the maximum number of tractors?\n(iii) How many more tractors village C has as compared to village B.\n(iv) What is the total number of tractors in all the five villages?\n\n5. The number of girl students in each class of a co-educational middle school is depicted by the pictograph:\nObserve this pictograph and answer the following questions:\n(a) Which class has the minimum number of girl students?\n(b) Is the number of girls in Class VI less than the number of girls in Class V?\n(c) How many girls are there in Class VII?\n\n6. The sale of electric bulbs on different days of a week is shown below:\nObserve this pictograph and answer the following questions:\n(a) Which merchant sold the maximum number of baskets?\n(b) How many fruit baskets were sold by Anwar?\n(c) The merchants who have sold 600 or more number of baskets are planning to buy a godown for the next season. Can you name them?\n\n7. In a village, six fruit merchants sold the following number of fruit baskets in a particular season:\n   - Name of fruit merchants: Rahim, Lakhanpal, Anwar, Martin, Ranjit Singh, Joseph\n   - Observe the pictograph and answer the following questions:\n     (a) Which merchant sold the maximum number of baskets?\n     (b) How many fruit baskets were sold by Anwar?\n     (c) The merchants who have sold 600 or more number of baskets are planning to buy a godown for the next season. Can you name them?",
       "pages": [
         "150",
         "151",
@@ -59,6 +59,20 @@
             "Thursday",
             "Friday",
             "Saturday"
+          ],
+          "location": "152"
+        },
+        {
+          "questionNumber": "7",
+          "reference": "Pictograph of fruit baskets sold by merchants.",
+          "description": "Pictograph showing number of fruit baskets sold in a village.",
+          "labels": [
+            "Rahim",
+            "Lakhanpal",
+            "Anwar",
+            "Martin",
+            "Ranjit Singh",
+            "Joseph"
           ],
           "location": "152"
         }
