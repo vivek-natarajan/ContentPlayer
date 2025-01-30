@@ -12,20 +12,9 @@
   "exercises": [
     {
       "exerciseNumber": "1",
-      "title": "Components of Food Exercises",
-      "content": "1. Name the major nutrients in our food.\n\n2. Name the following:\n   (a) The nutrients which mainly give energy to our body.\n   (b) The nutrients that are needed for the growth and maintenance of our body.\n   (c) A vitamin required for maintaining good eyesight.\n   (d) A mineral that is required for keeping our bones healthy.\n\n3. Name two foods each rich in:\n   (a) Fats\n   (b) Starch\n   (c) Dietary fibre\n   (d) Protein\n\n4. Tick () the statements that are correct.\n   (a) By eating rice alone, we can fulfill nutritional requirement of our body. (   )\n   (b) Deficiency diseases can be prevented by eating a balanced diet. (   )\n   (c) Balanced diet for the body should contain a variety of food items. (   )\n   (d) Meat alone is sufficient to provide all nutrients to the body. (   )\n\n5. Fill in the blanks.\n   (a) ______________ is caused by deficiency of Vitamin D.\n   (b) Deficiency of ______________ causes a disease known as beri-beri.\n   (c) Deficiency of Vitamin C causes a disease known as ______________.\n   (d) Night blindness is caused due to deficiency of ____________ in our food.",
-      "pages": [
-        "10"
-      ],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "2",
-      "title": "Suggested Projects and Activities",
-      "content": "1. Prepare a diet chart to provide balance diet to a twelve year old child. The diet chart should include food items which are not expensive and are commonly available in your area.\n\n2. We have learnt that excess intake of fats is harmful for the body. What about other nutrients? Would it be harmful for the body to take too much of proteins or vitamins in the diet? Read about diet related problems to find answers to these questions and have a class discussion on this topic.\n\n3. Test the food usually eaten by cattle or a pet to find out which nutrients are present in animal food. Compare results obtained from the whole class to conclude about balanced diet requirements for different animals.",
-      "pages": [
-        "10"
-      ],
+      "title": "Exercises",
+      "content": "1. Name the major nutrients in our food.\n\n2. Name the following:\n   (a) The nutrients which mainly give energy to our body.\n   (b) The nutrients that are needed for the growth and maintenance of our body.\n   (c) A vitamin required for maintaining good eyesight.\n   (d) A mineral that is required for keeping our bones healthy.\n\n3. Name two foods each rich in:\n   (a) Fats\n   (b) Starch\n   (c) Dietary fibre\n   (d) Protein\n\n4. Tick (✓) the statements that are correct.\n   (a) By eating rice alone, we can fulfill the nutritional requirement of our body. ( )\n   (b) Deficiency diseases can be prevented by eating a balanced diet. ( )\n   (c) A balanced diet for the body should contain a variety of food items. ( )\n   (d) Meat alone is sufficient to provide all nutrients to the body. ( )\n\n5. Fill in the blanks.\n   (a) ______________ is caused by the deficiency of Vitamin D.\n   (b) Deficiency of ______________ causes a disease known as beri-beri.\n   (c) Deficiency of Vitamin C causes a disease known as ______________.\n   (d) Night blindness is caused due to deficiency of ____________ in our food.",
+      "pages": ["10"],
       "diagrams": []
     }
   ]
