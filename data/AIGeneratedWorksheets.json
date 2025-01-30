@@ -1797,7 +1797,7 @@
     },
     "document": {
       "worksheet": {
-        "worksheetName": "Ratio &amp; Proportion",
+        "worksheetName": "Ratio & Proportion",
         "curriculum": "CBSE",
         "subject": "Mathematics",
         "grade": 6,
@@ -1848,12 +1848,12 @@
             "content": {
               "question": "Which of the following sets of numbers are in proportion?",
               "options": [
-                "3, 9, 6, 18",
-                "2, 4, 5, 10",
-                "7, 14, 21, 42",
-                "10, 20, 15, 30"
+                "3:10 & 6:18",
+                "2:4 & 5:10",
+                "7:14 & 20:42",
+                "10:20 & 20:30"
               ],
-              "correctAnswer": 2
+              "correctAnswer": 1
             }
           },
           {
@@ -4780,7 +4780,7 @@
     },
     "document": {
       "worksheet": {
-        "worksheetName": "Kingdoms &amp; Republics",
+        "worksheetName": "Kingdoms & Republics",
         "curriculum": "CBSE",
         "subject": "History",
         "grade": 6,
@@ -5639,7 +5639,7 @@
     },
     "document": {
       "worksheet": {
-        "worksheetName": "Ancient Buildings &amp; Books",
+        "worksheetName": "Ancient Buildings & Books",
         "curriculum": "CBSE",
         "subject": "History",
         "grade": 6,
