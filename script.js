@@ -1,3 +1,5 @@
+import { Langfuse } from 'https://esm.sh/langfuse';
+
 // State management
 const state = {
     currentLevel: 'grade',
@@ -19,6 +21,21 @@ const contentElement = document.getElementById('content');
 const backButton = document.getElementById('backBtn');
 const breadcrumbElement = document.getElementById('breadcrumb');
 
+// Add Langfuse initialization near the top of the file, after state management
+let langfuse;
+
+// Initialize Langfuse after DOM content loads
+document.addEventListener('DOMContentLoaded', () => {
+    langfuse = new Langfuse({
+        publicKey: 'pk-lf-fca16579-d265-4d37-aaa6-3f5275f9fdf2',
+        secretKey: 'sk-lf-01b3e8f3-20ca-4b78-84ee-3ab1a7adc557',
+        baseUrl: 'https://cloud.langfuse.com'
+    });
+    initializeGlobalFunctions();
+    document.getElementById('apiKeyForm').addEventListener('submit', handleApiKeySubmit);
+    init();
+});
+
 // Move all function definitions here...
 
 // Then at the bottom of the file, after all functions are defined:
@@ -34,13 +51,6 @@ function initializeGlobalFunctions() {
     window.closeAnswerModal = closeAnswerModal;
     window.resetAnswer = resetAnswer;
 }
-
-// Update the DOMContentLoaded event listener
-document.addEventListener('DOMContentLoaded', () => {
-    initializeGlobalFunctions();
-    document.getElementById('apiKeyForm').addEventListener('submit', handleApiKeySubmit);
-    init();
-});
 
 // Update the API key submission handler
 function handleApiKeySubmit(event) {
@@ -820,100 +830,133 @@ window.submitAnswer = submitAnswer;
  * @returns {Promise<string>}     The assistant's final response text
  */
 async function runAssistant(apiKey, assistantId, userPrompt) {
+    // Create a new trace for this interaction
+    const trace = langfuse.trace({
+        name: 'Assistant Interaction',
+        userId: 'anonymous', // You can add user identification if available
+        metadata: {
+            assistantId,
+            promptType: 'evaluation'
+        }
+    });
+
     try {
-      // 1. CREATE & RUN THE THREAD (inferred from your snippet)
-      const createRunResponse = await fetch('https://api.openai.com/v1/threads/runs', {
-        method: 'POST',
-        headers: {
-          'Authorization': `Bearer ${apiKey}`,
-          'Content-Type': 'application/json',
-          'OpenAI-Beta': 'assistants=v2',
-        },
-        body: JSON.stringify({
-          assistant_id: assistantId,
-          thread: {
-            messages: [
-              {
-                role: 'user',
-                content: userPrompt,
-              },
-            ],
-          },
-        }),
-      });
-  
-      if (!createRunResponse.ok) {
-        const errBody = await createRunResponse.json().catch(() => ({}));
-        throw new Error(
-          `Failed to createAndRun thread: ${errBody.error?.message || createRunResponse.statusText}`
-        );
-      }
-  
-      const runData = await createRunResponse.json();
-      const threadId = runData.thread_id;
-      const runId = runData.id;
-      let status = runData.status || 'running';
-  
-      // 2. POLL UNTIL RUN IS COMPLETED OR FAILS`
-      while (status !== 'completed') {
-        if (status === 'failed') {
-          throw new Error('Assistant run failed');
-        }
-  
-        // Wait a bit before polling again
-        await new Promise((resolve) => setTimeout(resolve, 1000));
-  
-        const statusResp = await fetch(
-          `https://api.openai.com/v1/threads/${threadId}/runs/${runId}`,
-          {
-            method: 'GET',
-            headers: {
-              'Authorization': `Bearer ${apiKey}`,
-              'OpenAI-Beta': 'assistants=v2',
+        // Create a generation for the initial prompt
+        const generation = trace.generation({
+            name: 'Assistant Run',
+            model: 'gpt-4o',  // Update with actual model if known
+            modelParameters: {
+                assistantId,
+                temperature: 0.5  // Add actual parameters if known
             },
-          }
-        );
-  
-        if (!statusResp.ok) {
-          const errBody = await statusResp.json().catch(() => ({}));
-          throw new Error(
-            `Error retrieving run status: ${errBody.error?.message || statusResp.statusText}`
-          );
+            input: userPrompt,
+        });
+
+        // 1. CREATE & RUN THE THREAD
+        const createRunResponse = await fetch('https://api.openai.com/v1/threads/runs', {
+            method: 'POST',
+            headers: {
+                'Authorization': `Bearer ${apiKey}`,
+                'Content-Type': 'application/json',
+                'OpenAI-Beta': 'assistants=v2',
+            },
+            body: JSON.stringify({
+                assistant_id: assistantId,
+                thread: {
+                    messages: [
+                        {
+                            role: 'user',
+                            content: userPrompt,
+                        },
+                    ],
+                },
+            }),
+        });
+
+        if (!createRunResponse.ok) {
+            const errBody = await createRunResponse.json().catch(() => ({}));
+            const error = new Error(
+                `Failed to createAndRun thread: ${errBody.error?.message || createRunResponse.statusText}`
+            );
+            generation.end({ error });
+            throw error;
         }
-  
-        const statusData = await statusResp.json();
-        status = statusData.status;
-      }
-  
-      // 3. RETRIEVE THE FINAL ASSISTANT MESSAGE
-      const messagesResp = await fetch(
-        `https://api.openai.com/v1/threads/${threadId}/messages`,
-        {
-          method: 'GET',
-          headers: {
-            'Authorization': `Bearer ${apiKey}`,
-            'OpenAI-Beta': 'assistants=v2',
-          },
+
+        const runData = await createRunResponse.json();
+        const threadId = runData.thread_id;
+        const runId = runData.id;
+        let status = runData.status || 'running';
+
+        // 2. POLL UNTIL RUN IS COMPLETED OR FAILS`
+        while (status !== 'completed') {
+            if (status === 'failed') {
+                throw new Error('Assistant run failed');
+            }
+
+            // Wait a bit before polling again
+            await new Promise((resolve) => setTimeout(resolve, 1000));
+
+            const statusResp = await fetch(
+                `https://api.openai.com/v1/threads/${threadId}/runs/${runId}`,
+                {
+                    method: 'GET',
+                    headers: {
+                        'Authorization': `Bearer ${apiKey}`,
+                        'OpenAI-Beta': 'assistants=v2',
+                    },
+                }
+            );
+
+            if (!statusResp.ok) {
+                const errBody = await statusResp.json().catch(() => ({}));
+                throw new Error(
+                    `Error retrieving run status: ${errBody.error?.message || statusResp.statusText}`
+                );
+            }
+
+            const statusData = await statusResp.json();
+            status = statusData.status;
         }
-      );
-  
-      if (!messagesResp.ok) {
-        const errBody = await messagesResp.json().catch(() => ({}));
-        throw new Error(
-          `Error retrieving final messages: ${errBody.error?.message || messagesResp.statusText}`
+
+        // 3. RETRIEVE THE FINAL ASSISTANT MESSAGE
+        const messagesResp = await fetch(
+            `https://api.openai.com/v1/threads/${threadId}/messages`,
+            {
+                method: 'GET',
+                headers: {
+                    'Authorization': `Bearer ${apiKey}`,
+                    'OpenAI-Beta': 'assistants=v2',
+                },
+            }
         );
-      }
-  
-      const messagesData = await messagesResp.json();
-      const assistantMessageObj = messagesData.data.find((m) => m.role === 'assistant');
-      const assistantText =
-        assistantMessageObj?.content?.[0]?.text?.value || 'No assistant response found';
-      return assistantText;
+
+        if (!messagesResp.ok) {
+            const errBody = await messagesResp.json().catch(() => ({}));
+            throw new Error(
+                `Error retrieving final messages: ${errBody.error?.message || messagesResp.statusText}`
+            );
+        }
+
+        const messagesData = await messagesResp.json();
+        const assistantMessageObj = messagesData.data.find((m) => m.role === 'assistant');
+        const assistantText = assistantMessageObj?.content?.[0]?.text?.value || 'No assistant response found';
+
+        // End the generation with success
+        generation.end({
+            output: assistantText,
+        });
+
+        return assistantText;
     } catch (error) {
-      console.error('Error running assistant:', error);
-      throw error;
+        console.error('Error running assistant:', error);
+        // End the trace with error
+        trace.end({ 
+            status: 'error',
+            statusMessage: error.message
+        });
+        throw error;
     }
-  }
+}
 
 // Update the evaluateAnswer function to parse the response
 async function evaluateAnswer(question, userAnswer, questionScreenshot, questionType) {
@@ -933,13 +976,19 @@ async function evaluateAnswer(question, userAnswer, questionScreenshot, question
             userPrompt
         );
 
-        // Parse the response string into an array of criteria
         try {
-            return JSON.parse(response);
+            const parsedResponse = JSON.parse(response);
+            trace.end({ 
+                status: 'success',
+                metadata: {
+                    score: parsedResponse.score,
+                    maxScore: parsedResponse.maxScore
+                }
+            });
+            return parsedResponse;
         } catch (error) {
             console.error('Error parsing evaluation response:', error);
-            // Fallback format if parsing fails
-            return {
+            const fallbackResponse = {
                 score: 0,
                 maxScore: question.content.rubrics[0].maxScore,
                 criteria: [
@@ -951,9 +1000,14 @@ async function evaluateAnswer(question, userAnswer, questionScreenshot, question
                     }
                 ]
             };
+            return fallbackResponse;
         }
     } catch (error) {
         console.error('Error evaluating answer:', error);
+        trace.end({ 
+            status: 'error',
+            statusMessage: error.message
+        });
         return null;
     }
 }
