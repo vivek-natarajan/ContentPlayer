@@ -11,13 +11,24 @@
   },
   "exercises": [
     {
-      "exerciseNumber": "9",
-      "title": "Electricity and Circuits Exercises",
-      "content": "1. Fill in the blanks:\n(a) A device that is used to break an electric circuit is called _______________.\n(b) An electric cell has _______________ terminals.\n\n2. Mark 'True' or 'False' for following statements:\n(a) Electric current can flow through metals.\n(b) Instead of metal wires, a jute string can be used to make a circuit.\n(c) Electric current can pass through a sheet of thermo Col.\n\n3. Explain why the bulb would not glow in the arrangement shown in Fig. 9.13.\n\n4. Complete the drawing shown in Fig. 9.14 to indicate where the free ends of the two wires should be joined to make the bulb glow.\n\n5. What is the purpose of using an electric switch? Name some electrical gadgets that have switches built into them.\n\n6. Would the bulb glow after completing the circuit shown in Fig. 9.14 if instead of safety pin we use an eraser?\n\n7. Would the bulb glow in the circuit shown in Fig. 9.15?\n\n8. Using the \"conduction tester\" on an object it was found that the bulb begins to glow. Is that object a conductor or an insulator? Explain.\n\n9. Why should an electrician use rubber gloves while repairing an electric switch at your home? Explain.\n\n10. The handles of the tools like screwdrivers and pliers used by electricians for repair work usually have plastic or rubber covers on them. Can you explain why?",
-      "pages": [
-        "102",
-        "103"
-      ],
+      "exerciseNumber": "1",
+      "title": "Exercises",
+      "content": "1. **Fill in the blanks:**\n\n(a) A device that is used to break an electric circuit is called _______________.\n\n(b) An electric cell has _______________ terminals.",
+      "pages": ["102"],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "2",
+      "title": "Exercises",
+      "content": "2. **Mark 'True' or 'False' for the following statements:**\n\n(a) Electric current can flow through metals.\n\n(b) Instead of metal wires, a jute string can be used to make a circuit.\n\n(c) Electric current can pass through a sheet of thermo Col.",
+      "pages": ["102"],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "3",
+      "title": "Exercises",
+      "content": "3. **Explain why the bulb would not glow in the arrangement shown in Fig. 9.13.**",
+      "pages": ["102"],
       "diagrams": [
         {
           "questionNumber": "3",
@@ -28,8 +39,16 @@
             "Cell",
             "Wires"
           ],
-          "location": "Page 103"
-        },
+          "location": "103"
+        }
+      ]
+    },
+    {
+      "exerciseNumber": "4",
+      "title": "Exercises",
+      "content": "4. **Complete the drawing shown in Fig. 9.14 to indicate where the free ends of the two wires should be joined to make the bulb glow.**",
+      "pages": ["103"],
+      "diagrams": [
         {
           "questionNumber": "4",
           "reference": "Complete the drawing shown in Fig. 9.14 to indicate where the free ends of the two wires should be joined to make the bulb glow.",
@@ -39,8 +58,30 @@
             "Cell",
             "Wires"
           ],
-          "location": "Page 103"
-        },
+          "location": "103"
+        }
+      ]
+    },
+    {
+      "exerciseNumber": "5",
+      "title": "Exercises",
+      "content": "5. **What is the purpose of using an electric switch? Name some electrical gadgets that have switches built into them.**",
+      "pages": ["103"],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "6",
+      "title": "Exercises",
+      "content": "6. **Would the bulb glow after completing the circuit shown in Fig. 9.14 if instead of a safety pin we use an eraser?**",
+      "pages": ["103"],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "7",
+      "title": "Exercises",
+      "content": "7. **Would the bulb glow in the circuit shown in Fig. 9.15?**",
+      "pages": ["103"],
+      "diagrams": [
         {
           "questionNumber": "7",
           "reference": "Would the bulb glow in the circuit shown in Fig. 9.15?",
@@ -50,9 +91,30 @@
             "Cell",
             "Wires"
           ],
-          "location": "Page 103"
+          "location": "103"
         }
       ]
+    },
+    {
+      "exerciseNumber": "8",
+      "title": "Exercises",
+      "content": "8. **Using the 'conduction tester' on an object it was found that the bulb begins to glow. Is that object a conductor or an insulator? Explain.**",
+      "pages": ["103"],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "9",
+      "title": "Exercises",
+      "content": "9. **Why should an electrician use rubber gloves while repairing an electric switch at your home? Explain.**",
+      "pages": ["103"],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "10",
+      "title": "Exercises",
+      "content": "10. **The handles of the tools like screwdrivers and pliers used by electricians for repair work usually have plastic or rubber covers on them. Can you explain why?**",
+      "pages": ["103"],
+      "diagrams": []
     }
   ]
 }
