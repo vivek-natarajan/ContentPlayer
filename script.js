@@ -238,6 +238,15 @@ function displayWorksheet(worksheetId) {
         <div class="questions">
             ${renderSingleQuestion(worksheet.questions[0], 0, totalQuestions)}
         </div>
+        <div class="pdf-preview" style="display: none;">
+            <iframe 
+                src="/data/books/${chapter.pdfPath.split('/').pop()}#page=1&view=FitH&toolbar=0&navpanes=0" 
+                width="100%" 
+                height="500px" 
+                frameborder="0"
+                title="Book PDF Preview"
+            ></iframe>
+        </div>
     `;
     
     contentElement.innerHTML = html;
@@ -245,7 +254,7 @@ function displayWorksheet(worksheetId) {
     updateBreadcrumb();
 }
 
-// Update renderSingleQuestion to use modal for answer section
+// Update renderSingleQuestion to include PDF button in controls
 function renderSingleQuestion(question, index, totalQuestions) {
     return `
         <div class="question ${question.type.toLowerCase()}">
@@ -277,6 +286,7 @@ function renderSingleQuestion(question, index, totalQuestions) {
                 </div>
                 <div class="answer-controls">
                     <button class="toggle-answer" onclick="toggleAnswer(this)">Show Answer</button>
+                    <button class="view-pdf-btn" onclick="togglePdfPreview(this)">View PDF</button>
                 </div>
             </div>
 
@@ -1303,4 +1313,23 @@ window.skipApiKey = function() {
     document.getElementById('apiKeyForm').style.display = 'none';
     document.getElementById('mainContent').style.display = 'block';
     init();
-}; 
+};
+
+// Update togglePdfPreview function to work with new structure
+function togglePdfPreview(button) {
+    const questionDiv = button.closest('.question');
+    const pdfPreview = document.querySelector('.pdf-preview');
+    const isHidden = pdfPreview.style.display === 'none';
+    
+    // Toggle the preview
+    pdfPreview.style.display = isHidden ? 'block' : 'none';
+    button.textContent = isHidden ? 'Hide PDF' : 'View PDF';
+    
+    // Scroll to PDF preview if showing
+    if (isHidden) {
+        pdfPreview.scrollIntoView({ behavior: 'smooth' });
+    }
+}
+
+// Add the function to the global scope
+window.togglePdfPreview = togglePdfPreview; 

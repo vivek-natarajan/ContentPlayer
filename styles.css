@@ -1181,3 +1181,38 @@ header h1 {
 .draw .question-text-wrapper {
     flex-shrink: 0;
 }
+
+.view-pdf-btn {
+    padding: 6px 12px;
+    background-color: #6c757d;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 0.9em;
+    transition: background-color 0.2s;
+}
+
+.view-pdf-btn:hover {
+    background-color: #5a6268;
+}
+
+.pdf-preview {
+    margin: 1rem 0;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius);
+    overflow: hidden;
+    background: var(--card-bg);
+    box-shadow: var(--shadow-sm);
+}
+
+.pdf-preview iframe {
+    display: block;
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+.worksheet-pdf-preview {
+    display: none;
+}
