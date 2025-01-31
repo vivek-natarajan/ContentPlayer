@@ -1,66 +1,45 @@
 {
-  "id": "fess302_exercises",
+  "id": "fess303_exercises",
   "metadata": {
     "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-    "bookId": "fess302",
+    "bookId": "fess303",
     "curriculum": "CBSE",
     "grade": "6",
     "subject": "Civics",
     "timestamp": "2025-01-16T11:38:57.992Z",
-    "chapter": "Diversity and Discrimination"
+    "chapter": "What is Government?"
   },
   "exercises": [
     {
       "exerciseNumber": "1",
-      "title": "Match the Statements to Challenge Stereotypes",
-      "content": "Match the following statements in a way that challenges stereotypes.\n\na. Two surgeons were sitting down to lunch when one of them made a call on the mobile phone\n\n1. suffers from chronic asthma.\n\nb. The boy who won the drawing competition went to the dias\n\n2. to become an astronaut which she did.\n\nc. One of the fastest athletes in the world\n\n3. to speak with her daughter who had just returned from school.\n\nd. She was not that well-off but had a dream\n\n4. on a wheelchair to collect his prize.",
-      "pages": ["22"],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "2",
-      "title": "Stereotypes and Gender Bias",
-      "content": "How can the stereotype that girls are a burden on their parents affect the life of a daughter? Imagine this situation and list at least five different effects that this stereotype can have on the way daughters get treated in the house.",
-      "pages": ["22"],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "3",
-      "title": "Equality in the Constitution",
-      "content": "What does the Constitution say with regard to equality? Why do you think it is important for all people to be equal?",
-      "pages": ["22"],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "4",
-      "title": "Understanding Government",
+      "title": "What is Government?",
       "content": "What do you understand by the word ‘government’? List five ways in which you think the government affects your daily life.",
       "pages": ["33"],
       "diagrams": []
     },
     {
-      "exerciseNumber": "5",
+      "exerciseNumber": "2",
       "title": "Importance of Laws",
       "content": "Why do you think the government needs to make rules for everyone in the form of laws?",
       "pages": ["33"],
       "diagrams": []
     },
     {
-      "exerciseNumber": "6",
+      "exerciseNumber": "3",
       "title": "Democratic Government Features",
       "content": "Name two essential features of a democratic government.",
       "pages": ["33"],
       "diagrams": []
     },
     {
-      "exerciseNumber": "7",
+      "exerciseNumber": "4",
       "title": "The Suffrage Movement",
       "content": "What was the suffrage movement? What did it accomplish?",
       "pages": ["33"],
       "diagrams": []
     },
     {
-      "exerciseNumber": "8",
+      "exerciseNumber": "5",
       "title": "Gandhiji’s Views on Voting Rights",
       "content": "Gandhiji strongly believed that every adult in India should be given the right to vote. However, a few people don’t share his views. They feel that illiterate people, who are mainly poor, should not be given the right to vote. What do you think? Do you think this would be a form of discrimination? Give five points to support your view and share these with the class.",
       "pages": ["33"],
