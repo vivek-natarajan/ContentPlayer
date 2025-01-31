@@ -674,7 +674,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "Whole Numbers",
         "questions": [
           {
@@ -772,7 +772,7 @@
             "topic": "Whole Numbers",
             "difficulty": "Hard",
             "content": {
-              "question": "In each of the following pairs of numbers, state which whole number is on the left of the other number on the number line. Also write them with the appropriate sign (&gt;, &lt;) between them: 530 and 503, 370 and 307, 98765 and 56789, 9830415 and 10023001.",
+              "question": "In each of the following pairs of numbers, state which whole number is on the left of the other number on the number line. Also write them with the appropriate sign (>, <) between them: 530 and 503, 370 and 307, 98765 and 56789, 9830415 and 10023001.",
               "rubrics": [
                 {
                   "title": "Correctness of Order",
@@ -920,7 +920,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "Playing with Numbers",
         "questions": [
           {
@@ -1121,7 +1121,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "Playing with Numbers",
         "questions": [
           {
@@ -1509,7 +1509,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "Playing with Numbers",
         "questions": [
           {
@@ -1645,7 +1645,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "Playing with Numbers",
         "questions": [
           {
@@ -1923,7 +1923,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "Playing with Numbers",
         "questions": [
           {
@@ -2133,7 +2133,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "Playing with Numbers",
         "questions": [
           {
@@ -2459,7 +2459,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "Playing with Numbers",
         "questions": [
           {
@@ -2732,7 +2732,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 4,
         "chapterName": "Basic Geometrical Ideas",
         "questions": [
           {
@@ -2984,7 +2984,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 4,
         "chapterName": "Basic Geometrical Ideas",
         "questions": [
           {
@@ -3104,7 +3104,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 4,
         "chapterName": "Basic Geometrical Ideas",
         "questions": [
           {
@@ -3264,7 +3264,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Understanding Elementary Shapes",
         "questions": [
           {
@@ -3349,7 +3349,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Understanding Elementary Shapes",
         "questions": [
           {
@@ -3772,7 +3772,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Understanding Elementary Shapes",
         "questions": [
           {
@@ -3841,7 +3841,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Understanding Elementary Shapes",
         "questions": [
           {
@@ -4236,7 +4236,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Understanding Elementary Shapes",
         "questions": [
           {
@@ -4330,7 +4330,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Understanding Elementary Shapes",
         "questions": [
           {
@@ -4453,7 +4453,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Understanding Elementary Shapes",
         "questions": [
           {
@@ -4694,7 +4694,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Understanding Elementary Shapes",
         "questions": [
           {
@@ -4813,7 +4813,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "Integers",
         "questions": [
           {
@@ -5013,7 +5013,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "Integers",
         "questions": [
           {
@@ -5403,7 +5403,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "Integers",
         "questions": [
           {
@@ -5587,7 +5587,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "Fractions",
         "questions": [
           {
@@ -5754,7 +5754,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "Fractions",
         "questions": [
           {
@@ -5827,7 +5827,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "Fractions",
         "questions": [
           {
@@ -6080,7 +6080,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "Fractions",
         "questions": [
           {
@@ -6249,7 +6249,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "Fractions",
         "questions": [
           {
@@ -6489,7 +6489,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "Fractions",
         "questions": [
           {
@@ -6958,7 +6958,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Decimals",
         "questions": [
           {
@@ -7109,7 +7109,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Decimals",
         "questions": [
           {
@@ -7441,7 +7441,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Decimals",
         "questions": [
           {
@@ -7641,7 +7641,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Decimals",
         "questions": [
           {
@@ -7871,7 +7871,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 9,
         "chapterName": "Data Handling",
         "questions": [
           {
@@ -8048,7 +8048,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 10,
         "chapterName": "Mensuration",
         "questions": [
           {
@@ -8470,7 +8470,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 10,
         "chapterName": "Mensuration",
         "questions": [
           {
@@ -8560,7 +8560,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 10,
         "chapterName": "Mensuration",
         "questions": [
           {
@@ -8960,7 +8960,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 11,
         "chapterName": "Algebra",
         "questions": [
           {
@@ -9202,7 +9202,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 12,
         "chapterName": "Ratio and Proportion",
         "questions": [
           {
@@ -9498,7 +9498,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 12,
         "chapterName": "Ratio and Proportion",
         "questions": [
           {
@@ -9663,7 +9663,7 @@
         "subject": "Mathematics",
         "grade": 6,
         "book": "NCERT: Mathematics - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 12,
         "chapterName": "Ratio and Proportion",
         "questions": [
           {
@@ -10191,7 +10191,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "Sorting Materials into Groups",
         "questions": [
           {
@@ -10230,7 +10230,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "Sorting Materials into Groups",
         "questions": [
           {
@@ -10269,7 +10269,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "Sorting Materials into Groups",
         "questions": [
           {
@@ -10329,7 +10329,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "Sorting Materials into Groups",
         "questions": [
           {
@@ -10434,7 +10434,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "Sorting Materials into Groups",
         "questions": [
           {
@@ -10515,7 +10515,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "Sorting Materials into Groups",
         "questions": [
           {
@@ -10558,7 +10558,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "Sorting Materials into Groups",
         "questions": [
           {
@@ -10642,7 +10642,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "Separation of Substances",
         "questions": [
           {
@@ -10884,7 +10884,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 4,
         "chapterName": "Getting to Know Plants",
         "questions": [
           {
@@ -11141,7 +11141,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Body Movements",
         "questions": [
           {
@@ -11359,7 +11359,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "The Living Organisms — Characteristics and Habitats",
         "questions": [
           {
@@ -11609,7 +11609,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "The Living Organisms — Characteristics and Habitats",
         "questions": [
           {
@@ -11734,7 +11734,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "Motion and Measurement of Distances",
         "questions": [
           {
@@ -11804,7 +11804,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "Motion and Measurement of Distances",
         "questions": [
           {
@@ -12098,7 +12098,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Light, Shadows, and Reflections",
         "questions": [
           {
@@ -12137,7 +12137,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Light, Shadows, and Reflections",
         "questions": [
           {
@@ -12218,7 +12218,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Light, Shadows, and Reflections",
         "questions": [
           {
@@ -12261,7 +12261,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Light, Shadows, and Reflections",
         "questions": [
           {
@@ -12306,7 +12306,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Light, Shadows, and Reflections",
         "questions": [
           {
@@ -12377,7 +12377,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Light, Shadows, and Reflections",
         "questions": [
           {
@@ -12435,7 +12435,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Light, Shadows, and Reflections",
         "questions": [
           {
@@ -12526,7 +12526,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 9,
         "chapterName": "Electricity and Circuits",
         "questions": [
           {
@@ -12745,7 +12745,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 10,
         "chapterName": "Fun with Magnets",
         "questions": [
           {
@@ -13113,7 +13113,7 @@
         "subject": "Science",
         "grade": 6,
         "book": "NCERT: Science - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 11,
         "chapterName": "Air Around Us",
         "questions": [
           {
@@ -13539,7 +13539,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "From Hunting–Gathering to Growing Food",
         "questions": [
           {
@@ -13627,7 +13627,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "From Hunting–Gathering to Growing Food",
         "questions": [
           {
@@ -13710,7 +13710,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "From Hunting–Gathering to Growing Food",
         "questions": [
           {
@@ -13789,7 +13789,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "In the Earliest Cities",
         "questions": [
           {
@@ -13881,7 +13881,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "In the Earliest Cities",
         "questions": [
           {
@@ -13962,7 +13962,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "In the Earliest Cities",
         "questions": [
           {
@@ -14034,7 +14034,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 4,
         "chapterName": "What Books and Burials Tell Us",
         "questions": [
           {
@@ -14179,7 +14179,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 4,
         "chapterName": "What Books and Burials Tell Us",
         "questions": [
           {
@@ -14262,7 +14262,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 4,
         "chapterName": "What Books and Burials Tell Us",
         "questions": [
           {
@@ -14351,7 +14351,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Kingdoms, Kings and An Early Republic",
         "questions": [
           {
@@ -14416,7 +14416,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Kingdoms, Kings and An Early Republic",
         "questions": [
           {
@@ -14462,7 +14462,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Kingdoms, Kings and An Early Republic",
         "questions": [
           {
@@ -14503,7 +14503,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Kingdoms, Kings and An Early Republic",
         "questions": [
           {
@@ -14565,7 +14565,13 @@
             }
           ],
           "answer": "The answer will vary depending on the student's location. For example, if the student is from Uttar Pradesh, they might mention the Kosala Janapada. If there were no janapadas directly in their state, they might mention the closest janapada, such as Magadha to the east of their location."
-        }
+        },
+        "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+        "curriculum": "CBSE",
+        "grade": 6,
+        "subject": "History",
+        "chapterNumber": 5,
+        "chapterName": "Kingdoms, Kings and An Early Republic"
       }
     }
   },
@@ -14582,7 +14588,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Kingdoms, Kings and An Early Republic",
         "questions": [
           {
@@ -14644,7 +14650,13 @@
             }
           ],
           "answer": "The Buddha spread his message through oral teachings, emphasizing simplicity and clarity. He established a monastic community (Sangha) to help disseminate his teachings. His methods included sermons, dialogues, and parables to convey his ideas effectively."
-        }
+        },
+        "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+        "curriculum": "CBSE",
+        "grade": 6,
+        "subject": "History",
+        "chapterNumber": 6,
+        "chapterName": "New Questions and Ideas"
       }
     }
   },
@@ -14661,7 +14673,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "New Questions and Ideas",
         "questions": [
           {
@@ -14766,7 +14778,13 @@
             }
           ],
           "answer": "Upanishadic thinkers wanted to answer fundamental questions about the nature of reality, the self (Atman), and the ultimate reality (Brahman). They explored concepts such as the relationship between the individual soul and the universal soul, the nature of life and death, and the path to spiritual liberation (moksha)."
-        }
+        },
+        "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+        "curriculum": "CBSE",
+        "grade": 6,
+        "subject": "History",
+        "chapterNumber": 6,
+        "chapterName": "New Questions and Ideas"
       }
     }
   },
@@ -14783,7 +14801,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "New Questions and Ideas",
         "questions": [
           {
@@ -14838,7 +14856,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "New Questions and Ideas",
         "questions": [
           {
@@ -14879,7 +14897,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "New Questions and Ideas",
         "questions": [
           {
@@ -14941,7 +14959,13 @@
             }
           ],
           "answer": "Chinese pilgrims, such as Faxian and Xuanzang, came to India primarily for religious reasons, seeking to visit sacred Buddhist sites and to acquire authentic Buddhist texts. They were motivated by the desire to learn more about Buddhism and its practices directly from the source. Additionally, their travels facilitated cultural exchange and the spread of knowledge between China and India. Pilgrims also sought economic and educational opportunities, as India was a center of learning and trade during this period."
-        }
+        },
+        "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+        "curriculum": "CBSE",
+        "grade": 6,
+        "subject": "History",
+        "chapterNumber": 6,
+        "chapterName": "New Questions and Ideas"
       }
     }
   },
@@ -14958,7 +14982,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "New Questions and Ideas",
         "questions": [
           {
@@ -15024,7 +15048,13 @@
             }
           ],
           "answer": "Men and women who renounce the world today often live in ashrams, monasteries, or secluded areas. They typically wear simple, modest clothing such as robes or traditional attire associated with their spiritual practice. Their diet is usually simple and vegetarian, focusing on natural and unprocessed foods. They renounce the world to seek spiritual enlightenment, inner peace, or to dedicate their lives to religious or philosophical pursuits."
-        }
+        },
+        "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
+        "curriculum": "CBSE",
+        "grade": 6,
+        "subject": "History",
+        "chapterNumber": 6,
+        "chapterName": "New Questions and Ideas"
       }
     }
   },
@@ -15041,7 +15071,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "From a Kingdom to an Empire",
         "questions": [
           {
@@ -15220,7 +15250,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "From a Kingdom to an Empire",
         "questions": [
           {
@@ -15295,7 +15325,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "From a Kingdom to an Empire",
         "questions": [
           {
@@ -15361,7 +15391,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Villages, Towns and Trade",
         "questions": [
           {
@@ -15499,7 +15529,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Villages, Towns and Trade",
         "questions": [
           {
@@ -15585,7 +15615,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Villages, Towns and Trade",
         "questions": [
           {
@@ -15659,7 +15689,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Villages, Towns and Trade",
         "questions": [
           {
@@ -15754,7 +15784,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 9,
         "chapterName": "New Empires and Kingdoms",
         "questions": [
           {
@@ -15963,7 +15993,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 10,
         "chapterName": "Buildings, Paintings, and Books",
         "questions": [
           {
@@ -16105,7 +16135,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 10,
         "chapterName": "Buildings, Paintings, and Books",
         "questions": [
           {
@@ -16194,7 +16224,7 @@
         "subject": "History",
         "grade": 6,
         "book": "NCERT: Our Pasts-I - Textbook in History for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 10,
         "chapterName": "Buildings, Paintings, and Books",
         "questions": [
           {
@@ -16935,7 +16965,7 @@
         "subject": "Geography",
         "grade": 6,
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "Globe: Latitudes and Longitudes",
         "questions": [
           {
@@ -17072,7 +17102,7 @@
         "subject": "Geography",
         "grade": 6,
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "Globe: Latitudes and Longitudes",
         "questions": [
           {
@@ -17171,7 +17201,7 @@
         "subject": "Geography",
         "grade": 6,
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "Globe: Latitudes and Longitudes",
         "questions": [
           {
@@ -17290,7 +17320,7 @@
         "subject": "Geography",
         "grade": 6,
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "Globe: Latitudes and Longitudes",
         "questions": [
           {
@@ -17376,7 +17406,7 @@
         "subject": "Geography",
         "grade": 6,
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "Motions of the Earth",
         "questions": [
           {
@@ -17509,7 +17539,7 @@
         "subject": "Geography",
         "grade": 6,
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "Motions of the Earth",
         "questions": [
           {
@@ -17586,7 +17616,7 @@
         "subject": "Geography",
         "grade": 6,
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "Motions of the Earth",
         "questions": [
           {
@@ -17721,7 +17751,7 @@
         "subject": "Geography",
         "grade": 6,
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "Motions of the Earth",
         "questions": [
           {
@@ -17842,7 +17872,7 @@
         "subject": "Geography",
         "grade": 6,
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Major Domains of the Earth",
         "questions": [
           {
@@ -17967,7 +17997,7 @@
         "subject": "Geography",
         "grade": 6,
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Major Domains of the Earth",
         "questions": [
           {
@@ -18057,7 +18087,7 @@
         "subject": "Geography",
         "grade": 6,
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Major Domains of the Earth",
         "questions": [
           {
@@ -18192,7 +18222,7 @@
         "subject": "Geography",
         "grade": 6,
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Major Domains of the Earth",
         "questions": [
           {
@@ -18281,7 +18311,7 @@
         "subject": "Geography",
         "grade": 6,
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Major Domains of the Earth",
         "questions": [
           {
@@ -18352,7 +18382,7 @@
         "subject": "Geography",
         "grade": 6,
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "Our Country – India",
         "questions": [
           {
@@ -18481,7 +18511,7 @@
         "subject": "Geography",
         "grade": 6,
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "Our Country – India",
         "questions": [
           {
@@ -18571,7 +18601,7 @@
         "subject": "Geography",
         "grade": 6,
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "Our Country – India",
         "questions": [
           {
@@ -18710,7 +18740,13 @@
             }
           ],
           "answer": "The Tropic of Cancer should be drawn approximately at 23.5°N latitude. The Standard Meridian of India is 82.5°E longitude. The student's state should be marked accurately based on their location. Andaman Islands should be marked in the Bay of Bengal, and Lakshadweep Islands in the Arabian Sea. Western Ghats should be marked along the western coast, and Eastern Ghats along the eastern coast of India."
-        }
+        },
+        "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
+        "curriculum": "CBSE",
+        "grade": 6,
+        "subject": "Geography",
+        "chapterNumber": 6,
+        "chapterName": "Our Country – India"
       }
     }
   },
@@ -19000,7 +19036,13 @@
             }
           ],
           "answer": "Kerala, being a coastal region, has a diet rich in seafood and coconut-based dishes, while Ladakh, being a mountainous region, relies on barley, dairy, and meat. In terms of clothing, Kerala's warm climate leads to the use of light cotton clothes, whereas Ladakh's cold climate necessitates woolen garments. The work in Kerala is often related to agriculture and fishing, while in Ladakh, it is more focused on animal husbandry and tourism due to its terrain and climate."
-        }
+        },
+        "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+        "curriculum": "CBSE",
+        "grade": 6,
+        "subject": "Civics",
+        "chapterNumber": 1,
+        "chapterName": "Understanding Diversity"
       }
     }
   },
@@ -19017,7 +19059,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "Diversity and Discrimination",
         "questions": [
           {
@@ -19078,7 +19120,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "Diversity and Discrimination",
         "questions": [
           {
@@ -19146,7 +19188,13 @@
             }
           ],
           "answer": "The Constitution of India guarantees equality to all its citizens under Article 14, which ensures that the state shall not deny to any person equality before the law or the equal protection of the laws within the territory of India. It is important for all people to be equal to ensure social justice and harmony, prevent discrimination, and promote equal opportunities for all individuals, regardless of their background."
-        }
+        },
+        "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+        "curriculum": "CBSE",
+        "grade": 6,
+        "subject": "Civics",
+        "chapterNumber": 2,
+        "chapterName": "Diversity and Discrimination"
       }
     }
   },
@@ -19163,7 +19211,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "Diversity and Discrimination",
         "questions": [
           {
@@ -19321,7 +19369,7 @@
         "subject": "Geography",
         "grade": 6,
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 4,
         "chapterName": "Maps",
         "questions": [
           {
@@ -19462,7 +19510,7 @@
         "subject": "Geography",
         "grade": 6,
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 4,
         "chapterName": "Maps",
         "questions": [
           {
@@ -19581,7 +19629,13 @@
             }
           ],
           "answer": "A correctly drawn classroom plan should include all specified elements: teacher’s table, blackboard, desks, door, and windows, accurately placed and proportionally represented with clear labels or symbols."
-        }
+        },
+        "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
+        "curriculum": "CBSE",
+        "grade": 6,
+        "subject": "Geography",
+        "chapterNumber": 4,
+        "chapterName": "Maps"
       }
     }
   },
@@ -19621,7 +19675,13 @@
             }
           ],
           "answer": "A correctly drawn sketch map of the school showing the principal’s room, classroom, playground, library, some big trees, and drinking water, with clear labels and appropriate symbols."
-        }
+        },
+        "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
+        "curriculum": "CBSE",
+        "grade": 6,
+        "subject": "Geography",
+        "chapterNumber": 4,
+        "chapterName": "Maps"
       }
     }
   },
@@ -19666,7 +19726,13 @@
             }
           ],
           "answer": "A detailed drawing of a fun-park plan including all specified activities, creatively arranged, with a logical layout and clear presentation."
-        }
+        },
+        "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
+        "curriculum": "CBSE",
+        "grade": 6,
+        "subject": "Geography",
+        "chapterNumber": 4,
+        "chapterName": "Maps"
       }
     }
   },
@@ -19683,7 +19749,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "What is Government?",
         "questions": [
           {
@@ -19745,7 +19811,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "What is Government?",
         "questions": [
           {
@@ -19786,7 +19852,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "What is Government?",
         "questions": [
           {
@@ -19946,7 +20012,13 @@
             }
           ],
           "answer": "The villagers in Hardas village faced the problem of water scarcity. To solve this problem, they decided to construct a tank and deepen the existing wells. The Panchayati Raj played a crucial role in organizing the community and mobilizing resources for these projects."
-        }
+        },
+        "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+        "curriculum": "CBSE",
+        "grade": 6,
+        "subject": "Civics",
+        "chapterNumber": 4,
+        "chapterName": "Panchayati Raj"
       }
     }
   },
@@ -19963,7 +20035,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 4,
         "chapterName": "Panchayati Raj",
         "questions": [
           {
@@ -20025,7 +20097,13 @@
             }
           ],
           "answer": "The Gram Sabha is a body comprising all the adult members of a village or a group of villages. It is the foundation of the Panchayati Raj system and acts as a forum for discussing local issues and making decisions. The Gram Panchayat, on the other hand, is the executive body elected by the Gram Sabha to implement its decisions and manage local governance. The Gram Sabha provides directives and oversight, while the Gram Panchayat executes these directives, ensuring accountability and transparency in local governance."
-        }
+        },
+        "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+        "curriculum": "CBSE",
+        "grade": 6,
+        "subject": "Civics",
+        "chapterNumber": 4,
+        "chapterName": "Panchayati Raj"
       }
     }
   },
@@ -20061,7 +20139,13 @@
             }
           ],
           "answer": "Students should provide a specific example of a task undertaken by the Panchayat, such as road construction or water supply improvement. They should explain why the task was necessary, identify the source of funding (e.g., government grants, local taxes), and state whether the task has been completed."
-        }
+        },
+        "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+        "curriculum": "CBSE",
+        "grade": 6,
+        "subject": "Civics",
+        "chapterNumber": 4,
+        "chapterName": "Panchayati Raj"
       }
     }
   },
@@ -20101,7 +20185,13 @@
             }
           ],
           "answer": "The Gram Sabha is a body consisting of all the registered voters in the village. It is the decision-making assembly that approves the annual budget and audits the accounts of the Gram Panchayat. The Gram Panchayat, on the other hand, is the executive committee elected by the Gram Sabha to implement its decisions and manage the day-to-day affairs of the village."
-        }
+        },
+        "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+        "curriculum": "CBSE",
+        "grade": 6,
+        "subject": "Civics",
+        "chapterNumber": 4,
+        "chapterName": "Panchayati Raj"
       }
     }
   },
@@ -20118,7 +20208,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 4,
         "chapterName": "Panchayati Raj",
         "questions": [
           {
@@ -20199,7 +20289,13 @@
             }
           ],
           "answer": "Watershed development involves the conservation, regeneration, and judicious use of all the resources — natural (land, water, plants, animals) and human within a watershed. Its benefits include improved water availability, increased agricultural productivity, and enhanced biodiversity. By managing water resources effectively, watershed development can lead to sustainable development and improve the quality of life for local communities."
-        }
+        },
+        "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
+        "curriculum": "CBSE",
+        "grade": 6,
+        "subject": "Civics",
+        "chapterNumber": 4,
+        "chapterName": "Panchayati Raj"
       }
     }
   },
@@ -20216,7 +20312,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Rural Administration",
         "questions": [
           {
@@ -20381,7 +20477,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Rural Administration",
         "questions": [
           {
@@ -20430,7 +20526,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "Rural Administration",
         "questions": [
           {
@@ -20519,7 +20615,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "Urban Administration",
         "questions": [
           {
@@ -20755,7 +20851,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "Urban Administration",
         "questions": [
           {
@@ -20889,7 +20985,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "Rural Livelihoods",
         "questions": [
           {
@@ -20982,7 +21078,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "Rural Livelihoods",
         "questions": [
           {
@@ -21044,7 +21140,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "Rural Livelihoods",
         "questions": [
           {
@@ -21182,7 +21278,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "Rural Livelihoods",
         "questions": [
           {
@@ -21286,7 +21382,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Urban Livelihoods",
         "questions": [
           {
@@ -21379,7 +21475,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Urban Livelihoods",
         "questions": [
           {
@@ -21471,7 +21567,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Urban Livelihoods",
         "questions": [
           {
@@ -21546,7 +21642,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Urban Livelihoods",
         "questions": [
           {
@@ -21639,7 +21735,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "Urban Livelihoods",
         "questions": [
           {
@@ -22363,7 +22459,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "How the Dog Found Himself a New Master!",
         "questions": [
           {
@@ -22474,7 +22570,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "How the Dog Found Himself a New Master!",
         "questions": [
           {
@@ -22602,7 +22698,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "How the Dog Found Himself a New Master!",
         "questions": [
           {
@@ -22817,7 +22913,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "How the Dog Found Himself a New Master!",
         "questions": [
           {
@@ -23077,7 +23173,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "How the Dog Found Himself a New Master!",
         "questions": [
           {
@@ -23179,7 +23275,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "How the Dog Found Himself a New Master!",
         "questions": [
           {
@@ -23252,7 +23348,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "How the Dog Found Himself a New Master!",
         "questions": [
           {
@@ -23376,7 +23472,13 @@
             }
           ],
           "answer": "Students should gather materials like color paper, thread, glue, and a bendable stick. They should construct the kite by attaching the paper to the stick framework and securing it with glue. The kite should be able to fly, demonstrating understanding of balance and aerodynamics. Students should work together, showing effective collaboration."
-        }
+        },
+        "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
+        "curriculum": "CBSE",
+        "grade": 6,
+        "subject": "English",
+        "chapterNumber": 2,
+        "chapterName": "How the Dog Found Himself a New Master!"
       }
     }
   },
@@ -23393,7 +23495,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "Taro's Reward",
         "questions": [
           {
@@ -23550,7 +23652,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "Taro's Reward",
         "questions": [
           {
@@ -23738,7 +23840,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "Taro's Reward",
         "questions": [
           {
@@ -23859,7 +23961,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "Taro's Reward",
         "questions": [
           {
@@ -23898,7 +24000,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 4,
         "chapterName": "An Indian – American Woman in Space: Kalpana Chawla",
         "questions": [
           {
@@ -24020,7 +24122,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 4,
         "chapterName": "An Indian – American Woman in Space: Kalpana Chawla",
         "questions": [
           {
@@ -24142,7 +24244,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 4,
         "chapterName": "An Indian – American Woman in Space: Kalpana Chawla",
         "questions": [
           {
@@ -24210,7 +24312,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 4,
         "chapterName": "An Indian – American Woman in Space: Kalpana Chawla",
         "questions": [
           {
@@ -24419,7 +24521,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 4,
         "chapterName": "An Indian – American Woman in Space: Kalpana Chawla",
         "questions": [
           {
@@ -24644,7 +24746,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 4,
         "chapterName": "An Indian – American Woman in Space: Kalpana Chawla",
         "questions": [
           {
@@ -24718,7 +24820,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 4,
         "chapterName": "An Indian – American Woman in Space: Kalpana Chawla",
         "questions": [
           {
@@ -24907,7 +25009,13 @@
             }
           ],
           "answer": "4. But being blind is so frightening. 1. I shall be so glad when today is over. 7. The other bad days can’t be half as bad as this. 3. I don’t think I’ll mind being deaf for a day — at least not much. 2. Having a leg tied up and hopping about on a crutch is almost fun, I guess. 5. Only you must tell me about things. 6. Let’s go for a little walk."
-        }
+        },
+        "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
+        "curriculum": "CBSE",
+        "grade": 6,
+        "subject": "English",
+        "chapterNumber": 5,
+        "chapterName": "A Different Kind of School"
       }
     }
   },
@@ -24924,7 +25032,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "A Different Kind of School",
         "questions": [
           {
@@ -25024,7 +25132,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "A Different Kind of School",
         "questions": [
           {
@@ -25162,7 +25270,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "A Different Kind of School",
         "questions": [
           {
@@ -25237,7 +25345,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "A Different Kind of School",
         "questions": [
           {
@@ -25376,7 +25484,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "Who I Am",
         "questions": [
           {
@@ -25480,7 +25588,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "Who I Am",
         "questions": [
           {
@@ -25646,7 +25754,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "Who I Am",
         "questions": [
           {
@@ -25731,7 +25839,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "Who I Am",
         "questions": [
           {
@@ -25911,7 +26019,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "Fair Play",
         "questions": [
           {
@@ -26116,7 +26224,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "Fair Play",
         "questions": [
           {
@@ -26462,7 +26570,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "Fair Play",
         "questions": [
           {
@@ -26543,7 +26651,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "Fair Play",
         "questions": [
           {
@@ -26674,7 +26782,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "The Banyan Tree",
         "questions": [
           {
@@ -26891,7 +26999,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "The Banyan Tree",
         "questions": [
           {
@@ -27206,7 +27314,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 8,
         "chapterName": "The Banyan Tree",
         "questions": [
           {
@@ -27353,7 +27461,13 @@
             }
           ],
           "answer": "The answer should include a description of a place the student likes or dislikes, activities they do there, personal feelings about the place, and a connection to the theme of the banyan tree in the story."
-        }
+        },
+        "book": "NCERT: Honeysuckle - Textbook in English for Class VI",
+        "curriculum": "CBSE",
+        "grade": 6,
+        "subject": "English",
+        "chapterNumber": 8,
+        "chapterName": "The Banyan Tree"
       }
     }
   },
@@ -27487,7 +27601,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: A Pact with the Sun - Supplementary Reader in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 2,
         "chapterName": "The Friendly Mongoose",
         "questions": [
           {
@@ -27625,7 +27739,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: A Pact with the Sun - Supplementary Reader in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "The Shepherd's Treasure",
         "questions": [
           {
@@ -27763,7 +27877,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: A Pact with the Sun - Supplementary Reader in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 4,
         "chapterName": "Tansen",
         "questions": [
           {
@@ -27943,7 +28057,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: A Pact with the Sun - Supplementary Reader in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 5,
         "chapterName": "The Monkey and the Crocodile",
         "questions": [
           {
@@ -28082,7 +28196,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: A Pact with the Sun - Supplementary Reader in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 6,
         "chapterName": "The Wonder Called Sleep",
         "questions": [
           {
@@ -28235,7 +28349,7 @@
         "subject": "English",
         "grade": 6,
         "book": "NCERT: A Pact with the Sun - Supplementary Reader in English for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 7,
         "chapterName": "A Pact with the Sun",
         "questions": [
           {
@@ -28384,7 +28498,7 @@
         "subject": "Civics",
         "grade": 6,
         "book": "NCERT: SOCIAL AND POLITICAL LIFE – I - Textbook for Class VI",
-        "chapterNumber": 1,
+        "chapterNumber": 3,
         "chapterName": "What is Government?",
         "questions": [
           {

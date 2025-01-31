@@ -335,7 +335,7 @@
                   "maxScore": 1
                 }
               ],
-              "answer": "0, 3, 5, and 7 should be labeled accurately on the number line as per their sequential order."
+              "answer": "number_line_answer.png"
             }
           },
           {
@@ -502,7 +502,7 @@
                   "maxScore": 1
                 }
               ],
-              "answer": "The LCM of 12 and 18 is 36."
+              "answer": "number_table_1_100_answer.png"
             }
           }
         ]
@@ -691,7 +691,7 @@
                   "maxScore": 1
                 }
               ],
-              "answer": "Open curves do not enclose a space and do not meet at the start and end point, while closed curves enclose a space and meet at the start and end point."
+              "answer": "curve_diagram_answer.png"
             }
           },
           {
@@ -862,7 +862,7 @@
                   "maxScore": 1
                 }
               ],
-              "answer": "Acute, Right, Obtuse, Reflex."
+              "answer": "angles_diagram_answer.png"
             }
           }
         ]
@@ -987,7 +987,7 @@
                   "maxScore": 1
                 }
               ],
-              "answer": "The shaded portion represents the fraction 3/4."
+              "answer": "fraction_shaded_diagram_answer.png"
             }
           },
           {
@@ -1188,7 +1188,7 @@
                   "maxScore": 1
                 }
               ],
-              "answer": "Tenths: 0.7, Hundredths: 0.04"
+              "answer": "decimal_grid_answer.png"
             }
           },
           {
@@ -1411,7 +1411,7 @@
                   "maxScore": 1
                 }
               ],
-              "answer": "Labels should include the title, key, and correct representation of data using symbols."
+              "answer": "pictograph_example_answer.png"
             }
           },
           {
@@ -1612,7 +1612,7 @@
                   "maxScore": 1
                 }
               ],
-              "answer": "Label the longer side as length and the shorter side as breadth. Calculate the area using the formula: Area = length × breadth."
+              "answer": "rectangle_diagram_answer.png"
             }
           },
           {
@@ -2564,7 +2564,7 @@
                   "maxScore": 1
                 }
               ],
-              "answer": "Correctly label the parts such as the grain, husk, and wind direction in the winnowing process."
+              "answer": "winnowing_diagram_answer.png"
             }
           },
           {
@@ -2746,7 +2746,7 @@
                   "maxScore": 1
                 }
               ],
-              "answer": "Leaf, Stem, Root"
+              "answer": "plant_diagram_answer.png"
             }
           },
           {
@@ -2969,7 +2969,7 @@
                   "maxScore": 1
                 }
               ],
-              "answer": "Label the parts such as the ball, socket, and surrounding ligaments accurately."
+              "answer": "ball_socket_joint_diagram_answer.png"
             }
           },
           {
@@ -4086,7 +4086,7 @@
                   "maxScore": 1
                 }
               ],
-              "answer": "Labels should include Oxygen, Nitrogen, Carbon Dioxide, and Other Gases."
+              "answer": "composition_of_air_answer.png"
             }
           },
           {
@@ -5285,7 +5285,7 @@
               "question": "Mark and label the major cities of the Mauryan Empire on the map.",
               "diagrams": [
                 {
-                  "url": "india_physical_map.png"
+                  "url": "mauryan_empire_map.png"
                 }
               ],
               "rubrics": [
@@ -5302,7 +5302,7 @@
                   "maxScore": 1
                 }
               ],
-              "answer": "Pataliputra, Taxila, Ujjain"
+              "answer": "mauryan_empire_map_answer.png"
             }
           },
           {
@@ -5623,7 +5623,7 @@
                   "maxScore": 1
                 }
               ],
-              "answer": "Prayaga is located in the northern part of India, Pataliputra is in the eastern region, and Ujjain is in the central-western part of India."
+              "answer": "india_physical_map_answer.png"
             }
           }
         ]
@@ -5915,7 +5915,7 @@
                   "maxScore": 1
                 }
               ],
-              "answer": "Correctly label all planets in the correct order from the sun."
+              "answer": "solar_system_diagram_answer.png"
             }
           },
           {
@@ -6081,7 +6081,7 @@
                   "maxScore": 1
                 }
               ],
-              "answer": "The diagram should include labels for the Equator, Tropic of Cancer, Tropic of Capricorn, Arctic Circle, and Antarctic Circle, as well as the Torrid, Temperate, and Frigid Zones."
+              "answer": "major_latitudes_and_heatzones_diagram_answer.png"
             }
           },
           {
@@ -6295,7 +6295,7 @@
                   "maxScore": 1
                 }
               ],
-              "answer": "The diagram should include labels for the Equator, Tropic of Cancer, Tropic of Capricorn, Arctic Circle, and Antarctic Circle, as well as the Earth's axis tilted at approximately 23.5 degrees."
+              "answer": "earth_inclination_diagram_answer.png"
             }
           },
           {
@@ -6624,7 +6624,7 @@
                   "maxScore": 1
                 }
               ],
-              "answer": "Continents: Asia, Africa, North America, South America, Antarctica, Europe, Australia; Oceans: Pacific Ocean, Atlantic Ocean, Indian Ocean, Southern Ocean, Arctic Ocean."
+              "answer": "world_map_answer.png"
             }
           }
         ]
@@ -6785,7 +6785,7 @@
             "topic": "Political and Administrative Divisions",
             "difficulty": "Medium",
             "content": {
-              "question": "Mark and label Madhya Pradesh, Goa, Assam and Gujarat on the map of India.",
+              "question": "Mark and label Madhya Pradesh, Assam and Gujarat on the map of India.",
               "diagrams": [
                 {
                   "url": "india_political_map.png"
@@ -6793,12 +6793,22 @@
               ],
               "rubrics": [
               {
-                "title": "Accuracy of Labels",
+                "title": "Identifying Madhya Pradesh",
                 "maxScore": 1,
-                "description": "Madhya Pradesh, Goa, Assam, and Gujarat must be accurately marked and labeled on the map."
+                "description": "Madhya Pradesh must be accurately marked and labeled on the map."
+              },
+              {
+                "title": "Identifying Assam",
+                "maxScore": 1,
+                "description": "Assam must be accurately marked and labeled on the map."
+              },
+              {
+                "title": "Identifying Gujarat",
+                "maxScore": 1,
+                "description": "Gujarat must be accurately marked and labeled on the map."
               }
             ],
-            "answer": "Madhya Pradesh, Goa, Assam, and Gujarat must be accurately marked and labeled on the map."
+            "answer": "india_political_map_answer.png"
             }
           },
           {
@@ -10201,7 +10211,7 @@
             "topic": "Representation of Integers on a Number Line",
             "difficulty": "Medium",
             "content": {
-              "question": "Label the integers from -5 to +5 on the number line.",
+              "question": "Label the integers from -4 to +4 on the number line.",
               "diagrams": [
                 {
                   "url": "number_line_with_0.png"
@@ -10221,7 +10231,7 @@
                   "maxScore": 1
                 }
               ],
-              "answer": "Integers labeled from -5 to +5 in order on the number line."
+              "answer": "number_line_with_0_answer.png"
             }
           },
           {
