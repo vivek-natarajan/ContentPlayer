@@ -19605,37 +19605,42 @@
     },
     "document": {
       "worksheet": {
-        "type": "Draw",
-        "topic": "Maps",
-        "difficulty": "Medium",
-        "content": {
-          "question": "Draw a plan of your classroom and show the teacher’s table, blackboard, desks, door and windows.",
-          "rubrics": [
-            {
-              "title": "Inclusion of all required elements",
-              "maxScore": 1
-            },
-            {
-              "title": "Accuracy of placement",
-              "maxScore": 1
-            },
-            {
-              "title": "Proportional representation",
-              "maxScore": 1
-            },
-            {
-              "title": "Use of symbols or labels",
-              "maxScore": 1
-            }
-          ],
-          "answer": "A correctly drawn classroom plan should include all specified elements: teacher’s table, blackboard, desks, door, and windows, accurately placed and proportionally represented with clear labels or symbols."
-        },
+        "worksheetName": "Worksheet",
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
         "curriculum": "CBSE",
         "grade": 6,
         "subject": "Geography",
         "chapterNumber": 4,
-        "chapterName": "Maps"
+        "chapterName": "Maps",
+        "questions": [
+          {
+            "type": "Draw",
+            "topic": "Maps",
+            "difficulty": "Medium",
+            "content": {
+              "question": "Draw a plan of your classroom and show the teacher’s table, blackboard, desks, door and windows.",
+              "rubrics": [
+                {
+                  "title": "Inclusion of all required elements",
+                  "maxScore": 1
+                },
+                {
+                  "title": "Accuracy of placement",
+                  "maxScore": 1
+                },
+                {
+                  "title": "Proportional representation",
+                  "maxScore": 1
+                },
+                {
+                  "title": "Use of symbols or labels",
+                  "maxScore": 1
+                }
+              ],
+              "answer": "A correctly drawn classroom plan should include all specified elements: teacher’s table, blackboard, desks, door, and windows, accurately placed and proportionally represented with clear labels or symbols."
+            }
+          }
+        ]
       }
     }
   },
@@ -19647,41 +19652,45 @@
     },
     "document": {
       "worksheet": {
-        "type": "Draw",
-        "topic": "Maps",
-        "difficulty": "Medium",
-        "content": {
-          "question": "Draw a sketch of your school and locate the following: the principal’s room, your classroom, the playground, the library, some big trees, and drinking water.",
-          "rubrics": [
-            {
-              "title": "Accuracy of Locations",
-              "maxScore": 1
-            },
-            {
-              "title": "Inclusion of All Required Elements",
-              "maxScore": 1
-            },
-            {
-              "title": "Proportional Representation",
-              "maxScore": 1
-            },
-            {
-              "title": "Clarity of Labels",
-              "maxScore": 1
-            },
-            {
-              "title": "Use of Symbols",
-              "maxScore": 1
-            }
-          ],
-          "answer": "A correctly drawn sketch map of the school showing the principal’s room, classroom, playground, library, some big trees, and drinking water, with clear labels and appropriate symbols."
-        },
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
         "curriculum": "CBSE",
         "grade": 6,
         "subject": "Geography",
         "chapterNumber": 4,
-        "chapterName": "Maps"
+        "chapterName": "Maps",
+        "questions": [
+          {
+            "type": "Draw",
+            "topic": "Maps",
+            "difficulty": "Medium",
+            "content": {
+              "question": "Draw a sketch of your school and locate the following: the principal’s room, your classroom, the playground, the library, some big trees, and drinking water.",
+              "rubrics": [
+                {
+                  "title": "Accuracy of Locations",
+                  "maxScore": 1
+                },
+                {
+                  "title": "Inclusion of All Required Elements",
+                  "maxScore": 1
+                },
+                {
+                  "title": "Proportional Representation",
+                  "maxScore": 1
+                },
+                {
+                  "title": "Clarity of Labels",
+                  "maxScore": 1
+                },
+                {
+                  "title": "Use of Symbols",
+                  "maxScore": 1
+                }
+              ],
+              "answer": "A correctly drawn sketch map of the school showing the principal’s room, classroom, playground, library, some big trees, and drinking water, with clear labels and appropriate symbols."
+            }
+          }
+        ]
       }
     }
   },
@@ -19693,46 +19702,50 @@
     },
     "document": {
       "worksheet": {
-        "type": "Draw",
-        "topic": "Maps and Plan Making",
-        "difficulty": "Medium",
-        "content": {
-          "question": "Make the plan of a fun-park where you can enjoy several activities: for example swings, slides, see-saw, merry-go-round, boating, swimming, looking into funny mirrors, etc., or anything else that you can think of.",
-          "rubrics": [
-            {
-              "title": "Inclusion of Required Elements",
-              "maxScore": 1,
-              "description": "The plan includes all specified elements such as swings, slides, see-saw, merry-go-round, boating, swimming, and funny mirrors."
-            },
-            {
-              "title": "Creativity and Originality",
-              "maxScore": 1,
-              "description": "The plan demonstrates creativity and originality in the arrangement and selection of activities."
-            },
-            {
-              "title": "Logical Layout",
-              "maxScore": 1,
-              "description": "The layout of the fun-park is logical and practical, ensuring easy navigation and accessibility."
-            },
-            {
-              "title": "Use of Space",
-              "maxScore": 1,
-              "description": "Effective use of space is demonstrated, with activities well-distributed across the park."
-            },
-            {
-              "title": "Clarity of Presentation",
-              "maxScore": 1,
-              "description": "The plan is clearly presented, with labels and legends where necessary."
-            }
-          ],
-          "answer": "A detailed drawing of a fun-park plan including all specified activities, creatively arranged, with a logical layout and clear presentation."
-        },
         "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
         "curriculum": "CBSE",
         "grade": 6,
         "subject": "Geography",
         "chapterNumber": 4,
-        "chapterName": "Maps"
+        "chapterName": "Maps",
+        "questions": [
+          {
+            "type": "Draw",
+            "topic": "Maps and Plan Making",
+            "difficulty": "Medium",
+            "content": {
+              "question": "Make the plan of a fun-park where you can enjoy several activities: for example swings, slides, see-saw, merry-go-round, boating, swimming, looking into funny mirrors, etc., or anything else that you can think of.",
+              "rubrics": [
+                {
+                  "title": "Inclusion of Required Elements",
+                  "maxScore": 1,
+                  "description": "The plan includes all specified elements such as swings, slides, see-saw, merry-go-round, boating, swimming, and funny mirrors."
+                },
+                {
+                  "title": "Creativity and Originality",
+                  "maxScore": 1,
+                  "description": "The plan demonstrates creativity and originality in the arrangement and selection of activities."
+                },
+                {
+                  "title": "Logical Layout",
+                  "maxScore": 1,
+                  "description": "The layout of the fun-park is logical and practical, ensuring easy navigation and accessibility."
+                },
+                {
+                  "title": "Use of Space",
+                  "maxScore": 1,
+                  "description": "Effective use of space is demonstrated, with activities well-distributed across the park."
+                },
+                {
+                  "title": "Clarity of Presentation",
+                  "maxScore": 1,
+                  "description": "The plan is clearly presented, with labels and legends where necessary."
+                }
+              ],
+              "answer": "A detailed drawing of a fun-park plan including all specified activities, creatively arranged, with a logical layout and clear presentation."
+            }
+          }
+        ]
       }
     }
   },
