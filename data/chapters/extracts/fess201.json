@@ -14,65 +14,22 @@
       "exerciseNumber": "1",
       "title": "Answer the following questions briefly.",
       "content": "1. Answer the following questions briefly.\n\n(a) How does a planet differ from a star?\n\n(b) What is meant by the ‘Solar System’?\n\n(c) Name all the planets according to their distance from the sun.\n\n(d) Why is the Earth called a unique planet?\n\n(e) Why do we see only one side of the moon always?\n\n(f) What is the Universe?",
-      "pages": [
-        "7"
-      ],
+      "pages": ["7"],
       "diagrams": []
     },
     {
       "exerciseNumber": "2",
       "title": "Tick the correct answer.",
-      "content": "2. Tick the correct answer.\n\n(a) The planet known as the “Earth’s Twin” is\n\n(i) Jupiter (ii) Saturn (iii) Venus\n\n(b) Which is the third nearest planet to the sun ?\n\n(i) Venus (ii) Earth (iii) Mercury\n\n(c) All the planets move around the sun in a\n\n(i)  Circular path (ii) Rectangular path (iii) Elongated path\n\n(d) The Pole Star indicates the direction to the\n\n(i)  South (ii) North (iii) East\n\n(e) Asteroids are found between the orbits of\n\n(i) Saturn and Jupiter (ii) Mars and Jupiter (iii) The Earth and Mars",
-      "pages": [
-        "8"
-      ],
+      "content": "2. Tick the correct answer.\n\n(a) The planet known as the “Earth’s Twin” is\n\n(i) Jupiter (ii) Saturn (iii) Venus\n\n(b) Which is the third nearest planet to the sun?\n\n(i) Venus (ii) Earth (iii) Mercury\n\n(c) All the planets move around the sun in a\n\n(i) Circular path (ii) Rectangular path (iii) Elongated path\n\n(d) The Pole Star indicates the direction to the\n\n(i) South (ii) North (iii) East\n\n(e) Asteroids are found between the orbits of\n\n(i) Saturn and Jupiter (ii) Mars and Jupiter (iii) The Earth and Mars",
+      "pages": ["7", "8"],
       "diagrams": []
     },
     {
       "exerciseNumber": "3",
       "title": "Fill in the blanks.",
       "content": "3. Fill in the blanks.\n\n(a) A group of ________ forming various patterns is called a ________.\n\n(b) A huge system of stars is called________.\n\n(c) ________is the closest celestial body to our earth.\n\n(d) ________is the third nearest planet to the sun.\n\n(e) Planets do not have their own________ and ___________________.",
-      "pages": [
-        "8"
-      ],
+      "pages": ["8"],
       "diagrams": []
-    },
-    {
-      "exerciseNumber": "4",
-      "title": "Activities",
-      "content": "1. Prepare a chart of the solar system.\n\n2. During a vacation visit a planetarium and describe your experience in the class.\n\n3. Organise a quiz contest on the earth and the solar system.",
-      "pages": [
-        "8"
-      ],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "5",
-      "title": "Project Work",
-      "content": "1. The sun is commonly known as Soorya or Sooraj in Hindi, Find out its name in different languages of our country. Take help of your friends, teachers and neighbours.\n\n2. You might have heard that people make human chains and run for world peace etc. You can also make a human solar system and run for fun.\n\nStep 1: All children of your class can play this game. Assemble in a big hall or on a playground.\n\nStep 2: Now draw 8 circles on the ground as shown in the figure drawn on the opposite page.\n\nUse a 5-metre long rope. Mark at every half a metre with a chalk or ink. Place a small nail to mark the centre. Now hold one end of the rope at the central position. Ask your friend to hold a chalk at the ½ metre mark and move around the nail holding rope and chalk together on the ground.\n\nYou have drawn one circle just as you do on paper using a compass and a pencil. Draw other circles in the same manner.\n\nStep 3: Prepare 10 placards. Name them as Sun., Moon, Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune.\n\nStep 4: Select 10 children in the following order and give each one of them a placard.\n\nOrder of placard distribution\n\nThe Sun - tallest, The moon - smallest; Mercury, Mars, Venus and Earth (almost equal heights); Neptune, Uranus, Saturn and Jupiter taller than the earlier four planets but smaller than the Sun.\n\nNow ask the children holding placards to take their places with the Sun in the centre in their orbits. Ask the child holding the moon placard to keep the hand of the child holding the earth placard always.\n\nNow your Solar System is almost ready to go into action.\n\nNow make everybody move slowly in the anti-clockwise direction. Your class has turned into a small human replica of the solar system.\n\nWhile moving on your orbit you can also turn around. For everybody the spin should be anti-clock wise except for Venus and Uranus who will make the spin in the clock-wise direction.",
-      "pages": [
-        "9"
-      ],
-      "diagrams": [
-        {
-          "questionNumber": "5",
-          "reference": "Now draw 8 circles on the ground as shown in the figure drawn on the opposite page.",
-          "description": "Figure showing the layout for drawing circles representing orbits.",
-          "labels": [
-            "Sun",
-            "Moon",
-            "Mercury",
-            "Venus",
-            "Earth",
-            "Mars",
-            "Jupiter",
-            "Saturn",
-            "Uranus",
-            "Neptune"
-          ],
-          "location": "9"
-        }
-      ]
     }
   ]
 }
