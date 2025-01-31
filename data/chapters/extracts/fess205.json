@@ -1,4 +1,4 @@
-{
+{{
   "id": "fess205_exercises",
   "metadata": {
     "book": "NCERT: The Earth : Our Habitat - Textbook in Geography for Class VI",
@@ -13,46 +13,29 @@
     {
       "exerciseNumber": "1",
       "title": "Answer the following questions briefly.",
-      "content": "1. Answer the following questions briefly.\n(a) What are the four major domains of the earth?\n(b) Name the major continents of the earth.\n(c) Name the two continents that lie entirely in the Southern Hemisphere.\n(d) Name the different layers of atmosphere.\n(e) Why is the earth called the ‘blue planet’?\n(f) Why is the Northern Hemisphere called the Land Hemisphere?\n(g) Why is the Biosphere important for living organisms?",
-      "pages": [
-        "37"
-      ],
+      "content": "1. Answer the following questions briefly.\n\n(a) What are the four major domains of the earth?\n\n(b) Name the major continents of the earth.\n\n(c) Name the two continents that lie entirely in the Southern Hemisphere.\n\n(d) Name the different layers of atmosphere.\n\n(e) Why is the earth called the ‘blue planet’?\n\n(f) Why is the Northern Hemisphere called the Land Hemisphere?\n\n(g) Why is the Biosphere important for living organisms?",
+      "pages": ["37"],
       "diagrams": []
     },
     {
       "exerciseNumber": "2",
       "title": "Tick the correct answers.",
-      "content": "2. Tick the correct answers.\n(a) The mountain range that separates Europe from Asia is\n(i) the Andes (ii) the Himalayas (iii) the Urals\n(b) The continent of North America is linked to South America by\n(i) an Isthmus (ii) a Strait (iii) a Canal\n(c) The major constituent of atmosphere by per cent is\n(i) Nitrogen (ii) Oxygen (iii) Carbon dioxide\n(d) The domain of the earth consisting of solid rocks is\n(i) the Atmosphere (ii) the Hydrosphere (iii) the Lithosphere\n(e) Which is the largest continent?\n(i) Africa (ii) Asia (iii) Australia",
-      "pages": [
-        "38"
-      ],
+      "content": "2. Tick the correct answers.\n\n(a) The mountain range that separates Europe from Asia is\n\n(i) the Andes (ii) the Himalayas (iii) the Urals\n\n(b) The continent of North America is linked to South America by\n\n(i) an Isthmus (ii) a Strait (iii) a Canal\n\n(c) The major constituent of atmosphere by per cent is\n\n(i) Nitrogen (ii) Oxygen (iii) Carbon dioxide\n\n(d) The domain of the earth consisting of solid rocks is\n\n(i) the Atmosphere (ii) the Hydrosphere (iii) the Lithosphere\n\n(e) Which is the largest continent?\n\n(i) Africa (ii) Asia (iii) Australia",
+      "pages": ["38"],
       "diagrams": []
     },
     {
       "exerciseNumber": "3",
       "title": "Fill in the blanks.",
-      "content": "3. Fill in the blanks.\n(a) The deepest point on the earth is _____________ in the Pacific Ocean.\n(b) The _____________ Ocean is named after a country.\n(c) The _____________ is a narrow contact zone of land, water and air that supports life.\n(d) The continents of Europe and Asia together are known as _____________.\n(e) The highest mountain peak on the earth is _____________.",
-      "pages": [
-        "38"
-      ],
+      "content": "3. Fill in the blanks.\n\n(a) The deepest point on the earth is _____________ in the Pacific Ocean.\n\n(b) The _____________ Ocean is named after a country.\n\n(c) The _____________ is a narrow contact zone of land, water and air that supports life.\n\n(d) The continents of Europe and Asia together are known as _____________.\n\n(e) The highest mountain peak on the earth is _____________.",
+      "pages": ["38"],
       "diagrams": []
     },
     {
       "exerciseNumber": "4",
-      "title": "Activities",
-      "content": "1. Cut the outline of the continents from an outline map of the world and arrange them according to their decreasing sizes.\n2. Cut the outline of the continents from an outline map of the world and try to fit them together as a jig-saw puzzle.\n3. Collect pictures of expeditions to the Himalayas. Write about the kind of equipment carried by the climbers for protection against sunshine, temperature and the lack of air.",
-      "pages": [
-        "38"
-      ],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "5",
       "title": "Map Skills",
-      "content": "1. On the outline map of the world, mark the following:\nEurope, Asia, Antarctica, South America, Australia, Indian Ocean, Pacific Ocean, Atlantic Ocean, Ural Mountains and Isthmus of Panama.",
-      "pages": [
-        "38"
-      ],
+      "content": "4. On the outline map of the world, mark the following:\n\n- Europe\n- Asia\n- Antarctica\n- South America\n- Australia\n- Indian Ocean\n- Pacific Ocean\n- Atlantic Ocean\n- Ural Mountains\n- Isthmus of Panama",
+      "pages": ["38"],
       "diagrams": []
     }
   ]
