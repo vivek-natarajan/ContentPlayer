@@ -13,22 +13,8 @@
     {
       "exerciseNumber": "1",
       "title": "Exercises",
-      "content": "1. **What is the composition of air?**",
-      "pages": ["121"],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "2",
-      "title": "Exercises",
-      "content": "2. **Which gas in the atmosphere is essential for respiration?**",
-      "pages": ["121"],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "3",
-      "title": "Exercises",
-      "content": "3. **How will you prove that air supports burning?**",
-      "pages": ["121"],
+      "content": "1. **What is the composition of air?**\n\n2. **Which gas in the atmosphere is essential for respiration?**\n\n3. **How will you prove that air supports burning?**\n\n4. **How will you show that air is dissolved in water?**\n\n5. **Why does a lump of cotton wool shrink in water?**\n\n6. **The layer of air around the earth is known as ___________.**\n\n7. **The component of air used by green plants to make their food, is ___________.**\n\n8. **List five activities that are possible due to the presence of air.**\n\n9. **How do plants and animals help each other in the exchange of gases in the atmosphere?**",
+      "pages": ["121", "122"],
       "diagrams": [
         {
           "questionNumber": "3",
@@ -39,15 +25,7 @@
             "Glass tumbler"
           ],
           "location": "117"
-        }
-      ]
-    },
-    {
-      "exerciseNumber": "4",
-      "title": "Exercises",
-      "content": "4. **How will you show that air is dissolved in water?**",
-      "pages": ["121"],
-      "diagrams": [
+        },
         {
           "questionNumber": "4",
           "reference": "How will you show that air is dissolved in water?",
@@ -59,41 +37,6 @@
           "location": "119"
         }
       ]
-    },
-    {
-      "exerciseNumber": "5",
-      "title": "Exercises",
-      "content": "5. **Why does a lump of cotton wool shrink in water?**",
-      "pages": ["121"],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "6",
-      "title": "Exercises",
-      "content": "6. **The layer of air around the earth is known as ___________.**",
-      "pages": ["122"],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "7",
-      "title": "Exercises",
-      "content": "7. **The component of air used by green plants to make their food, is ___________.**",
-      "pages": ["122"],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "8",
-      "title": "Exercises",
-      "content": "8. **List five activities that are possible due to the presence of air.**",
-      "pages": ["122"],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "9",
-      "title": "Exercises",
-      "content": "9. **How do plants and animals help each other in the exchange of gases in the atmosphere?**",
-      "pages": ["122"],
-      "diagrams": []
     }
   ]
 }

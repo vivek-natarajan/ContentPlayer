@@ -12,32 +12,10 @@
   "exercises": [
     {
       "exerciseNumber": "1",
-      "title": "Rural Administration Questions",
+      "title": "Questions",
       "content": "1. What is the work of the police?\n\n2. List two things that the work of a Patwari includes.\n\n3. What is the work of a tehsildar?\n\n4. What issue is the poem trying to raise? Do you think this is an important issue? Why?\n\n5. In what ways are the work of the Panchayat, that you read about in the previous chapter, and the work of the Patwari related to each other?\n\n6. Visit a police station and find out the work that the police have to do to prevent crime and maintain law and order in their area especially during festivals, public meetings etc.\n\n7. Who is in charge of all the police stations in a district? Find out.\n\n8. How do women benefit under the new law?\n\n9. In your neighbourhood are there women who own property? How did they acquire it?",
       "pages": ["49"],
       "diagrams": []
-    },
-    {
-      "exerciseNumber": "2",
-      "title": "Khasra Record Exercise",
-      "content": "The Khasra record of the Patwari gives you information regarding the map given below. It identifies which plot of land is owned by whom. Look at both the records and the map and answer the questions given below regarding Mohan and Raghu’s land.\n\n1. Who owns the land south of Mohan’s field?\n2. Mark the common boundary between Mohan’s and Raghu’s lands.\n3. Who can use field no 3?\n4. What information can one get for field no 2 and field no 3?",
-      "pages": ["45"],
-      "diagrams": [
-        {
-          "questionNumber": "1",
-          "reference": "The Khasra record of the Patwari gives you information regarding the map given below.",
-          "description": "A map showing the fields owned by Mohan and Raghu with a Khasra record.",
-          "labels": [
-            "Boundary",
-            "Well",
-            "Grassland",
-            "Kachcha road",
-            "Pakka road",
-            "Tree"
-          ],
-          "location": "45"
-        }
-      ]
     }
   ]
 }

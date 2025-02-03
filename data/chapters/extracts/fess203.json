@@ -12,22 +12,8 @@
   "exercises": [
     {
       "exerciseNumber": "1",
-      "title": "Answer the following questions briefly.",
-      "content": "1. Answer the following questions briefly.\n\n(a) What is the angle of inclination of the earth’s axis with its orbital plane?\n\n(b) Define rotation and revolution.\n\n(c) What is a leap year?\n\n(d) Differentiate between the Summer and Winter Solstice.\n\n(e) What is an equinox?\n\n(f) Why does the Southern Hemisphere experience Winter and Summer Solstice in different times than that of the Northern Hemisphere?\n\n(g) Why do the poles experience about six months day and six months night?",
-      "pages": ["21"],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "2",
-      "title": "Tick the correct answers.",
-      "content": "2. Tick the correct answers.\n\n(a) The movement of the earth around the sun is known as\n\n(i) Rotation (ii) Revolution (iii) Inclination\n\n(b) Direct rays of the sun fall on the equator on\n\n(i) 21 March (ii) 21 June (iii) 22 December\n\n(c) Christmas is celebrated in summer in\n\n(i) Japan (ii) India (iii) Australia\n\n(d) Cycle of the seasons is caused due to\n\n(i) Rotation (ii) Revolution (iii) Gravitation",
-      "pages": ["21"],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "3",
-      "title": "Fill in the blanks.",
-      "content": "3. Fill in the blanks.\n\n(a) A leap year has _______________ number of days.\n\n(b) The daily motion of the earth is _______________.\n\n(c) The earth travels around the sun in ______________ orbit.\n\n(d) The sun’s rays fall vertically on the Tropic of ___________ on 21st June.\n\n(e) Days are shorter during ___________ season.",
+      "title": "Exercises",
+      "content": "1. Answer the following questions briefly.\n\n(a) What is the angle of inclination of the earth’s axis with its orbital plane?\n\n(b) Define rotation and revolution.\n\n(c) What is a leap year?\n\n(d) Differentiate between the Summer and Winter Solstice.\n\n(e) What is an equinox?\n\n(f) Why does the Southern Hemisphere experience Winter and Summer Solstice in different times than that of the Northern Hemisphere?\n\n(g) Why do the poles experience about six months day and six months night?\n\n2. Tick the correct answers.\n\n(a) The movement of the earth around the sun is known as\n\n(i) Rotation (ii) Revolution (iii) Inclination\n\n(b) Direct rays of the sun fall on the equator on\n\n(i) 21 March (ii) 21 June (iii) 22 December\n\n(c) Christmas is celebrated in summer in\n\n(i) Japan (ii) India (iii) Australia\n\n(d) Cycle of the seasons is caused due to\n\n(i) Rotation (ii) Revolution (iii) Gravitation\n\n3. Fill in the blanks.\n\n(a) A leap year has _______________ number of days.\n\n(b) The daily motion of the earth is _______________.\n\n(c) The earth travels around the sun in ______________ orbit.\n\n(d) The sun’s rays fall vertically on the Tropic of ___________ on 21st June.\n\n(e) Days are shorter during ___________ season.",
       "pages": ["21"],
       "diagrams": []
     }

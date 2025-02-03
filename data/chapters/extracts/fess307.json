@@ -12,25 +12,6 @@
   "exercises": [
     {
       "exerciseNumber": "1",
-      "title": "Rural Livelihoods",
-      "content": "1. Describe the work that you see people doing in the above pictures.\n\n2. Identify the different types of work that are related to farming and those that are not. List these in a table.\n\n3. In your notebook draw some pictures of work that you have seen people do in rural areas and write a few sentences that describe the work.",
-      "pages": [
-        "59",
-        "60"
-      ],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "2",
-      "title": "Questions",
-      "content": "1. Why do both Sekar’s and Aruna’s families have to borrow? What similarities and differences do you find?\n\n2. Have you heard of tsunami? What is this and what damage do you think it might have done to the life of fishing families like Aruna’s?",
-      "pages": [
-        "67"
-      ],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "3",
       "title": "Questions",
       "content": "1. You have probably noticed that people in Kalpattu are engaged in a variety of non-farm work. List five of these.\n\n2. List the different types of people you read about in Kalpattu who depend on farming. Who is the poorest among them and why?\n\n3. Imagine you are a member of a fishing family and you are discussing whether to take a loan from the bank for an engine. What would you say?\n\n4. Poor rural labourers like Thulasi often do not have access to good medical facilities, good schools, and other resources. You have read about inequality in the first unit of this text. The difference between her and Ramalingam is one of inequality. Do you think this is a fair situation? What do you think can be done? Discuss in class.\n\n5. What do you think the government can do to help farmers like Sekar when they get into debt? Discuss.\n\n6. Compare the situation of Sekar and Ramalingam by filling out the following table:\n\nSEKAR\n\nLand cultivated\n\nLabour required\n\nLoans required\n\nSelling of harvest\n\nOther work done by them\n\nRAMALINGAM",
       "pages": [
@@ -39,12 +20,44 @@
       "diagrams": []
     },
     {
-      "exerciseNumber": "4",
+      "exerciseNumber": "2",
+      "title": "Introduction Questions",
+      "content": "1. Describe the work that you see people doing in the above pictures.\n\n2. Identify the different types of work that are related to farming and those that are not. List these in a table.\n\n3. In your notebook draw some pictures of work that you have seen people do in rural areas and write a few sentences that describe the work.",
+      "pages": [
+        "60"
+      ],
+      "diagrams": [
+        {
+          "questionNumber": "1",
+          "reference": "Image of people working in a rural area",
+          "description": "Image of people working in a rural area",
+          "labels": [],
+          "location": "60"
+        },
+        {
+          "questionNumber": "2",
+          "reference": "Image of people working in a rural area",
+          "description": "Image of people working in a rural area",
+          "labels": [],
+          "location": "60"
+        }
+      ]
+    },
+    {
+      "exerciseNumber": "3",
       "title": "Thulasi",
       "content": "1. Describe the work that Thulasi does. How is it different from the work Raman does?\n\n2. Thulasi gets paid very little money for the work she does. Why do you think agricultural labourers like her are forced to accept low wages?\n\n3. In what ways would her way of earning a living have been different if Thulasi owned some farm land? Discuss.\n\n4. What are the crops grown in your region or nearby rural area? What kinds of work do agricultural labourers do?",
       "pages": [
-        "62",
-        "63"
+        "62"
+      ],
+      "diagrams": []
+    },
+    {
+      "exerciseNumber": "4",
+      "title": "Aruna and Sekar's Case Study",
+      "content": "1. Why do both Sekar’s and Aruna’s families have to borrow? What similarities and differences do you find?\n\n2. Have you heard of tsunami? What is this and what damage do you think it might have done to the life of fishing families like Aruna’s?",
+      "pages": [
+        "67"
       ],
       "diagrams": []
     }

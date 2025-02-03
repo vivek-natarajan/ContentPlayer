@@ -12,23 +12,9 @@
   "exercises": [
     {
       "exerciseNumber": "1",
-      "title": "Answer the following questions briefly.",
-      "content": "1. Answer the following questions briefly.\n\n(a) How does a planet differ from a star?\n\n(b) What is meant by the ‘Solar System’?\n\n(c) Name all the planets according to their distance from the sun.\n\n(d) Why is the Earth called a unique planet?\n\n(e) Why do we see only one side of the moon always?\n\n(f) What is the Universe?",
-      "pages": ["7"],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "2",
-      "title": "Tick the correct answer.",
-      "content": "2. Tick the correct answer.\n\n(a) The planet known as the “Earth’s Twin” is\n\n(i) Jupiter (ii) Saturn (iii) Venus\n\n(b) Which is the third nearest planet to the sun?\n\n(i) Venus (ii) Earth (iii) Mercury\n\n(c) All the planets move around the sun in a\n\n(i) Circular path (ii) Rectangular path (iii) Elongated path\n\n(d) The Pole Star indicates the direction to the\n\n(i) South (ii) North (iii) East\n\n(e) Asteroids are found between the orbits of\n\n(i) Saturn and Jupiter (ii) Mars and Jupiter (iii) The Earth and Mars",
+      "title": "Exercises",
+      "content": "1. Answer the following questions briefly.\n\n(a) How does a planet differ from a star?\n\n(b) What is meant by the ‘Solar System’?\n\n(c) Name all the planets according to their distance from the sun.\n\n(d) Why is the Earth called a unique planet?\n\n(e) Why do we see only one side of the moon always?\n\n(f) What is the Universe?\n\n2. Tick the correct answer.\n\n(a) The planet known as the “Earth’s Twin” is\n\n(i) Jupiter (ii) Saturn (iii) Venus\n\n(b) Which is the third nearest planet to the sun?\n\n(i) Venus (ii) Earth (iii) Mercury\n\n(c) All the planets move around the sun in a\n\n(i) Circular path (ii) Rectangular path (iii) Elongated path\n\n(d) The Pole Star indicates the direction to the\n\n(i) South (ii) North (iii) East\n\n(e) Asteroids are found between the orbits of\n\n(i) Saturn and Jupiter (ii) Mars and Jupiter (iii) The Earth and Mars\n\n3. Fill in the blanks.\n\n(a) A group of ________ forming various patterns is called a ________.\n\n(b) A huge system of stars is called________.\n\n(c) ________is the closest celestial body to our earth.\n\n(d) ________is the third nearest planet to the sun.\n\n(e) Planets do not have their own________ and ___________________.",
       "pages": ["7", "8"],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "3",
-      "title": "Fill in the blanks.",
-      "content": "3. Fill in the blanks.\n\n(a) A group of ________ forming various patterns is called a ________.\n\n(b) A huge system of stars is called________.\n\n(c) ________is the closest celestial body to our earth.\n\n(d) ________is the third nearest planet to the sun.\n\n(e) Planets do not have their own________ and ___________________.",
-      "pages": ["8"],
       "diagrams": []
     }
   ]

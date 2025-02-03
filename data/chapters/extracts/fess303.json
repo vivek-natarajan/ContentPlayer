@@ -12,36 +12,8 @@
   "exercises": [
     {
       "exerciseNumber": "1",
-      "title": "What is Government?",
-      "content": "What do you understand by the word ‘government’? List five ways in which you think the government affects your daily life.",
-      "pages": ["33"],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "2",
-      "title": "Importance of Laws",
-      "content": "Why do you think the government needs to make rules for everyone in the form of laws?",
-      "pages": ["33"],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "3",
-      "title": "Democratic Government Features",
-      "content": "Name two essential features of a democratic government.",
-      "pages": ["33"],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "4",
-      "title": "The Suffrage Movement",
-      "content": "What was the suffrage movement? What did it accomplish?",
-      "pages": ["33"],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "5",
-      "title": "Gandhiji’s Views on Voting Rights",
-      "content": "Gandhiji strongly believed that every adult in India should be given the right to vote. However, a few people don’t share his views. They feel that illiterate people, who are mainly poor, should not be given the right to vote. What do you think? Do you think this would be a form of discrimination? Give five points to support your view and share these with the class.",
+      "title": "Questions",
+      "content": "1. What do you understand by the word ‘government’? List five ways in which you think the government affects your daily life.\n2. Why do you think the government needs to make rules for everyone in the form of laws?\n3. Name two essential features of a democratic government.\n4. What was the suffrage movement? What did it accomplish?\n5. Gandhiji strongly believed that every adult in India should be given the right to vote. However, a few people don’t share his views. They feel that illiterate people, who are mainly poor, should not be given the right to vote. What do you think? Do you think this would be a form of discrimination? Give five points to support your view and share these with the class.",
       "pages": ["33"],
       "diagrams": []
     }

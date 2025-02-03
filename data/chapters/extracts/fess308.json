@@ -12,15 +12,62 @@
   "exercises": [
     {
       "exerciseNumber": "1",
-      "title": "Urban Livelihoods",
+      "title": "Questions",
+      "content": "1. Read and discuss the following description of the living conditions of workers who come to the labour chowk. Most workers that we find at the labour chowk cannot afford permanent accommodation and so sleep on pavements near the chowk, or they pay Rs 6 a night for a bed at a nearby night shelter run by the Municipal Corporation. To compensate for the lack of security, local tea and cigarette shops function as banks, moneylenders and safety lockers, all rolled into one. Most workers leave their tools at these shops for the night for safekeeping, and pass on any extra money to them. The shopkeepers keep the money safely and also offer loans to labourers in need.\n\n2. Complete the following table and discuss how their work is different:\n\n3. In what ways is a permanent and regular job different from a casual job? Discuss.\n\n4. What benefits does Sudha get along with her salary?\n\n5. Fill in the following table to show the services provided by people in the markets which you visit frequently.",
+      "pages": [
+        "77",
+        "78"
+      ],
+      "diagrams": [
+        {
+          "questionNumber": "2",
+          "reference": "Table showing work of workers and their living conditions with missing values",
+          "description": "Table showing work of workers and their living conditions with missing values",
+          "labels": [],
+          "location": "78"
+        },
+        {
+          "questionNumber": "5",
+          "reference": "Empty table showing the services provided by people in the markets",
+          "description": "Empty table showing the services provided by people in the markets",
+          "labels": [],
+          "location": "78"
+        }
+      ]
+    },
+    {
+      "exerciseNumber": "2",
+      "title": "Introduction Questions",
       "content": "1. What do you see in this illustration?\n\n2. You have already read about the work that people do in rural areas. Now compare the work that people in this illustration are doing with the work that people do in rural areas.\n\n3. Some parts of the city are different from others. What differences do you notice in this illustration?",
       "pages": [
         "69"
       ],
-      "diagrams": []
+      "diagrams": [
+        {
+          "questionNumber": "1",
+          "reference": "Illustration showing work of people in the city",
+          "description": "Illustration showing work of people in the city",
+          "labels": [],
+          "location": "69"
+        },
+        {
+          "questionNumber": "2",
+          "reference": "Illustration showing work of people in the city",
+          "description": "Illustration showing work of people in the city",
+          "labels": [],
+          "location": "69"
+        },
+        {
+          "questionNumber": "3",
+          "reference": "Illustration showing work of people in the city",
+          "description": "Illustration showing work of people in the city",
+          "labels": [],
+          "location": "69"
+        }
+      ]
     },
     {
-      "exerciseNumber": "2",
+      "exerciseNumber": "3",
       "title": "Working on the Street",
       "content": "1. Why did Bachchu Manjhi come to the city?\n\n2. Why can’t Bachchu Manjhi live with his family?\n\n3. Talk to a vegetable vendor or hawker and find out how do they organise their work, their way of preparing, purchasing, selling etc.\n\n4. Bachchu Manjhi has to think twice before taking a day off from work. Why?",
       "pages": [
@@ -29,7 +76,7 @@
       "diagrams": []
     },
     {
-      "exerciseNumber": "3",
+      "exerciseNumber": "4",
       "title": "In the Market",
       "content": "1. Why did Harpreet and Vandana start a showroom? What do they have to do to run the showroom?\n\n2. Talk to a shop owner in a market and find out how he plans his work. Have there been any changes in his business in the past twenty years?\n\n3. What are the differences between those who sell on the street and those in the market?",
       "pages": [
@@ -38,21 +85,12 @@
       "diagrams": []
     },
     {
-      "exerciseNumber": "4",
+      "exerciseNumber": "5",
       "title": "In the Factory-Workshop Area",
       "content": "1. Why do you think small workshops and factories employ casual workers?\n\n2. Describe the working conditions of people like Nirmala keeping in mind the following: working hours, conditions in the workplace, earnings, and the days of work available.\n\n3. Would you say that domestic workers like housemaids are also casual workers? Why? Describe the workday of one such woman detailing the work she does in other peoples’ houses.",
       "pages": [
         "75",
         "76"
-      ],
-      "diagrams": []
-    },
-    {
-      "exerciseNumber": "5",
-      "title": "In the Office Area",
-      "content": "1. Complete the following table and discuss how their work is different:\n\n2. In what ways is a permanent and regular job different from a casual job? Discuss.\n\n3. What benefits does Sudha get along with her salary?\n\n4. Fill in the following table to show the services provided by people in the markets which you visit frequently.",
-      "pages": [
-        "78"
       ],
       "diagrams": []
     }
